@@ -1,4 +1,4 @@
-import ProCard from '@ant-design/pro-card';
+import ProCard from '@bicitech-design/pro-card';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';
 import { waitForComponentToPaint } from '../util';

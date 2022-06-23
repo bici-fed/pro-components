@@ -1,4 +1,4 @@
-import ProTable from '@ant-design/pro-table';
+import ProTable from '@bicitech-design/pro-table';
 import { render } from '@testing-library/react';
 import type { FormInstance } from 'antd';
 import { Input } from 'antd';

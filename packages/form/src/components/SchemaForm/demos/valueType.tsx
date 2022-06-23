@@ -1,5 +1,5 @@
-﻿import type { ProFieldValueType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProFormSelect } from '@ant-design/pro-components';
+﻿import type { ProFieldValueType } from '@bicitech-design/pro-components';
+import { BetaSchemaForm, ProFormSelect } from '@bicitech-design/pro-components';
 import { useState } from 'react';
 
 const valueEnum = {

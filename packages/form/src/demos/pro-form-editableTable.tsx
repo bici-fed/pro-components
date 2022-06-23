@@ -1,5 +1,5 @@
-import type { ProColumns } from '@ant-design/pro-components';
-import { EditableProTable, ProForm, ProFormText } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { EditableProTable, ProForm, ProFormText } from '@bicitech-design/pro-components';
 import { Input, message } from 'antd';
 import React, { useState } from 'react';
 

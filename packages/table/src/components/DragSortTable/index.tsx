@@ -1,5 +1,5 @@
 import { MenuOutlined } from '@ant-design/icons';
-import type { ParamsType } from '@ant-design/pro-provider';
+import type { ParamsType } from '@bicitech-design/pro-provider';
 import { ConfigProvider } from 'antd';
 import React, { useCallback, useContext, useMemo, useRef } from 'react';
 import { SortableHandle } from 'react-sortable-hoc';

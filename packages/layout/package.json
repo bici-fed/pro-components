@@ -1,7 +1,7 @@
 {
-  "name": "@ant-design/pro-layout",
+  "name": "@bicitech-design/pro-layout",
   "version": "6.38.9",
-  "description": "@ant-design/pro-layout",
+  "description": "@bicitech-design/pro-layout",
   "keywords": [
     "antd",
     "admin",
@@ -34,9 +34,9 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^4.0.0",
-    "@ant-design/pro-provider": "1.8.0",
-    "@ant-design/pro-utils": "1.42.2",
     "@babel/runtime": "^7.18.0",
+    "@bicitech-design/pro-provider": "1.8.0",
+    "@bicitech-design/pro-utils": "1.42.2",
     "@umijs/route-utils": "^2.1.0",
     "@umijs/ssr-darkreader": "^4.9.44",
     "@umijs/use-params": "^1.0.9",

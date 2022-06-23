@@ -5,7 +5,7 @@
   ProFormDateTimePicker,
   ProFormDateTimeRangePicker,
   ProFormTimePicker,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 
 export default () => {
   return (

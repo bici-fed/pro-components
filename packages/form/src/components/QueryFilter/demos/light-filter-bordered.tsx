@@ -6,7 +6,7 @@ import {
   ProFormRadio,
   ProFormSelect,
   ProFormTreeSelect,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { TreeSelect } from 'antd';
 
 const treeData = [

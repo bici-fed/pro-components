@@ -3,7 +3,7 @@ import type {
   ProFieldFCMode,
   ProFieldFCRenderProps,
   ProRenderFieldPropsType,
-} from '@ant-design/pro-provider';
+} from '@bicitech-design/pro-provider';
 import { arrayMoveImmutable } from './array-move';
 import DropdownFooter from './components/DropdownFooter';
 import ErrorBoundary from './components/ErrorBoundary';

@@ -1,5 +1,5 @@
 import { RightOutlined } from '@ant-design/icons';
-import { LabelIconTip, useMountMergeState } from '@ant-design/pro-utils';
+import { LabelIconTip, useMountMergeState } from '@bicitech-design/pro-utils';
 import { ConfigProvider, Space } from 'antd';
 import classNames from 'classnames';
 import React, { useCallback, useContext, useMemo } from 'react';

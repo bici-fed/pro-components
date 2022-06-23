@@ -1,5 +1,5 @@
-import ProProvider from '@ant-design/pro-provider';
-import ProTable from '@ant-design/pro-table';
+import ProProvider from '@bicitech-design/pro-provider';
+import ProTable from '@bicitech-design/pro-table';
 import { Input } from 'antd';
 import { mount } from 'enzyme';
 import { useContext } from 'react';

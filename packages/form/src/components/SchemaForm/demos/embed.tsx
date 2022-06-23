@@ -1,5 +1,10 @@
-﻿import type { ProFormColumnsType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProForm, ProFormSelect, ProFormText } from '@ant-design/pro-components';
+﻿import type { ProFormColumnsType } from '@bicitech-design/pro-components';
+import {
+  BetaSchemaForm,
+  ProForm,
+  ProFormSelect,
+  ProFormText,
+} from '@bicitech-design/pro-components';
 
 const valueEnum = {
   all: { text: '全部', status: 'Default' },

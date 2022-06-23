@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel, parseValueToMoment } from '@ant-design/pro-utils';
+import { useIntl } from '@bicitech-design/pro-provider';
+import { FieldLabel, parseValueToMoment } from '@bicitech-design/pro-utils';
 import type { DatePickerProps } from 'antd';
 import { ConfigProvider, DatePicker } from 'antd';
 import moment from 'moment';

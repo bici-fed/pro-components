@@ -1,4 +1,4 @@
-import { StatisticCard } from '@ant-design/pro-components';
+import { StatisticCard } from '@bicitech-design/pro-components';
 
 const { Statistic } = StatisticCard;
 

@@ -1,6 +1,6 @@
 import { PlusOutlined } from '@ant-design/icons';
-import type { ActionType, ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ActionType, ProColumns } from '@bicitech-design/pro-components';
+import { ProTable } from '@bicitech-design/pro-components';
 import { Button, ConfigProvider, Select, Space } from 'antd';
 import caESIntl from 'antd/lib/locale/ca_ES';
 import enGBIntl from 'antd/lib/locale/en_GB';

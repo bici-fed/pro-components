@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design/pro-field",
+  "name": "@bicitech-design/pro-field",
   "version": "1.34.17",
   "description": "原子信息组件，统一 ProForm、ProTable、ProList、Filter 等组件里面的字段定义。",
   "homepage": "https://github.com/ant-design/pro-components/tree/master/packages/plugin-layout#readme",
@@ -29,9 +29,9 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
-    "@ant-design/pro-provider": "1.8.0",
-    "@ant-design/pro-utils": "1.42.2",
     "@babel/runtime": "^7.18.0",
+    "@bicitech-design/pro-provider": "1.8.0",
+    "@bicitech-design/pro-utils": "1.42.2",
     "@chenshuai2144/sketch-color": "^1.0.8",
     "classnames": "^2.2.6",
     "lodash.tonumber": "^4.0.3",

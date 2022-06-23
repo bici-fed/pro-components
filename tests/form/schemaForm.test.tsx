@@ -1,5 +1,5 @@
-﻿import type { ProFormColumnsType, ProFormLayoutType } from '@ant-design/pro-form';
-import { BetaSchemaForm } from '@ant-design/pro-form';
+﻿import type { ProFormColumnsType, ProFormLayoutType } from '@bicitech-design/pro-form';
+import { BetaSchemaForm } from '@bicitech-design/pro-form';
 import type { FormInstance } from 'antd';
 import { Input } from 'antd';
 import { mount } from 'enzyme';

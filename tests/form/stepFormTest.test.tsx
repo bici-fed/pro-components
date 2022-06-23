@@ -1,5 +1,5 @@
-﻿import type { StepsFormProps } from '@ant-design/pro-form';
-import { ProFormText, StepsForm } from '@ant-design/pro-form';
+﻿import type { StepsFormProps } from '@bicitech-design/pro-form';
+import { ProFormText, StepsForm } from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
 import { Button } from 'antd';

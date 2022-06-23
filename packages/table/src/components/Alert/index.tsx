@@ -1,5 +1,5 @@
-import type { IntlType } from '@ant-design/pro-provider';
-import { useIntl } from '@ant-design/pro-provider';
+import type { IntlType } from '@bicitech-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import { Alert, ConfigProvider, Space } from 'antd';
 import React, { useContext } from 'react';
 import './index.less';

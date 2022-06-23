@@ -1,7 +1,7 @@
 import './index.less';
 import { ProForm } from './layouts';
 
-export { ProFormContext } from '@ant-design/pro-utils';
+export { ProFormContext } from '@bicitech-design/pro-utils';
 export type {
   FormInstance,
   FormItemProps,

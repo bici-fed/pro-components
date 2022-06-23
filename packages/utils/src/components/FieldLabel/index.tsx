@@ -1,5 +1,5 @@
 import { CloseOutlined, DownOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import { ConfigProvider } from 'antd';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import classNames from 'classnames';

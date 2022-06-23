@@ -1,5 +1,5 @@
-import type { ProColumns, ProFormInstance } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ProColumns, ProFormInstance } from '@bicitech-design/pro-components';
+import { ProTable } from '@bicitech-design/pro-components';
 import { Button } from 'antd';
 import { useRef, useState } from 'react';
 

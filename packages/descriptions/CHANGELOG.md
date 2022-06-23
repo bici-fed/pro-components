@@ -2,33 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.11.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.5...@ant-design/pro-descriptions@1.11.6) (2022-06-16)
+## [1.11.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.5...@bicitech-design/pro-descriptions@1.11.6) (2022-06-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.11.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.4...@ant-design/pro-descriptions@1.11.5) (2022-06-02)
+## [1.11.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.4...@bicitech-design/pro-descriptions@1.11.5) (2022-06-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.11.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.3...@ant-design/pro-descriptions@1.11.4) (2022-06-02)
+## [1.11.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.3...@bicitech-design/pro-descriptions@1.11.4) (2022-06-02)
 
 ### Bug Fixes
 
 - [#5273](https://github.com/ant-design/pro-components/issues/5273) for all components ([#5314](https://github.com/ant-design/pro-components/issues/5314)) ([d25e87c](https://github.com/ant-design/pro-components/commit/d25e87c68db8e3c8d120ffc4cc7cd95e33ce6c24))
 
-## [1.11.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.2...@ant-design/pro-descriptions@1.11.3) (2022-05-27)
+## [1.11.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.2...@bicitech-design/pro-descriptions@1.11.3) (2022-05-27)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.11.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.1...@ant-design/pro-descriptions@1.11.2) (2022-05-26)
+## [1.11.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.1...@bicitech-design/pro-descriptions@1.11.2) (2022-05-26)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.11.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.11.0...@ant-design/pro-descriptions@1.11.1) (2022-05-20)
+## [1.11.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.11.0...@bicitech-design/pro-descriptions@1.11.1) (2022-05-20)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.11.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.74...@ant-design/pro-descriptions@1.11.0) (2022-05-20)
+# [1.11.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.74...@bicitech-design/pro-descriptions@1.11.0) (2022-05-20)
 
 ### Bug Fixes
 
@@ -36,523 +36,523 @@ All notable changes to this project will be documented in this file. See [Conven
 
 ### Features
 
-- **components:** add @ant-design/pro-component ([#5258](https://github.com/ant-design/pro-components/issues/5258)) ([a524391](https://github.com/ant-design/pro-components/commit/a524391aca28b09265097bcbf555fd1261e1e757))
+- **components:** add @bicitech-design/pro-component ([#5258](https://github.com/ant-design/pro-components/issues/5258)) ([a524391](https://github.com/ant-design/pro-components/commit/a524391aca28b09265097bcbf555fd1261e1e757))
 
-## [1.10.74](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.73...@ant-design/pro-descriptions@1.10.74) (2022-05-16)
+## [1.10.74](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.73...@bicitech-design/pro-descriptions@1.10.74) (2022-05-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.73](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.72...@ant-design/pro-descriptions@1.10.73) (2022-05-12)
+## [1.10.73](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.72...@bicitech-design/pro-descriptions@1.10.73) (2022-05-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.72](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.71...@ant-design/pro-descriptions@1.10.72) (2022-05-12)
+## [1.10.72](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.71...@bicitech-design/pro-descriptions@1.10.72) (2022-05-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.71](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.70...@ant-design/pro-descriptions@1.10.71) (2022-05-09)
+## [1.10.71](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.70...@bicitech-design/pro-descriptions@1.10.71) (2022-05-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.70](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.68...@ant-design/pro-descriptions@1.10.70) (2022-05-07)
+## [1.10.70](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.68...@bicitech-design/pro-descriptions@1.10.70) (2022-05-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.69](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.68...@ant-design/pro-descriptions@1.10.69) (2022-04-29)
+## [1.10.69](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.68...@bicitech-design/pro-descriptions@1.10.69) (2022-04-29)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.68](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.67...@ant-design/pro-descriptions@1.10.68) (2022-04-24)
+## [1.10.68](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.67...@bicitech-design/pro-descriptions@1.10.68) (2022-04-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.67](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.66...@ant-design/pro-descriptions@1.10.67) (2022-04-18)
+## [1.10.67](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.66...@bicitech-design/pro-descriptions@1.10.67) (2022-04-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.66](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.65...@ant-design/pro-descriptions@1.10.66) (2022-04-14)
+## [1.10.66](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.65...@bicitech-design/pro-descriptions@1.10.66) (2022-04-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.65](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.64...@ant-design/pro-descriptions@1.10.65) (2022-04-13)
+## [1.10.65](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.64...@bicitech-design/pro-descriptions@1.10.65) (2022-04-13)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.64](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.63...@ant-design/pro-descriptions@1.10.64) (2022-04-12)
+## [1.10.64](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.63...@bicitech-design/pro-descriptions@1.10.64) (2022-04-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.63](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.62...@ant-design/pro-descriptions@1.10.63) (2022-04-08)
+## [1.10.63](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.62...@bicitech-design/pro-descriptions@1.10.63) (2022-04-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.62](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.61...@ant-design/pro-descriptions@1.10.62) (2022-04-07)
+## [1.10.62](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.61...@bicitech-design/pro-descriptions@1.10.62) (2022-04-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.61](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.60...@ant-design/pro-descriptions@1.10.61) (2022-04-06)
+## [1.10.61](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.60...@bicitech-design/pro-descriptions@1.10.61) (2022-04-06)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.60](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.59...@ant-design/pro-descriptions@1.10.60) (2022-03-28)
+## [1.10.60](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.59...@bicitech-design/pro-descriptions@1.10.60) (2022-03-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.59](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.58...@ant-design/pro-descriptions@1.10.59) (2022-03-25)
+## [1.10.59](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.58...@bicitech-design/pro-descriptions@1.10.59) (2022-03-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.58](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.57...@ant-design/pro-descriptions@1.10.58) (2022-03-22)
+## [1.10.58](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.57...@bicitech-design/pro-descriptions@1.10.58) (2022-03-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.57](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.56...@ant-design/pro-descriptions@1.10.57) (2022-03-18)
+## [1.10.57](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.56...@bicitech-design/pro-descriptions@1.10.57) (2022-03-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.56](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.55...@ant-design/pro-descriptions@1.10.56) (2022-03-16)
+## [1.10.56](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.55...@bicitech-design/pro-descriptions@1.10.56) (2022-03-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.55](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.54...@ant-design/pro-descriptions@1.10.55) (2022-03-16)
+## [1.10.55](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.54...@bicitech-design/pro-descriptions@1.10.55) (2022-03-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.54](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.53...@ant-design/pro-descriptions@1.10.54) (2022-03-15)
+## [1.10.54](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.53...@bicitech-design/pro-descriptions@1.10.54) (2022-03-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.53](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.52...@ant-design/pro-descriptions@1.10.53) (2022-03-14)
+## [1.10.53](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.52...@bicitech-design/pro-descriptions@1.10.53) (2022-03-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.52](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.51...@ant-design/pro-descriptions@1.10.52) (2022-03-08)
+## [1.10.52](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.51...@bicitech-design/pro-descriptions@1.10.52) (2022-03-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.51](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.50...@ant-design/pro-descriptions@1.10.51) (2022-03-07)
+## [1.10.51](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.50...@bicitech-design/pro-descriptions@1.10.51) (2022-03-07)
 
 ### Bug Fixes
 
 - **form:** FormList add no set key warning ([b677fef](https://github.com/ant-design/pro-components/commit/b677fef0f3b63448b1c29f0a167eef019b4522ed))
 
-## [1.10.50](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.49...@ant-design/pro-descriptions@1.10.50) (2022-03-07)
+## [1.10.50](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.49...@bicitech-design/pro-descriptions@1.10.50) (2022-03-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.49](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.48...@ant-design/pro-descriptions@1.10.49) (2022-03-04)
+## [1.10.49](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.48...@bicitech-design/pro-descriptions@1.10.49) (2022-03-04)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.48](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.46...@ant-design/pro-descriptions@1.10.48) (2022-03-04)
+## [1.10.48](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.46...@bicitech-design/pro-descriptions@1.10.48) (2022-03-04)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.47](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.46...@ant-design/pro-descriptions@1.10.47) (2022-03-02)
+## [1.10.47](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.46...@bicitech-design/pro-descriptions@1.10.47) (2022-03-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.46](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.45...@ant-design/pro-descriptions@1.10.46) (2022-02-24)
+## [1.10.46](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.45...@bicitech-design/pro-descriptions@1.10.46) (2022-02-24)
 
 ### Bug Fixes
 
 - **descriptions:** fix descriptions copy dom error ([#4695](https://github.com/ant-design/pro-components/issues/4695)) ([2f832bb](https://github.com/ant-design/pro-components/commit/2f832bb114c6f8cb2a3f43b4b5f73c565dcc681d))
 
-## [1.10.45](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.44...@ant-design/pro-descriptions@1.10.45) (2022-02-21)
+## [1.10.45](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.44...@bicitech-design/pro-descriptions@1.10.45) (2022-02-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.44](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.43...@ant-design/pro-descriptions@1.10.44) (2022-02-18)
+## [1.10.44](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.43...@bicitech-design/pro-descriptions@1.10.44) (2022-02-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.43](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.42...@ant-design/pro-descriptions@1.10.43) (2022-02-15)
+## [1.10.43](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.42...@bicitech-design/pro-descriptions@1.10.43) (2022-02-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.42](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.41...@ant-design/pro-descriptions@1.10.42) (2022-02-14)
+## [1.10.42](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.41...@bicitech-design/pro-descriptions@1.10.42) (2022-02-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.41](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.40...@ant-design/pro-descriptions@1.10.41) (2022-02-14)
+## [1.10.41](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.40...@bicitech-design/pro-descriptions@1.10.41) (2022-02-14)
 
 ### Bug Fixes
 
 - **descriptions:** 修复当 dataIndex 设置为 keypath 数组时 ProDescriptions 更新异常问题 ([#4615](https://github.com/ant-design/pro-components/issues/4615)) ([b45b2f5](https://github.com/ant-design/pro-components/commit/b45b2f5cb21226b45742223c9756083437cd6455))
 
-## [1.10.40](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.39...@ant-design/pro-descriptions@1.10.40) (2022-02-11)
+## [1.10.40](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.39...@bicitech-design/pro-descriptions@1.10.40) (2022-02-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.39](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.38...@ant-design/pro-descriptions@1.10.39) (2022-02-10)
+## [1.10.39](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.38...@bicitech-design/pro-descriptions@1.10.39) (2022-02-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.38](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.37...@ant-design/pro-descriptions@1.10.38) (2022-02-10)
+## [1.10.38](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.37...@bicitech-design/pro-descriptions@1.10.38) (2022-02-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.37](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.36...@ant-design/pro-descriptions@1.10.37) (2022-02-08)
+## [1.10.37](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.36...@bicitech-design/pro-descriptions@1.10.37) (2022-02-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.36](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.35...@ant-design/pro-descriptions@1.10.36) (2022-01-25)
+## [1.10.36](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.35...@bicitech-design/pro-descriptions@1.10.36) (2022-01-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.35](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.34...@ant-design/pro-descriptions@1.10.35) (2022-01-21)
+## [1.10.35](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.34...@bicitech-design/pro-descriptions@1.10.35) (2022-01-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.34](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.33...@ant-design/pro-descriptions@1.10.34) (2022-01-18)
+## [1.10.34](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.33...@bicitech-design/pro-descriptions@1.10.34) (2022-01-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.33](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.32...@ant-design/pro-descriptions@1.10.33) (2022-01-17)
+## [1.10.33](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.32...@bicitech-design/pro-descriptions@1.10.33) (2022-01-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.32](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.31...@ant-design/pro-descriptions@1.10.32) (2022-01-12)
+## [1.10.32](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.31...@bicitech-design/pro-descriptions@1.10.32) (2022-01-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.31](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.30...@ant-design/pro-descriptions@1.10.31) (2022-01-11)
+## [1.10.31](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.30...@bicitech-design/pro-descriptions@1.10.31) (2022-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.30](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.29...@ant-design/pro-descriptions@1.10.30) (2022-01-11)
+## [1.10.30](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.29...@bicitech-design/pro-descriptions@1.10.30) (2022-01-11)
 
 ### Bug Fixes
 
 - antd themes less file path ([#4436](https://github.com/ant-design/pro-components/issues/4436)) ([a6b66b4](https://github.com/ant-design/pro-components/commit/a6b66b4968e78a9c8175d17d2fe5a922cf70630f))
 
-## [1.10.29](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.28...@ant-design/pro-descriptions@1.10.29) (2022-01-07)
+## [1.10.29](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.28...@bicitech-design/pro-descriptions@1.10.29) (2022-01-07)
 
 ### Bug Fixes
 
 - **descriptions:** fix descriptions if is null ([28df05e](https://github.com/ant-design/pro-components/commit/28df05e12d3e534f1c118547a1b0a793c40d85c1))
 
-## [1.10.28](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.27...@ant-design/pro-descriptions@1.10.28) (2022-01-05)
+## [1.10.28](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.27...@bicitech-design/pro-descriptions@1.10.28) (2022-01-05)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.27](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.26...@ant-design/pro-descriptions@1.10.27) (2021-12-28)
+## [1.10.27](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.26...@bicitech-design/pro-descriptions@1.10.27) (2021-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.26](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.25...@ant-design/pro-descriptions@1.10.26) (2021-12-28)
+## [1.10.26](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.25...@bicitech-design/pro-descriptions@1.10.26) (2021-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.25](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.24...@ant-design/pro-descriptions@1.10.25) (2021-12-24)
+## [1.10.25](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.24...@bicitech-design/pro-descriptions@1.10.25) (2021-12-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.24](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.23...@ant-design/pro-descriptions@1.10.24) (2021-12-23)
+## [1.10.24](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.23...@bicitech-design/pro-descriptions@1.10.24) (2021-12-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.23](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.22...@ant-design/pro-descriptions@1.10.23) (2021-12-22)
+## [1.10.23](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.22...@bicitech-design/pro-descriptions@1.10.23) (2021-12-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.22](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.21...@ant-design/pro-descriptions@1.10.22) (2021-12-22)
+## [1.10.22](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.21...@bicitech-design/pro-descriptions@1.10.22) (2021-12-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.21](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.20...@ant-design/pro-descriptions@1.10.21) (2021-12-22)
+## [1.10.21](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.20...@bicitech-design/pro-descriptions@1.10.21) (2021-12-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.20](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.19...@ant-design/pro-descriptions@1.10.20) (2021-12-20)
+## [1.10.20](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.19...@bicitech-design/pro-descriptions@1.10.20) (2021-12-20)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.19](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.18...@ant-design/pro-descriptions@1.10.19) (2021-12-20)
+## [1.10.19](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.18...@bicitech-design/pro-descriptions@1.10.19) (2021-12-20)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.18](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.17...@ant-design/pro-descriptions@1.10.18) (2021-12-20)
+## [1.10.18](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.17...@bicitech-design/pro-descriptions@1.10.18) (2021-12-20)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.17](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.16...@ant-design/pro-descriptions@1.10.17) (2021-12-17)
+## [1.10.17](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.16...@bicitech-design/pro-descriptions@1.10.17) (2021-12-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.16](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.13...@ant-design/pro-descriptions@1.10.16) (2021-12-13)
+## [1.10.16](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.13...@bicitech-design/pro-descriptions@1.10.16) (2021-12-13)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.12...@ant-design/pro-descriptions@1.10.13) (2021-12-10)
+## [1.10.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.12...@bicitech-design/pro-descriptions@1.10.13) (2021-12-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.11...@ant-design/pro-descriptions@1.10.12) (2021-12-10)
+## [1.10.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.11...@bicitech-design/pro-descriptions@1.10.12) (2021-12-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.10...@ant-design/pro-descriptions@1.10.11) (2021-12-09)
+## [1.10.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.10...@bicitech-design/pro-descriptions@1.10.11) (2021-12-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.9...@ant-design/pro-descriptions@1.10.10) (2021-12-08)
+## [1.10.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.9...@bicitech-design/pro-descriptions@1.10.10) (2021-12-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.8...@ant-design/pro-descriptions@1.10.9) (2021-12-07)
+## [1.10.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.8...@bicitech-design/pro-descriptions@1.10.9) (2021-12-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.7...@ant-design/pro-descriptions@1.10.8) (2021-12-01)
+## [1.10.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.7...@bicitech-design/pro-descriptions@1.10.8) (2021-12-01)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.6...@ant-design/pro-descriptions@1.10.7) (2021-12-01)
+## [1.10.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.6...@bicitech-design/pro-descriptions@1.10.7) (2021-12-01)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.5...@ant-design/pro-descriptions@1.10.6) (2021-11-30)
+## [1.10.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.5...@bicitech-design/pro-descriptions@1.10.6) (2021-11-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.4...@ant-design/pro-descriptions@1.10.5) (2021-11-23)
+## [1.10.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.4...@bicitech-design/pro-descriptions@1.10.5) (2021-11-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.3...@ant-design/pro-descriptions@1.10.4) (2021-11-23)
+## [1.10.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.3...@bicitech-design/pro-descriptions@1.10.4) (2021-11-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.2...@ant-design/pro-descriptions@1.10.3) (2021-11-22)
+## [1.10.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.2...@bicitech-design/pro-descriptions@1.10.3) (2021-11-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.10.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.1...@ant-design/pro-descriptions@1.10.2) (2021-11-18)
+## [1.10.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.1...@bicitech-design/pro-descriptions@1.10.2) (2021-11-18)
 
 ### Bug Fixes
 
 - **descriptions:** unuse protable ([#4062](https://github.com/ant-design/pro-components/issues/4062)) ([04d6a6c](https://github.com/ant-design/pro-components/commit/04d6a6c94aaf1597ec5bbdb9135fdacbdca9640a))
 - **table:** fix table validateFields no work error ([#4058](https://github.com/ant-design/pro-components/issues/4058)) ([0291e08](https://github.com/ant-design/pro-components/commit/0291e085a17d57d654b698695e9a2c31915a07e0))
 
-## [1.10.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.10.0...@ant-design/pro-descriptions@1.10.1) (2021-11-16)
+## [1.10.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.10.0...@bicitech-design/pro-descriptions@1.10.1) (2021-11-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.10.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.30...@ant-design/pro-descriptions@1.10.0) (2021-11-15)
+# [1.10.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.30...@bicitech-design/pro-descriptions@1.10.0) (2021-11-15)
 
 ### Features
 
 - **form:** support antd next ([#4038](https://github.com/ant-design/pro-components/issues/4038)) ([96a64c3](https://github.com/ant-design/pro-components/commit/96a64c35d0fc6a359a4ff3d36b96f510f4580c63)), closes [#3770](https://github.com/ant-design/pro-components/issues/3770) [#3863](https://github.com/ant-design/pro-components/issues/3863)
 
-## [1.9.30](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.29...@ant-design/pro-descriptions@1.9.30) (2021-11-12)
+## [1.9.30](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.29...@bicitech-design/pro-descriptions@1.9.30) (2021-11-12)
 
 ### Bug Fixes
 
 - **form:** fix proform.item no support QueryFilter error ([#4011](https://github.com/ant-design/pro-components/issues/4011)) ([5eff600](https://github.com/ant-design/pro-components/commit/5eff600f580d99452f9e1a84b7c36c315e55804f))
 
-## [1.9.29](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.28...@ant-design/pro-descriptions@1.9.29) (2021-11-08)
+## [1.9.29](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.28...@bicitech-design/pro-descriptions@1.9.29) (2021-11-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.28](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.27...@ant-design/pro-descriptions@1.9.28) (2021-11-02)
+## [1.9.28](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.27...@bicitech-design/pro-descriptions@1.9.28) (2021-11-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.27](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.26...@ant-design/pro-descriptions@1.9.27) (2021-10-27)
+## [1.9.27](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.26...@bicitech-design/pro-descriptions@1.9.27) (2021-10-27)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.26](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.25...@ant-design/pro-descriptions@1.9.26) (2021-10-26)
+## [1.9.26](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.25...@bicitech-design/pro-descriptions@1.9.26) (2021-10-26)
 
 ### Bug Fixes
 
 - **descriptions:** fix descriptions item set style error ([#3860](https://github.com/ant-design/pro-components/issues/3860)) ([27659b3](https://github.com/ant-design/pro-components/commit/27659b3b81d3eba3e8241ca4e05c0caed8464e1a))
 
-## [1.9.25](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.24...@ant-design/pro-descriptions@1.9.25) (2021-10-19)
+## [1.9.25](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.24...@bicitech-design/pro-descriptions@1.9.25) (2021-10-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.24](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.23...@ant-design/pro-descriptions@1.9.24) (2021-10-18)
+## [1.9.24](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.23...@bicitech-design/pro-descriptions@1.9.24) (2021-10-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.23](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.22...@ant-design/pro-descriptions@1.9.23) (2021-10-15)
+## [1.9.23](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.22...@bicitech-design/pro-descriptions@1.9.23) (2021-10-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.22](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.21...@ant-design/pro-descriptions@1.9.22) (2021-10-12)
+## [1.9.22](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.21...@bicitech-design/pro-descriptions@1.9.22) (2021-10-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.21](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.20...@ant-design/pro-descriptions@1.9.21) (2021-10-08)
+## [1.9.21](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.20...@bicitech-design/pro-descriptions@1.9.21) (2021-10-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.20](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.19...@ant-design/pro-descriptions@1.9.20) (2021-10-08)
+## [1.9.20](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.19...@bicitech-design/pro-descriptions@1.9.20) (2021-10-08)
 
 ### Bug Fixes
 
 - **field:** timePicker 组件用 moment 解析时间不填入 format 是会直接 Invalid date ([#3745](https://github.com/ant-design/pro-components/issues/3745)) ([31fc899](https://github.com/ant-design/pro-components/commit/31fc8993aa5486281c76691df41ddb80d827074a))
 
-## [1.9.19](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.18...@ant-design/pro-descriptions@1.9.19) (2021-09-26)
+## [1.9.19](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.18...@bicitech-design/pro-descriptions@1.9.19) (2021-09-26)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.18](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.17...@ant-design/pro-descriptions@1.9.18) (2021-09-24)
+## [1.9.18](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.17...@bicitech-design/pro-descriptions@1.9.18) (2021-09-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.17](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.16...@ant-design/pro-descriptions@1.9.17) (2021-09-18)
+## [1.9.17](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.16...@bicitech-design/pro-descriptions@1.9.17) (2021-09-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.16](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.15...@ant-design/pro-descriptions@1.9.16) (2021-09-18)
+## [1.9.16](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.15...@bicitech-design/pro-descriptions@1.9.16) (2021-09-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.15](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.14...@ant-design/pro-descriptions@1.9.15) (2021-09-17)
+## [1.9.15](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.14...@bicitech-design/pro-descriptions@1.9.15) (2021-09-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.14](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.13...@ant-design/pro-descriptions@1.9.14) (2021-09-16)
+## [1.9.14](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.13...@bicitech-design/pro-descriptions@1.9.14) (2021-09-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.12...@ant-design/pro-descriptions@1.9.13) (2021-09-10)
+## [1.9.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.12...@bicitech-design/pro-descriptions@1.9.13) (2021-09-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.11...@ant-design/pro-descriptions@1.9.12) (2021-09-09)
+## [1.9.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.11...@bicitech-design/pro-descriptions@1.9.12) (2021-09-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.10...@ant-design/pro-descriptions@1.9.11) (2021-09-07)
+## [1.9.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.10...@bicitech-design/pro-descriptions@1.9.11) (2021-09-07)
 
 ### Bug Fixes
 
 - **form:** if valueType need request, note need request ([#3575](https://github.com/ant-design/pro-components/issues/3575)) ([41bb815](https://github.com/ant-design/pro-components/commit/41bb81540408659256da329fe0eb02e5c1583ea5))
 
-## [1.9.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.9...@ant-design/pro-descriptions@1.9.10) (2021-08-30)
+## [1.9.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.9...@bicitech-design/pro-descriptions@1.9.10) (2021-08-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.8...@ant-design/pro-descriptions@1.9.9) (2021-08-30)
+## [1.9.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.8...@bicitech-design/pro-descriptions@1.9.9) (2021-08-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.7...@ant-design/pro-descriptions@1.9.8) (2021-08-26)
+## [1.9.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.7...@bicitech-design/pro-descriptions@1.9.8) (2021-08-26)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.6...@ant-design/pro-descriptions@1.9.7) (2021-08-24)
+## [1.9.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.6...@bicitech-design/pro-descriptions@1.9.7) (2021-08-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.5...@ant-design/pro-descriptions@1.9.6) (2021-08-19)
+## [1.9.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.5...@bicitech-design/pro-descriptions@1.9.6) (2021-08-19)
 
 ### Bug Fixes
 
 - **descriptions:** RequestData 类型优化 ([#3448](https://github.com/ant-design/pro-components/issues/3448)) ([d4253e0](https://github.com/ant-design/pro-components/commit/d4253e0efb330e06157f9739c638fe56722ad9eb))
 
-## [1.9.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.4...@ant-design/pro-descriptions@1.9.5) (2021-08-09)
+## [1.9.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.4...@bicitech-design/pro-descriptions@1.9.5) (2021-08-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.3...@ant-design/pro-descriptions@1.9.4) (2021-08-05)
+## [1.9.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.3...@bicitech-design/pro-descriptions@1.9.4) (2021-08-05)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.2...@ant-design/pro-descriptions@1.9.3) (2021-08-03)
+## [1.9.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.2...@bicitech-design/pro-descriptions@1.9.3) (2021-08-03)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.1...@ant-design/pro-descriptions@1.9.2) (2021-07-30)
+## [1.9.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.1...@bicitech-design/pro-descriptions@1.9.2) (2021-07-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.9.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.9.0...@ant-design/pro-descriptions@1.9.1) (2021-07-30)
+## [1.9.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.9.0...@bicitech-design/pro-descriptions@1.9.1) (2021-07-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.9.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.9...@ant-design/pro-descriptions@1.9.0) (2021-07-26)
+# [1.9.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.9...@bicitech-design/pro-descriptions@1.9.0) (2021-07-26)
 
 ### Features
 
 - **table:** support children column add function ([#3273](https://github.com/ant-design/pro-components/issues/3273)) ([2396e03](https://github.com/ant-design/pro-components/commit/2396e031d771ae818445d386e573898708b64f07))
 
-## [1.8.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.8...@ant-design/pro-descriptions@1.8.9) (2021-07-20)
+## [1.8.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.8...@bicitech-design/pro-descriptions@1.8.9) (2021-07-20)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.7...@ant-design/pro-descriptions@1.8.8) (2021-07-19)
+## [1.8.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.7...@bicitech-design/pro-descriptions@1.8.8) (2021-07-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.6...@ant-design/pro-descriptions@1.8.7) (2021-07-06)
+## [1.8.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.6...@bicitech-design/pro-descriptions@1.8.7) (2021-07-06)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.5...@ant-design/pro-descriptions@1.8.6) (2021-07-01)
+## [1.8.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.5...@bicitech-design/pro-descriptions@1.8.6) (2021-07-01)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.4...@ant-design/pro-descriptions@1.8.5) (2021-06-28)
+## [1.8.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.4...@bicitech-design/pro-descriptions@1.8.5) (2021-06-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.3...@ant-design/pro-descriptions@1.8.4) (2021-06-23)
+## [1.8.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.3...@bicitech-design/pro-descriptions@1.8.4) (2021-06-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.2...@ant-design/pro-descriptions@1.8.3) (2021-06-17)
+## [1.8.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.2...@bicitech-design/pro-descriptions@1.8.3) (2021-06-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.8.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.1...@ant-design/pro-descriptions@1.8.2) (2021-06-15)
+## [1.8.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.1...@bicitech-design/pro-descriptions@1.8.2) (2021-06-15)
 
 ### Bug Fixes
 
 - **descriptions:** fix descriptions fomart error ([#3015](https://github.com/ant-design/pro-components/issues/3015)) ([beb6ce2](https://github.com/ant-design/pro-components/commit/beb6ce2881f94862663051bf597c4a035646729a))
 
-## [1.8.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.8.0...@ant-design/pro-descriptions@1.8.1) (2021-06-09)
+## [1.8.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.8.0...@bicitech-design/pro-descriptions@1.8.1) (2021-06-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.8.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.15...@ant-design/pro-descriptions@1.8.0) (2021-06-08)
+# [1.8.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.15...@bicitech-design/pro-descriptions@1.8.0) (2021-06-08)
 
 ### Features
 
 - **form:** support more tooltip props ([#2932](https://github.com/ant-design/pro-components/issues/2932)) ([bedd7eb](https://github.com/ant-design/pro-components/commit/bedd7ebb0784da8fbb9c4998651f39f5efff5354))
 - **table:** onsave support origin data and no merge record ([#2949](https://github.com/ant-design/pro-components/issues/2949)) ([8c9d021](https://github.com/ant-design/pro-components/commit/8c9d0218c2d8927bae4fb0bad9a911a3b905d580))
 
-## [1.7.15](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.14...@ant-design/pro-descriptions@1.7.15) (2021-05-31)
+## [1.7.15](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.14...@bicitech-design/pro-descriptions@1.7.15) (2021-05-31)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.14](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.13...@ant-design/pro-descriptions@1.7.14) (2021-05-28)
+## [1.7.14](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.13...@bicitech-design/pro-descriptions@1.7.14) (2021-05-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.12...@ant-design/pro-descriptions@1.7.13) (2021-05-25)
+## [1.7.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.12...@bicitech-design/pro-descriptions@1.7.13) (2021-05-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.11...@ant-design/pro-descriptions@1.7.12) (2021-05-24)
+## [1.7.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.11...@bicitech-design/pro-descriptions@1.7.12) (2021-05-24)
 
 ### Bug Fixes
 
 - **descriptions:** Fix the problem of remounting every time you refresh ([#2815](https://github.com/ant-design/pro-components/issues/2815)) ([78df6fa](https://github.com/ant-design/pro-components/commit/78df6faadce48f07aafaa4d319fdca43b32ec2d1))
 
-## [1.7.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.10...@ant-design/pro-descriptions@1.7.11) (2021-05-23)
+## [1.7.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.10...@bicitech-design/pro-descriptions@1.7.11) (2021-05-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.9...@ant-design/pro-descriptions@1.7.10) (2021-05-21)
+## [1.7.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.9...@bicitech-design/pro-descriptions@1.7.10) (2021-05-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.8...@ant-design/pro-descriptions@1.7.9) (2021-05-18)
+## [1.7.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.8...@bicitech-design/pro-descriptions@1.7.9) (2021-05-18)
 
 ### Bug Fixes
 
@@ -561,106 +561,106 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support fieldProps.format ([#2735](https://github.com/ant-design/pro-components/issues/2735)) ([13bebc6](https://github.com/ant-design/pro-components/commit/13bebc6181e4d6a9b54ca1e8d443c927e0d5559d))
 - **table:** tabs and menu add keys ([#2733](https://github.com/ant-design/pro-components/issues/2733)) ([310bc90](https://github.com/ant-design/pro-components/commit/310bc90b62e74a643bb50e7207185c388997c318))
 
-## [1.7.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.7...@ant-design/pro-descriptions@1.7.8) (2021-05-11)
+## [1.7.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.7...@bicitech-design/pro-descriptions@1.7.8) (2021-05-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.6...@ant-design/pro-descriptions@1.7.7) (2021-04-29)
+## [1.7.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.6...@bicitech-design/pro-descriptions@1.7.7) (2021-04-29)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.5...@ant-design/pro-descriptions@1.7.6) (2021-04-29)
+## [1.7.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.5...@bicitech-design/pro-descriptions@1.7.6) (2021-04-29)
 
 ### Bug Fixes
 
 - **form:** switch add default props ([#2629](https://github.com/ant-design/pro-components/issues/2629)) ([7d6ce1f](https://github.com/ant-design/pro-components/commit/7d6ce1f60584d79ae25a157dca0db2e8e1dbb7da))
 
-## [1.7.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.4...@ant-design/pro-descriptions@1.7.5) (2021-04-22)
+## [1.7.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.4...@bicitech-design/pro-descriptions@1.7.5) (2021-04-22)
 
 ### Bug Fixes
 
 - **form:** support moneySymbol=undefined ([#2579](https://github.com/ant-design/pro-components/issues/2579)) ([029482d](https://github.com/ant-design/pro-components/commit/029482d557c8de3cb761af59560aa5e7a9166082))
 
-## [1.7.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.3...@ant-design/pro-descriptions@1.7.4) (2021-04-19)
+## [1.7.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.3...@bicitech-design/pro-descriptions@1.7.4) (2021-04-19)
 
 ### Bug Fixes
 
 - **form:** fix moneySymbol no work error ([#2539](https://github.com/ant-design/pro-components/issues/2539)) ([a0bd582](https://github.com/ant-design/pro-components/commit/a0bd5821f00f61af8265a5ae6d1fc53f8d2ec8c5))
 
-## [1.7.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.2...@ant-design/pro-descriptions@1.7.3) (2021-04-19)
+## [1.7.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.2...@bicitech-design/pro-descriptions@1.7.3) (2021-04-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.1...@ant-design/pro-descriptions@1.7.2) (2021-04-19)
+## [1.7.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.1...@bicitech-design/pro-descriptions@1.7.2) (2021-04-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.7.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.7.0...@ant-design/pro-descriptions@1.7.1) (2021-04-15)
+## [1.7.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.7.0...@bicitech-design/pro-descriptions@1.7.1) (2021-04-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.7.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.12...@ant-design/pro-descriptions@1.7.0) (2021-04-15)
+# [1.7.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.12...@bicitech-design/pro-descriptions@1.7.0) (2021-04-15)
 
 ### Features
 
 - **form:** support SchemaForm ([#2040](https://github.com/ant-design/pro-components/issues/2040)) ([423f476](https://github.com/ant-design/pro-components/commit/423f4761eecde5a62c4a8476441aa0484ff94711))
 
-## [1.6.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.11...@ant-design/pro-descriptions@1.6.12) (2021-04-06)
+## [1.6.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.11...@bicitech-design/pro-descriptions@1.6.12) (2021-04-06)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.10...@ant-design/pro-descriptions@1.6.11) (2021-03-31)
+## [1.6.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.10...@bicitech-design/pro-descriptions@1.6.11) (2021-03-31)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.9...@ant-design/pro-descriptions@1.6.10) (2021-03-29)
+## [1.6.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.9...@bicitech-design/pro-descriptions@1.6.10) (2021-03-29)
 
 ### Bug Fixes
 
 - **descriptions:** if label is null, no render lable ([#2292](https://github.com/ant-design/pro-components/issues/2292)) ([989f26f](https://github.com/ant-design/pro-components/commit/989f26f24552800824959772cba7e4dcfc5e6c2b))
 
-## [1.6.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.8...@ant-design/pro-descriptions@1.6.9) (2021-03-18)
+## [1.6.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.8...@bicitech-design/pro-descriptions@1.6.9) (2021-03-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.7...@ant-design/pro-descriptions@1.6.8) (2021-03-17)
+## [1.6.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.7...@bicitech-design/pro-descriptions@1.6.8) (2021-03-17)
 
 ### Bug Fixes
 
 - ProCard do not export self as sub component ([#2214](https://github.com/ant-design/pro-components/issues/2214)) ([bed96d1](https://github.com/ant-design/pro-components/commit/bed96d1569b21b82e46608522ac356b635692dde))
 
-## [1.6.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.6...@ant-design/pro-descriptions@1.6.7) (2021-03-16)
+## [1.6.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.6...@bicitech-design/pro-descriptions@1.6.7) (2021-03-16)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.5...@ant-design/pro-descriptions@1.6.6) (2021-03-11)
+## [1.6.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.5...@bicitech-design/pro-descriptions@1.6.6) (2021-03-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.4...@ant-design/pro-descriptions@1.6.5) (2021-03-11)
+## [1.6.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.4...@bicitech-design/pro-descriptions@1.6.5) (2021-03-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.3...@ant-design/pro-descriptions@1.6.4) (2021-03-08)
+## [1.6.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.3...@bicitech-design/pro-descriptions@1.6.4) (2021-03-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.2...@ant-design/pro-descriptions@1.6.3) (2021-02-28)
+## [1.6.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.2...@bicitech-design/pro-descriptions@1.6.3) (2021-02-28)
 
 ### Bug Fixes
 
 - **description:** description support editableUtils ([#2035](https://github.com/ant-design/pro-components/issues/2035)) ([8de3e23](https://github.com/ant-design/pro-components/commit/8de3e23954ab4da1637962d5efc3d887cff3d5ce))
 - **descriptions:** fix descriptions edit will throw error ([533031e](https://github.com/ant-design/pro-components/commit/533031e50c87bd5be830cfa7ac079a1ffdb34424))
 
-## [1.6.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.1...@ant-design/pro-descriptions@1.6.2) (2021-02-25)
+## [1.6.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.1...@bicitech-design/pro-descriptions@1.6.2) (2021-02-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.6.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.6.0...@ant-design/pro-descriptions@1.6.1) (2021-02-23)
+## [1.6.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.6.0...@bicitech-design/pro-descriptions@1.6.1) (2021-02-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.6.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.5.1...@ant-design/pro-descriptions@1.6.0) (2021-02-22)
+# [1.6.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.5.1...@bicitech-design/pro-descriptions@1.6.0) (2021-02-22)
 
 ### Bug Fixes
 
@@ -670,327 +670,327 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **table:** editable support form config ([#1879](https://github.com/ant-design/pro-components/issues/1879)) ([2fd7dff](https://github.com/ant-design/pro-components/commit/2fd7dff2c163fc9f5cd7f98739130ba4f7b4a9ee))
 
-## [1.5.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.5.0...@ant-design/pro-descriptions@1.5.1) (2021-02-04)
+## [1.5.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.5.0...@bicitech-design/pro-descriptions@1.5.1) (2021-02-04)
 
 ### Bug Fixes
 
 - **table:** fix editabletable initialValue alaway rewirte ([#1834](https://github.com/ant-design/pro-components/issues/1834)) ([b86b7e8](https://github.com/ant-design/pro-components/commit/b86b7e8a2f1bbb018863ef9a50bac8e82ce9a8f8))
 
-# [1.5.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.12...@ant-design/pro-descriptions@1.5.0) (2021-02-02)
+# [1.5.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.12...@bicitech-design/pro-descriptions@1.5.0) (2021-02-02)
 
 ### Features
 
 - **descriptions:** descriptions Columns support order ([#1763](https://github.com/ant-design/pro-components/issues/1763)) ([b004d9d](https://github.com/ant-design/pro-components/commit/b004d9d41fde2e0a75bcbe23e2ffcf8f70f837cb))
 
-## [1.4.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.11...@ant-design/pro-descriptions@1.4.12) (2021-01-25)
+## [1.4.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.11...@bicitech-design/pro-descriptions@1.4.12) (2021-01-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.10...@ant-design/pro-descriptions@1.4.11) (2021-01-21)
+## [1.4.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.10...@bicitech-design/pro-descriptions@1.4.11) (2021-01-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.9...@ant-design/pro-descriptions@1.4.10) (2021-01-21)
+## [1.4.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.9...@bicitech-design/pro-descriptions@1.4.10) (2021-01-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.8...@ant-design/pro-descriptions@1.4.9) (2021-01-18)
+## [1.4.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.8...@bicitech-design/pro-descriptions@1.4.9) (2021-01-18)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.7...@ant-design/pro-descriptions@1.4.8) (2021-01-18)
+## [1.4.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.7...@bicitech-design/pro-descriptions@1.4.8) (2021-01-18)
 
 ### Bug Fixes
 
 - **descriptions:** fix items=null throw error ([#1659](https://github.com/ant-design/pro-components/issues/1659)) ([5f2f845](https://github.com/ant-design/pro-components/commit/5f2f8457b60ea5700e597a839e1c3db8819dbbd5))
 
-## [1.4.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.6...@ant-design/pro-descriptions@1.4.7) (2021-01-13)
+## [1.4.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.6...@bicitech-design/pro-descriptions@1.4.7) (2021-01-13)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.5...@ant-design/pro-descriptions@1.4.6) (2021-01-12)
+## [1.4.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.5...@bicitech-design/pro-descriptions@1.4.6) (2021-01-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.4...@ant-design/pro-descriptions@1.4.5) (2021-01-11)
+## [1.4.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.4...@bicitech-design/pro-descriptions@1.4.5) (2021-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.3...@ant-design/pro-descriptions@1.4.4) (2021-01-11)
+## [1.4.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.3...@bicitech-design/pro-descriptions@1.4.4) (2021-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.2...@ant-design/pro-descriptions@1.4.3) (2021-01-08)
+## [1.4.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.2...@bicitech-design/pro-descriptions@1.4.3) (2021-01-08)
 
 ### Bug Fixes
 
 - **descriptions:** support ErrorBoundary ([#1541](https://github.com/ant-design/pro-components/issues/1541)) ([15a1601](https://github.com/ant-design/pro-components/commit/15a1601e2f553ab97aae8133f8b6b924698b42ff))
 
-## [1.4.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.1...@ant-design/pro-descriptions@1.4.2) (2021-01-07)
+## [1.4.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.1...@bicitech-design/pro-descriptions@1.4.2) (2021-01-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.4.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.4.0...@ant-design/pro-descriptions@1.4.1) (2021-01-06)
+## [1.4.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.4.0...@bicitech-design/pro-descriptions@1.4.1) (2021-01-06)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.4.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.3.3...@ant-design/pro-descriptions@1.4.0) (2021-01-05)
+# [1.4.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.3.3...@bicitech-design/pro-descriptions@1.4.0) (2021-01-05)
 
 ### Features
 
 - **field:** text use CompositionInput ([#1499](https://github.com/ant-design/pro-components/issues/1499)) ([4f26efb](https://github.com/ant-design/pro-components/commit/4f26efb81a7592868e6e863ca6fbb59cb6918016))
 
-## [1.3.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.3.2...@ant-design/pro-descriptions@1.3.3) (2021-01-05)
+## [1.3.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.3.2...@bicitech-design/pro-descriptions@1.3.3) (2021-01-05)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.3.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.3.1...@ant-design/pro-descriptions@1.3.2) (2021-01-04)
+## [1.3.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.3.1...@bicitech-design/pro-descriptions@1.3.2) (2021-01-04)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.3.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.3.0...@ant-design/pro-descriptions@1.3.1) (2021-01-02)
+## [1.3.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.3.0...@bicitech-design/pro-descriptions@1.3.1) (2021-01-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.3.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.7...@ant-design/pro-descriptions@1.3.0) (2021-01-01)
+# [1.3.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.7...@bicitech-design/pro-descriptions@1.3.0) (2021-01-01)
 
 ### Features
 
 - **table:** support customization valueType ([#1456](https://github.com/ant-design/pro-components/issues/1456)) ([cbce5ba](https://github.com/ant-design/pro-components/commit/cbce5baf9ae456a1ab32a748e7ac86ee592b4344))
 
-## [1.2.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.6...@ant-design/pro-descriptions@1.2.7) (2020-12-31)
+## [1.2.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.6...@bicitech-design/pro-descriptions@1.2.7) (2020-12-31)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.5...@ant-design/pro-descriptions@1.2.6) (2020-12-31)
+## [1.2.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.5...@bicitech-design/pro-descriptions@1.2.6) (2020-12-31)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.4...@ant-design/pro-descriptions@1.2.5) (2020-12-28)
+## [1.2.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.4...@bicitech-design/pro-descriptions@1.2.5) (2020-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.3...@ant-design/pro-descriptions@1.2.4) (2020-12-28)
+## [1.2.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.3...@bicitech-design/pro-descriptions@1.2.4) (2020-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.2...@ant-design/pro-descriptions@1.2.3) (2020-12-28)
+## [1.2.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.2...@bicitech-design/pro-descriptions@1.2.3) (2020-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.1...@ant-design/pro-descriptions@1.2.2) (2020-12-25)
+## [1.2.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.1...@bicitech-design/pro-descriptions@1.2.2) (2020-12-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.2.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.2.0...@ant-design/pro-descriptions@1.2.1) (2020-12-24)
+## [1.2.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.2.0...@bicitech-design/pro-descriptions@1.2.1) (2020-12-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.2.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.1.2...@ant-design/pro-descriptions@1.2.0) (2020-12-21)
+# [1.2.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.1.2...@bicitech-design/pro-descriptions@1.2.0) (2020-12-21)
 
 ### Features
 
 - **descriptions:** descriptions support loading and onLoadinChange ([#1344](https://github.com/ant-design/pro-components/issues/1344)) ([b5afe9e](https://github.com/ant-design/pro-components/commit/b5afe9e6fd9dc1b06ef0e76b63aa6c7ab05bc3eb))
 
-## [1.1.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.1.1...@ant-design/pro-descriptions@1.1.2) (2020-12-15)
+## [1.1.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.1.1...@bicitech-design/pro-descriptions@1.1.2) (2020-12-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.1.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.1.0...@ant-design/pro-descriptions@1.1.1) (2020-12-14)
+## [1.1.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.1.0...@bicitech-design/pro-descriptions@1.1.1) (2020-12-14)
 
 ### Bug Fixes
 
 - **descriptions:** fix value and onChange no work error ([#1297](https://github.com/ant-design/pro-components/issues/1297)) ([18c0488](https://github.com/ant-design/pro-components/commit/18c04884e1731cc0ee199062bd6486a5722ecc57))
 
-# [1.1.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.45...@ant-design/pro-descriptions@1.1.0) (2020-12-14)
+# [1.1.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.45...@bicitech-design/pro-descriptions@1.1.0) (2020-12-14)
 
 ### Features
 
 - **desciption:** support editable ([#1273](https://github.com/ant-design/pro-components/issues/1273)) ([bc8821b](https://github.com/ant-design/pro-components/commit/bc8821bce05faadaa7d9337ae2287131c41791e0))
 - **table:** EditableTable support max length ([#1286](https://github.com/ant-design/pro-components/issues/1286)) ([dac9844](https://github.com/ant-design/pro-components/commit/dac9844e42ed19d5a539b6b0eae42ea35d6f958d))
 
-## [1.0.45](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.44...@ant-design/pro-descriptions@1.0.45) (2020-12-09)
+## [1.0.45](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.44...@bicitech-design/pro-descriptions@1.0.45) (2020-12-09)
 
 ### Bug Fixes
 
 - **table:** remove unuse code ([#1243](https://github.com/ant-design/pro-components/issues/1243)) ([922496c](https://github.com/ant-design/pro-components/commit/922496cf7dafeb024a8c2cb742c9c4d60f6970eb))
 
-## [1.0.44](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.43...@ant-design/pro-descriptions@1.0.44) (2020-12-08)
+## [1.0.44](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.43...@bicitech-design/pro-descriptions@1.0.44) (2020-12-08)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.43](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.42...@ant-design/pro-descriptions@1.0.43) (2020-12-07)
+## [1.0.43](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.42...@bicitech-design/pro-descriptions@1.0.43) (2020-12-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.42](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.41...@ant-design/pro-descriptions@1.0.42) (2020-12-04)
+## [1.0.42](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.41...@bicitech-design/pro-descriptions@1.0.42) (2020-12-04)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.41](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.40...@ant-design/pro-descriptions@1.0.41) (2020-12-03)
+## [1.0.41](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.40...@bicitech-design/pro-descriptions@1.0.41) (2020-12-03)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.40](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.39...@ant-design/pro-descriptions@1.0.40) (2020-12-03)
+## [1.0.40](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.39...@bicitech-design/pro-descriptions@1.0.40) (2020-12-03)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.39](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.38...@ant-design/pro-descriptions@1.0.39) (2020-12-02)
+## [1.0.39](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.38...@bicitech-design/pro-descriptions@1.0.39) (2020-12-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.38](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.37...@ant-design/pro-descriptions@1.0.38) (2020-11-30)
+## [1.0.38](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.37...@bicitech-design/pro-descriptions@1.0.38) (2020-11-30)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.37](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.36...@ant-design/pro-descriptions@1.0.37) (2020-11-27)
+## [1.0.37](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.36...@bicitech-design/pro-descriptions@1.0.37) (2020-11-27)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.36](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.35...@ant-design/pro-descriptions@1.0.36) (2020-11-19)
+## [1.0.36](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.35...@bicitech-design/pro-descriptions@1.0.36) (2020-11-19)
 
 ### Bug Fixes
 
 - **table:** fix the problem that the table rendering is not timely ([#1024](https://github.com/ant-design/pro-components/issues/1024)) ([19d3af5](https://github.com/ant-design/pro-components/commit/19d3af58e692dbfa5a4b32644afe9672ba5719cf))
 
-## [1.0.35](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.34...@ant-design/pro-descriptions@1.0.35) (2020-11-17)
+## [1.0.35](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.34...@bicitech-design/pro-descriptions@1.0.35) (2020-11-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.34](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.33...@ant-design/pro-descriptions@1.0.34) (2020-11-17)
+## [1.0.34](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.33...@bicitech-design/pro-descriptions@1.0.34) (2020-11-17)
 
 ### Bug Fixes
 
 - **descriptions:** missing dependency use-json-comparison ([#996](https://github.com/ant-design/pro-components/issues/996)) ([a181f48](https://github.com/ant-design/pro-components/commit/a181f4857436b48d4475c427809dde9e0d641ef5))
 
-## [1.0.33](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.32...@ant-design/pro-descriptions@1.0.33) (2020-11-10)
+## [1.0.33](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.32...@bicitech-design/pro-descriptions@1.0.33) (2020-11-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.32](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.31...@ant-design/pro-descriptions@1.0.32) (2020-11-09)
+## [1.0.32](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.31...@bicitech-design/pro-descriptions@1.0.32) (2020-11-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.31](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.30...@ant-design/pro-descriptions@1.0.31) (2020-11-04)
+## [1.0.31](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.30...@bicitech-design/pro-descriptions@1.0.31) (2020-11-04)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.30](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.29...@ant-design/pro-descriptions@1.0.30) (2020-11-02)
+## [1.0.30](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.29...@bicitech-design/pro-descriptions@1.0.30) (2020-11-02)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.29](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.28...@ant-design/pro-descriptions@1.0.29) (2020-10-29)
+## [1.0.29](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.28...@bicitech-design/pro-descriptions@1.0.29) (2020-10-29)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.28](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.27...@ant-design/pro-descriptions@1.0.28) (2020-10-26)
+## [1.0.28](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.27...@bicitech-design/pro-descriptions@1.0.28) (2020-10-26)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.27](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.26...@ant-design/pro-descriptions@1.0.27) (2020-10-23)
+## [1.0.27](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.26...@bicitech-design/pro-descriptions@1.0.27) (2020-10-23)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.26](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.25...@ant-design/pro-descriptions@1.0.26) (2020-10-21)
+## [1.0.26](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.25...@bicitech-design/pro-descriptions@1.0.26) (2020-10-21)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.25](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.24...@ant-design/pro-descriptions@1.0.25) (2020-10-19)
+## [1.0.25](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.24...@bicitech-design/pro-descriptions@1.0.25) (2020-10-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.24](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.23...@ant-design/pro-descriptions@1.0.24) (2020-10-15)
+## [1.0.24](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.23...@bicitech-design/pro-descriptions@1.0.24) (2020-10-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.23](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.22...@ant-design/pro-descriptions@1.0.23) (2020-10-15)
+## [1.0.23](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.22...@bicitech-design/pro-descriptions@1.0.23) (2020-10-15)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.22](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.20...@ant-design/pro-descriptions@1.0.22) (2020-10-12)
+## [1.0.22](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.20...@bicitech-design/pro-descriptions@1.0.22) (2020-10-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.20](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.19...@ant-design/pro-descriptions@1.0.20) (2020-09-29)
+## [1.0.20](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.19...@bicitech-design/pro-descriptions@1.0.20) (2020-09-29)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.19](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.18...@ant-design/pro-descriptions@1.0.19) (2020-09-22)
+## [1.0.19](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.18...@bicitech-design/pro-descriptions@1.0.19) (2020-09-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.18](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.17...@ant-design/pro-descriptions@1.0.18) (2020-09-22)
+## [1.0.18](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.17...@bicitech-design/pro-descriptions@1.0.18) (2020-09-22)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.17](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.16...@ant-design/pro-descriptions@1.0.17) (2020-09-14)
+## [1.0.17](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.16...@bicitech-design/pro-descriptions@1.0.17) (2020-09-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.16](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.15...@ant-design/pro-descriptions@1.0.16) (2020-09-10)
+## [1.0.16](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.15...@bicitech-design/pro-descriptions@1.0.16) (2020-09-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.15](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.14...@ant-design/pro-descriptions@1.0.15) (2020-09-07)
+## [1.0.15](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.14...@bicitech-design/pro-descriptions@1.0.15) (2020-09-07)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.14](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.13...@ant-design/pro-descriptions@1.0.14) (2020-08-26)
+## [1.0.14](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.13...@bicitech-design/pro-descriptions@1.0.14) (2020-08-26)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.12...@ant-design/pro-descriptions@1.0.13) (2020-08-25)
+## [1.0.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.12...@bicitech-design/pro-descriptions@1.0.13) (2020-08-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.11...@ant-design/pro-descriptions@1.0.12) (2020-08-24)
+## [1.0.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.11...@bicitech-design/pro-descriptions@1.0.12) (2020-08-24)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.10...@ant-design/pro-descriptions@1.0.11) (2020-08-19)
+## [1.0.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.10...@bicitech-design/pro-descriptions@1.0.11) (2020-08-19)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.9...@ant-design/pro-descriptions@1.0.10) (2020-08-17)
+## [1.0.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.9...@bicitech-design/pro-descriptions@1.0.10) (2020-08-17)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.8...@ant-design/pro-descriptions@1.0.9) (2020-08-14)
+## [1.0.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.8...@bicitech-design/pro-descriptions@1.0.9) (2020-08-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.7...@ant-design/pro-descriptions@1.0.8) (2020-08-14)
+## [1.0.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.7...@bicitech-design/pro-descriptions@1.0.8) (2020-08-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.6...@ant-design/pro-descriptions@1.0.7) (2020-08-14)
+## [1.0.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.6...@bicitech-design/pro-descriptions@1.0.7) (2020-08-14)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.5...@ant-design/pro-descriptions@1.0.6) (2020-08-12)
+## [1.0.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.5...@bicitech-design/pro-descriptions@1.0.6) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.4...@ant-design/pro-descriptions@1.0.5) (2020-08-12)
+## [1.0.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.4...@bicitech-design/pro-descriptions@1.0.5) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.3...@ant-design/pro-descriptions@1.0.4) (2020-08-12)
+## [1.0.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.3...@bicitech-design/pro-descriptions@1.0.4) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.1...@ant-design/pro-descriptions@1.0.3) (2020-08-10)
+## [1.0.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.1...@bicitech-design/pro-descriptions@1.0.3) (2020-08-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-## [1.0.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.0-beta.3...@ant-design/pro-descriptions@1.0.1) (2020-08-10)
+## [1.0.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.0-beta.3...@bicitech-design/pro-descriptions@1.0.1) (2020-08-10)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
-# [1.0.0-beta.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-descriptions@1.0.0-beta.2...@ant-design/pro-descriptions@1.0.0-beta.3) (2020-07-25)
+# [1.0.0-beta.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-descriptions@1.0.0-beta.2...@bicitech-design/pro-descriptions@1.0.0-beta.3) (2020-07-25)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions
 
 # 1.0.0-beta.2 (2020-07-09)
 
-**Note:** Version bump only for package @ant-design/pro-descriptions
+**Note:** Version bump only for package @bicitech-design/pro-descriptions

@@ -1,12 +1,12 @@
-﻿import type { ProFieldEmptyText } from '@ant-design/pro-field';
-import type { ProFormInstance } from '@ant-design/pro-form';
+﻿import type { ProFieldEmptyText } from '@bicitech-design/pro-field';
+import type { ProFormInstance } from '@bicitech-design/pro-form';
 import type {
   ProFieldValueType,
   ProSchemaComponentTypes,
   ProTableEditableFnType,
   UseEditableUtilType,
-} from '@ant-design/pro-utils';
-import { genCopyable, isDeepEqualReact, isNil, LabelIconTip } from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
+import { genCopyable, isDeepEqualReact, isNil, LabelIconTip } from '@bicitech-design/pro-utils';
 import { Space } from 'antd';
 import get from 'rc-util/lib/utils/get';
 import React from 'react';

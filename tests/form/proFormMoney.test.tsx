@@ -1,4 +1,4 @@
-import ProForm, { ProFormMoney } from '@ant-design/pro-form';
+import ProForm, { ProFormMoney } from '@bicitech-design/pro-form';
 import { ConfigProvider } from 'antd';
 import enGBIntl from 'antd/lib/locale/en_GB';
 import { mount } from 'enzyme';

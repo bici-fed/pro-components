@@ -2,7 +2,7 @@
  * title: 多选模式
  */
 
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@bicitech-design/pro-components';
 
 export default () => (
   <CheckCard.Group

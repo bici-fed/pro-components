@@ -1,5 +1,5 @@
-import type { ProFieldFCMode } from '@ant-design/pro-components';
-import Field from '@ant-design/pro-field';
+import type { ProFieldFCMode } from '@bicitech-design/pro-components';
+import Field from '@bicitech-design/pro-field';
 import { Descriptions, Radio, Space, Switch } from 'antd';
 import moment from 'moment';
 import { useState } from 'react';
@@ -394,7 +394,7 @@ export default () => {
         <Descriptions.Item label="代码块">
           <Field
             text={`
-yarn run v1.22.0            
+yarn run v1.22.0
 $ eslint --format=pretty ./packages
 Done in 9.70s.
           `}

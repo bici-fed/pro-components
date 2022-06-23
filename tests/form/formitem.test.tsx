@@ -1,4 +1,4 @@
-import ProForm, { ProFormText } from '@ant-design/pro-form';
+import ProForm, { ProFormText } from '@bicitech-design/pro-form';
 import { Input } from 'antd';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';

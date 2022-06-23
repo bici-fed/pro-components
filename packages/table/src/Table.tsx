@@ -1,8 +1,8 @@
 /* eslint max-classes-per-file: ["error", 3] */
-import ProCard from '@ant-design/pro-card';
-import ProForm from '@ant-design/pro-form';
-import type { ParamsType } from '@ant-design/pro-provider';
-import { ConfigProviderWrap, useIntl } from '@ant-design/pro-provider';
+import ProCard from '@bicitech-design/pro-card';
+import ProForm from '@bicitech-design/pro-form';
+import type { ParamsType } from '@bicitech-design/pro-provider';
+import { ConfigProviderWrap, useIntl } from '@bicitech-design/pro-provider';
 import {
   editableRowByKey,
   ErrorBoundary,
@@ -12,9 +12,9 @@ import {
   useDeepCompareEffectDebounce,
   useEditableArray,
   useMountMergeState,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import type { TablePaginationConfig } from 'antd';
-import { ConfigProvider, Spin, Table } from 'antd';
+import { Button, ConfigProvider, Spin, Table, Tag } from 'antd';
 import type {
   GetRowKey,
   SorterResult,
@@ -36,6 +36,8 @@ import Alert from './components/Alert';
 import FormRender from './components/Form';
 import Toolbar from './components/ToolBar';
 import Container from './container';
+import useAntdFilterHeader from './hooks/useAntdCustomFilterHeader';
+import useARH from './hooks/useAntdResizableHeader';
 import './index.less';
 import type {
   OptionSearchProps,
@@ -50,6 +52,7 @@ import {
   genColumnKey,
   isBordered,
   mergePagination,
+  parseDataIndex,
   parseDefaultColumnConfig,
   useActionType,
 } from './utils';
@@ -63,6 +66,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
     toolbarDom: JSX.Element | null;
     searchNode: JSX.Element | null;
     alertDom: JSX.Element | null;
+    filterDom: JSX.Element | null;
     isLightFilter: boolean;
     onSortChange: (sort: any) => void;
     onFilterChange: (sort: any) => void;
@@ -86,6 +90,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
     style,
     cardProps,
     alertDom,
+    filterDom,
     name,
     onSortChange,
     onFilterChange,
@@ -244,6 +249,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
         <>
           {toolbarDom}
           {alertDom}
+          {filterDom}
           <ProForm
             onInit={(_, form) => {
               counter.setEditorTableForm(form);
@@ -281,11 +287,12 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
       <>
         {toolbarDom}
         {alertDom}
+        {filterDom}
         {counter.editableForm || !props.editable ? tableDom : null}
       </>
     );
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [alertDom, props.loading, !!props.editable, tableDom, toolbarDom]);
+  }, [alertDom, props.loading, !!props.editable, tableDom, toolbarDom, filterDom]);
 
   /** Table 区域的 dom，为了方便 render */
   const tableAreaDom =
@@ -373,7 +380,7 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
     ghost,
     pagination: propsPagination,
     actionRef: propsActionRef,
-    columns: propsColumns = [],
+    columns,
     toolBarRender,
     onLoad,
     onRequestError,
@@ -409,6 +416,8 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
 
   const defaultFormRef = useRef();
   const formRef = propRef || defaultFormRef;
+
+  let propsColumns: any[] = [];
 
   useImperativeHandle(propsActionRef, () => actionRef.current);
 
@@ -506,6 +515,33 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
     },
   });
   // ============================ END ============================
+
+  const { filterColumns, filterState, dispatch } = useAntdFilterHeader({
+    columns: useMemo(() => columns, [proFilter]),
+    proFilter,
+    proSort,
+    reload: action.reload,
+    setProFilter,
+  });
+
+  /** Jufeng 表格头可以放大 ** */
+  const { components, resizableColumns } = useARH({
+    columns: useMemo(() => filterColumns, []),
+    // 保存拖拽宽度至本地localStorage
+    columnsState: {
+      persistenceKey: 'localKey',
+      persistenceType: 'sessionStorage',
+    },
+  });
+
+  /** 列改为受控模式 */
+  propsColumns = (resizableColumns || []).map((column) => {
+    return {
+      ...column,
+      filteredValue: filterState[column.dataIndex] || null,
+      defaultFilteredValue: filterState[column.dataIndex] || null,
+    };
+  });
 
   /** 默认聚焦的时候重新请求数据，这样可以保证数据都是最新的。 */
   useEffect(() => {
@@ -828,6 +864,82 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
         alwaysShowAlert={propsRowSelection?.alwaysShowAlert}
       />
     ) : null;
+
+  /** Jufeng 内置的filterDom * */
+  const handleFilterTagClear = (key: any) => {
+    setProFilter({
+      ...filterState,
+      [key]: [],
+    });
+    action.reload();
+    dispatch({
+      type: 'updateField',
+      payload: {
+        [key]: null,
+      },
+    });
+  };
+  const handleFilterTagClearAll = () => {
+    Object.keys(filterState).map((key) => {
+      handleFilterTagClear(key);
+      return null;
+    });
+    setProFilter({});
+    action.reload();
+  };
+  /** Jufeng 内置的filterDom * */
+  const filterDom = () => {
+    const filterStateTmp = Object.keys(filterState)
+      .filter((key) => filterState[key] !== null && filterState[key] !== undefined)
+      .reduce((acc, key) => ({ ...acc, [key]: filterState[key] }), {});
+    return (
+      <div>
+        {Object.keys(filterStateTmp).map((key) => {
+          if (!filterState[key]) {
+            return null;
+          } else {
+            const column = (columns?.filter((c) => {
+              const newDataIndex = parseDataIndex(c.dataIndex);
+              return newDataIndex === key;
+            })[0] || {}) as any;
+            let showText = filterState[key]?.join(',');
+            // @ts-ignore
+            if (
+              column.fieldProps &&
+              column.fieldProps.options &&
+              column.fieldProps.options.length > 0
+            ) {
+              const a = (filterState[key] || []).map((k: string) => {
+                // @ts-ignore
+                const t = column.fieldProps.options.filter((item) => item.value === k);
+                if (t && t.length > 0) {
+                  return t[0].label || t[0].text;
+                }
+                return '';
+              });
+              showText = a.join(',');
+            }
+            return (
+              <Tag
+                key={key}
+                closable
+                onClose={() => handleFilterTagClear(key)}
+                style={{ marginBottom: 8, display: 'inline-block' }}
+              >
+                {column.title}：{showText}
+              </Tag>
+            );
+          }
+        })}
+        {Object.keys(filterStateTmp).length > 0 && (
+          <Button size="small" type="link" onClick={handleFilterTagClearAll}>
+            全部清除
+          </Button>
+        )}
+      </div>
+    );
+  };
+
   return (
     <TableRender
       {...props}
@@ -844,6 +956,8 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
       alertDom={alertDom}
       toolbarDom={toolbarDom}
       onSortChange={setProSort}
+      components={components}
+      filterDom={filterDom()}
       onFilterChange={setProFilter}
       editableUtils={editableUtils}
       getRowKey={getRowKey}

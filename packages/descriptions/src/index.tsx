@@ -1,6 +1,6 @@
 import { CheckOutlined, CloseOutlined, EditOutlined } from '@ant-design/icons';
-import ProForm, { ProFormField } from '@ant-design/pro-form';
-import ProSkeleton from '@ant-design/pro-skeleton';
+import ProForm, { ProFormField } from '@bicitech-design/pro-form';
+import ProSkeleton from '@bicitech-design/pro-skeleton';
 import type {
   ProCoreActionType,
   ProFieldFCMode,
@@ -9,7 +9,7 @@ import type {
   ProSchemaComponentTypes,
   RowEditableConfig,
   UseEditableMapUtilType,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import {
   ErrorBoundary,
   genCopyable,
@@ -17,7 +17,7 @@ import {
   InlineErrorFormItem,
   LabelIconTip,
   useEditableMap,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import type { DescriptionsProps, FormInstance, FormProps } from 'antd';
 import { ConfigProvider, Descriptions, Form, Space } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';

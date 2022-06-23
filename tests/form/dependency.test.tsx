@@ -1,4 +1,4 @@
-import { ProForm, ProFormDependency, ProFormText } from '@ant-design/pro-components';
+import { ProForm, ProFormDependency, ProFormText } from '@bicitech-design/pro-components';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';
 import { waitForComponentToPaint } from '../util';

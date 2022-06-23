@@ -1,6 +1,6 @@
-import type { ProCardProps } from '@ant-design/pro-card';
-import type { ActionType, ProColumnType, ProTableProps } from '@ant-design/pro-table';
-import ProTable from '@ant-design/pro-table';
+import type { ProCardProps } from '@bicitech-design/pro-card';
+import type { ActionType, ProColumnType, ProTableProps } from '@bicitech-design/pro-table';
+import ProTable from '@bicitech-design/pro-table';
 import type { ListProps, PaginationProps } from 'antd';
 import { ConfigProvider } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';

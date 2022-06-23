@@ -1,12 +1,12 @@
 // 主要处理新建和编辑的场景
 
-import type { ProFormInstance } from '@ant-design/pro-components';
+import type { ProFormInstance } from '@bicitech-design/pro-components';
 import {
   ProFormDateRangePicker,
   ProFormSelect,
   ProFormText,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import type { Moment } from 'moment';
 import moment from 'moment';
 import React, { useEffect, useRef } from 'react';

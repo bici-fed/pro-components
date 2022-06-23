@@ -1,4 +1,4 @@
-﻿import { ProFormTreeSelect } from '@ant-design/pro-components';
+﻿import { ProFormTreeSelect } from '@bicitech-design/pro-components';
 import { useState } from 'react';
 
 const treeData = [

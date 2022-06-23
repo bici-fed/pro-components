@@ -1,4 +1,4 @@
-import ProTable, { TableDropdown } from '@ant-design/pro-table';
+import ProTable, { TableDropdown } from '@bicitech-design/pro-table';
 import '@testing-library/jest-dom';
 import { fireEvent, render } from '@testing-library/react';
 import { act } from 'react-dom/test-utils';

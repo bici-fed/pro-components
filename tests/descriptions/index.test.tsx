@@ -1,5 +1,5 @@
-import ProDescriptions from '@ant-design/pro-descriptions';
-import type { ProCoreActionType } from '@ant-design/pro-utils';
+import ProDescriptions from '@bicitech-design/pro-descriptions';
+import type { ProCoreActionType } from '@bicitech-design/pro-utils';
 import '@testing-library/jest-dom';
 import { render as reactRender } from '@testing-library/react';
 import { Button } from 'antd';

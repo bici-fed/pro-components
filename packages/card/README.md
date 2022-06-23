@@ -1,19 +1,19 @@
-# @ant-design/pro-card
+# @bicitech-design/pro-card
 
-> @ant-design/pro-card.
+> @bicitech-design/pro-card.
 
-See our website [@ant-design/pro-card](https://procomponent.ant.design/) for more information.
+See our website [@bicitech-design/pro-card](https://procomponent.ant.design/) for more information.
 
 ## Install
 
 Using npm:
 
 ```bash
-$ npm install --save  @ant-design/pro-card
+$ npm install --save  @bicitech-design/pro-card
 ```
 
 or using yarn:
 
 ```bash
-$ yarn add @ant-design/pro-card
+$ yarn add @bicitech-design/pro-card
 ```

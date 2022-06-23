@@ -3,7 +3,7 @@
  */
 
 import { EllipsisOutlined } from '@ant-design/icons';
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@bicitech-design/pro-components';
 import { Dropdown, Menu, message } from 'antd';
 
 export default () => (

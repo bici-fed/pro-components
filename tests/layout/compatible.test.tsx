@@ -1,4 +1,4 @@
-import { BasicLayout } from '@ant-design/pro-components';
+import { BasicLayout } from '@bicitech-design/pro-components';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';
 import { waitForComponentToPaint } from '../util';

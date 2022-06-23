@@ -1,4 +1,4 @@
-import { StatisticCard } from '@ant-design/pro-components';
+import { StatisticCard } from '@bicitech-design/pro-components';
 import RcResizeObserver from 'rc-resize-observer';
 import { useState } from 'react';
 

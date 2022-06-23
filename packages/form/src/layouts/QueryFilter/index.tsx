@@ -1,6 +1,6 @@
 /* eslint-disable no-param-reassign */
-import { useIntl } from '@ant-design/pro-provider';
-import { isBrowser, useMountMergeState } from '@ant-design/pro-utils';
+import { useIntl } from '@bicitech-design/pro-provider';
+import { isBrowser, useMountMergeState } from '@bicitech-design/pro-utils';
 import type { FormItemProps, RowProps } from 'antd';
 import { Col, ConfigProvider, Divider, Form, Row } from 'antd';
 import type { FormInstance, FormProps } from 'antd/lib/form/Form';

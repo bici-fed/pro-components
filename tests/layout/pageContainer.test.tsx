@@ -1,5 +1,5 @@
-import type { BasicLayoutProps } from '@ant-design/pro-components';
-import { BasicLayout, FooterToolbar, PageContainer } from '@ant-design/pro-components';
+import type { BasicLayoutProps } from '@bicitech-design/pro-components';
+import { BasicLayout, FooterToolbar, PageContainer } from '@bicitech-design/pro-components';
 import { render as libraryRender } from '@testing-library/react';
 import { mount, render } from 'enzyme';
 import React, { useEffect, useMemo, useState } from 'react';

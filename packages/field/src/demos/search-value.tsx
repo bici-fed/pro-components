@@ -1,4 +1,4 @@
-﻿import { ProFormSelect } from '@ant-design/pro-components';
+﻿import { ProFormSelect } from '@bicitech-design/pro-components';
 import { useState } from 'react';
 
 export default function App() {

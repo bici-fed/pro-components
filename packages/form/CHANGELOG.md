@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [1.69.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.69.3...@ant-design/pro-form@1.69.4) (2022-06-16)
+## [1.69.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.69.3...@bicitech-design/pro-form@1.69.4) (2022-06-16)
 
 ### Bug Fixes
 
@@ -11,13 +11,13 @@ All notable changes to this project will be documented in this file. See [Conven
 - typo ([#5346](https://github.com/ant-design/pro-components/issues/5346)) ([1c41d5f](https://github.com/ant-design/pro-components/commit/1c41d5fca836949b55c2a6401bf0e66ad53a0319))
 - **ProForm:** validateFieldsReturnFormatValue 可能为 undefined ([#5331](https://github.com/ant-design/pro-components/issues/5331)) ([5735476](https://github.com/ant-design/pro-components/commit/5735476227a499e45ba4f4b654f0ea4d759805ae))
 
-## [1.69.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.69.2...@ant-design/pro-form@1.69.3) (2022-06-02)
+## [1.69.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.69.2...@bicitech-design/pro-form@1.69.3) (2022-06-02)
 
 ### Bug Fixes
 
 - **form:** fix options no work error ([ef9ebb0](https://github.com/ant-design/pro-components/commit/ef9ebb055a18b22885de3ab8e05792fae32c22e2))
 
-## [1.69.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.69.1...@ant-design/pro-form@1.69.2) (2022-06-02)
+## [1.69.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.69.1...@bicitech-design/pro-form@1.69.2) (2022-06-02)
 
 ### Bug Fixes
 
@@ -30,13 +30,13 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support convertValue for BetaSchemaForm ([09186be](https://github.com/ant-design/pro-components/commit/09186bef8d62915f64d98c7788e402a7986ae2c0))
 - [#5273](https://github.com/ant-design/pro-components/issues/5273) for all components ([#5314](https://github.com/ant-design/pro-components/issues/5314)) ([d25e87c](https://github.com/ant-design/pro-components/commit/d25e87c68db8e3c8d120ffc4cc7cd95e33ce6c24))
 
-## [1.69.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.69.0...@ant-design/pro-form@1.69.1) (2022-05-27)
+## [1.69.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.69.0...@bicitech-design/pro-form@1.69.1) (2022-05-27)
 
 ### Bug Fixes
 
 - **form:** input will be blur after setState ([#5298](https://github.com/ant-design/pro-components/issues/5298)) ([2a52800](https://github.com/ant-design/pro-components/commit/2a52800baa7a6c657cdad4ffad86efd8fce977b1))
 
-# [1.69.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.68.2...@ant-design/pro-form@1.69.0) (2022-05-26)
+# [1.69.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.68.2...@bicitech-design/pro-form@1.69.0) (2022-05-26)
 
 ### Bug Fixes
 
@@ -49,17 +49,17 @@ All notable changes to this project will be documented in this file. See [Conven
 - **table:** renderFormItem support ignoreFormItem ([7aae13d](https://github.com/ant-design/pro-components/commit/7aae13d791452121eedfc38c43676fc9a0f3ba05))
 - **table:** renderFormItem support ignoreFormItem ([#5296](https://github.com/ant-design/pro-components/issues/5296)) ([d6977b5](https://github.com/ant-design/pro-components/commit/d6977b5e2c75c100992b049f4bf1642fd22f351e))
 
-## [1.68.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.68.1...@ant-design/pro-form@1.68.2) (2022-05-20)
+## [1.68.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.68.1...@bicitech-design/pro-form@1.68.2) (2022-05-20)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.68.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.68.0...@ant-design/pro-form@1.68.1) (2022-05-20)
+## [1.68.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.68.0...@bicitech-design/pro-form@1.68.1) (2022-05-20)
 
 ### Bug Fixes
 
 - spaceProps.className doesn't work in Form.Group ([8c89b92](https://github.com/ant-design/pro-components/commit/8c89b924e04699d709c4db8e81067728d05ca1c8))
 
-# [1.68.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.67.3...@ant-design/pro-form@1.68.0) (2022-05-16)
+# [1.68.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.67.3...@bicitech-design/pro-form@1.68.0) (2022-05-16)
 
 ### Bug Fixes
 
@@ -69,24 +69,24 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** `FieldProps` add `ref` type ([#5209](https://github.com/ant-design/pro-components/issues/5209)) ([de87b58](https://github.com/ant-design/pro-components/commit/de87b5854ae11d878fb4d75356db6a8710af4a68))
 
-## [1.67.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.67.2...@ant-design/pro-form@1.67.3) (2022-05-12)
+## [1.67.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.67.2...@bicitech-design/pro-form@1.67.3) (2022-05-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.67.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.67.1...@ant-design/pro-form@1.67.2) (2022-05-12)
+## [1.67.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.67.1...@bicitech-design/pro-form@1.67.2) (2022-05-12)
 
 ### Bug Fixes
 
 - add alwaysShowItemLabel ([0c0ba50](https://github.com/ant-design/pro-components/commit/0c0ba50c3ac6783df27828de93dacc6acf572c3a))
 - **form:** fix bgImg color cover style ([fea7f7d](https://github.com/ant-design/pro-components/commit/fea7f7d18a7c92c574a5f4944e87a8cb835cfd51))
 
-## [1.67.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.67.0...@ant-design/pro-form@1.67.1) (2022-05-09)
+## [1.67.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.67.0...@bicitech-design/pro-form@1.67.1) (2022-05-09)
 
 ### Bug Fixes
 
 - **login:** fix loginPage style error ([d9941ee](https://github.com/ant-design/pro-components/commit/d9941eeb781448e4674e22b4e9c00a3a1043f707))
 
-# [1.67.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.65.0...@ant-design/pro-form@1.67.0) (2022-05-07)
+# [1.67.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.65.0...@bicitech-design/pro-form@1.67.0) (2022-05-07)
 
 ### Bug Fixes
 
@@ -100,7 +100,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** collapse support hidden number ([#5116](https://github.com/ant-design/pro-components/issues/5116)) ([eb14e1a](https://github.com/ant-design/pro-components/commit/eb14e1a0e3cb4aab8888b592c612c3a840e65db0))
 
-# [1.66.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.65.0...@ant-design/pro-form@1.66.0) (2022-04-29)
+# [1.66.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.65.0...@bicitech-design/pro-form@1.66.0) (2022-04-29)
 
 ### Bug Fixes
 
@@ -111,32 +111,32 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** collapse support hidden number ([#5116](https://github.com/ant-design/pro-components/issues/5116)) ([eb14e1a](https://github.com/ant-design/pro-components/commit/eb14e1a0e3cb4aab8888b592c612c3a840e65db0))
 
-# [1.65.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.64.1...@ant-design/pro-form@1.65.0) (2022-04-24)
+# [1.65.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.64.1...@bicitech-design/pro-form@1.65.0) (2022-04-24)
 
 ### Features
 
 - **form:** 提交表单时，禁用取消按钮和右上角关闭按钮，直到 onFinish 异步回调执行完成 ([#5078](https://github.com/ant-design/pro-components/issues/5078)) ([ff1a4e0](https://github.com/ant-design/pro-components/commit/ff1a4e07df6a42282cf392fb5992d1afa25b7b48))
 
-## [1.64.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.64.0...@ant-design/pro-form@1.64.1) (2022-04-18)
+## [1.64.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.64.0...@bicitech-design/pro-form@1.64.1) (2022-04-18)
 
 ### Bug Fixes
 
 - **form:** fix revalidateOnFocus alway work error-n ([0ea1618](https://github.com/ant-design/pro-components/commit/0ea1618154634f6e0ac9c64682a71746ab191807))
 - **form:** ProFormList RenderProps 透传总行数 count 参数 ([#5068](https://github.com/ant-design/pro-components/issues/5068)) ([b12fd9c](https://github.com/ant-design/pro-components/commit/b12fd9c2c5e2c0759bea0dcdc16a05e979423f34))
 
-# [1.64.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.63.1...@ant-design/pro-form@1.64.0) (2022-04-14)
+# [1.64.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.63.1...@bicitech-design/pro-form@1.64.0) (2022-04-14)
 
 ### Features
 
 - **form:** add new components LoginFormPage ([5d6a2ee](https://github.com/ant-design/pro-components/commit/5d6a2ee0b9a57502c683319a3ff48d7a53481eaa))
 
-## [1.63.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.63.0...@ant-design/pro-form@1.63.1) (2022-04-13)
+## [1.63.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.63.0...@bicitech-design/pro-form@1.63.1) (2022-04-13)
 
 ### Bug Fixes
 
 - **form:** clean react color deps ([#5044](https://github.com/ant-design/pro-components/issues/5044)) ([8977a26](https://github.com/ant-design/pro-components/commit/8977a2662195078efb7376e5fa4f0037641943ec))
 
-# [1.63.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.62.1...@ant-design/pro-form@1.63.0) (2022-04-12)
+# [1.63.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.62.1...@bicitech-design/pro-form@1.63.0) (2022-04-12)
 
 ### Bug Fixes
 
@@ -149,11 +149,11 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** add placement in lightFilter ([#4974](https://github.com/ant-design/pro-components/issues/4974)) ([0e4179d](https://github.com/ant-design/pro-components/commit/0e4179d9e12a370048ec840abc443246d479ffc7))
 
-## [1.62.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.62.0...@ant-design/pro-form@1.62.1) (2022-04-08)
+## [1.62.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.62.0...@bicitech-design/pro-form@1.62.1) (2022-04-08)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.62.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.61.1...@ant-design/pro-form@1.62.0) (2022-04-07)
+# [1.62.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.61.1...@bicitech-design/pro-form@1.62.0) (2022-04-07)
 
 ### Bug Fixes
 
@@ -164,7 +164,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** Render Extra Content inside Pro Form List ([#4991](https://github.com/ant-design/pro-components/issues/4991)) ([ba73f4a](https://github.com/ant-design/pro-components/commit/ba73f4a5e686355d78125517bd039f7e34a446d5))
 
-## [1.61.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.61.0...@ant-design/pro-form@1.61.1) (2022-04-06)
+## [1.61.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.61.0...@bicitech-design/pro-form@1.61.1) (2022-04-06)
 
 ### Bug Fixes
 
@@ -172,7 +172,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** Invalid use of DatePicker format in ProFormList ([#4978](https://github.com/ant-design/pro-components/issues/4978)) ([3674d2e](https://github.com/ant-design/pro-components/commit/3674d2e450c549030251c82cd8015babea3f901f))
 - **table:** fix ts error ([db7e313](https://github.com/ant-design/pro-components/commit/db7e3138faf9ff7b8fcffd8e47a10f0551d1e0d6))
 
-# [1.61.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.60.0...@ant-design/pro-form@1.61.0) (2022-03-28)
+# [1.61.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.60.0...@bicitech-design/pro-form@1.61.0) (2022-03-28)
 
 ### Bug Fixes
 
@@ -183,7 +183,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** support setCurrentRowData and getCurrentRowData ([#4926](https://github.com/ant-design/pro-components/issues/4926)) ([3eb11e3](https://github.com/ant-design/pro-components/commit/3eb11e3ec6a814fed091b0d9204563f61f5e28f0))
 
-# [1.60.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.59.3...@ant-design/pro-form@1.60.0) (2022-03-25)
+# [1.60.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.59.3...@bicitech-design/pro-form@1.60.0) (2022-03-25)
 
 ### Bug Fixes
 
@@ -194,35 +194,35 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support grid layout ([#4859](https://github.com/ant-design/pro-components/issues/4859)) ([266af92](https://github.com/ant-design/pro-components/commit/266af92b2c1e1ac22b7e93f9745a65cbf748bbb4))
 - **table:** support getRows, getRow, setRow ([#4904](https://github.com/ant-design/pro-components/issues/4904)) ([756340e](https://github.com/ant-design/pro-components/commit/756340ee97f13b55e5f51cc875ec6b344e953d24))
 
-## [1.59.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.59.2...@ant-design/pro-form@1.59.3) (2022-03-22)
+## [1.59.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.59.2...@bicitech-design/pro-form@1.59.3) (2022-03-22)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.59.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.59.1...@ant-design/pro-form@1.59.2) (2022-03-18)
+## [1.59.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.59.1...@bicitech-design/pro-form@1.59.2) (2022-03-18)
 
 ### Bug Fixes
 
 - **form:** fix modal and drawer form rerender error ([4b728f2](https://github.com/ant-design/pro-components/commit/4b728f2652f1c6f6d6ba20ff65c922dde1cd9894))
 - **table:** fix inlint error render dom ([bfeb81a](https://github.com/ant-design/pro-components/commit/bfeb81afc6bc4305b3d7ef2b84c0afc089dad7a0))
 
-## [1.59.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.59.0...@ant-design/pro-form@1.59.1) (2022-03-16)
+## [1.59.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.59.0...@bicitech-design/pro-form@1.59.1) (2022-03-16)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.59.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.58.1...@ant-design/pro-form@1.59.0) (2022-03-16)
+# [1.59.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.58.1...@bicitech-design/pro-form@1.59.0) (2022-03-16)
 
 ### Features
 
 - **form:** StepsForm support vertical direction ([#4848](https://github.com/ant-design/pro-components/issues/4848)) ([482f562](https://github.com/ant-design/pro-components/commit/482f562b7034826c9acdda6955c00d3f1899b139))
 
-## [1.58.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.58.0...@ant-design/pro-form@1.58.1) (2022-03-15)
+## [1.58.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.58.0...@bicitech-design/pro-form@1.58.1) (2022-03-15)
 
 ### Bug Fixes
 
 - **form:** fix ProFormDependency no rendeer transform error ([5b163eb](https://github.com/ant-design/pro-components/commit/5b163eb1d6b3430281eee9ae73e86ddfc07d3f0c))
 - **table:** fix table has name, add new line will error ([74f83df](https://github.com/ant-design/pro-components/commit/74f83df88bebb3fdfbc9874960b2e6e3658e0ac1))
 
-# [1.58.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.57.0...@ant-design/pro-form@1.58.0) (2022-03-14)
+# [1.58.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.57.0...@bicitech-design/pro-form@1.58.0) (2022-03-14)
 
 ### Bug Fixes
 
@@ -233,7 +233,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **utils:** 🎸 improve type and support external override type ([#4806](https://github.com/ant-design/pro-components/issues/4806)) ([13b590a](https://github.com/ant-design/pro-components/commit/13b590acaa69315dbecb22267411e8a275da8648))
 
-# [1.57.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.56.1...@ant-design/pro-form@1.57.0) (2022-03-08)
+# [1.57.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.56.1...@bicitech-design/pro-form@1.57.0) (2022-03-08)
 
 ### Bug Fixes
 
@@ -243,14 +243,14 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** improve SchemaForm achieve ([#4786](https://github.com/ant-design/pro-components/issues/4786)) ([b6642d1](https://github.com/ant-design/pro-components/commit/b6642d12eb96b048651a4e4dcbea1dde2b9960ee))
 
-## [1.56.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.56.0...@ant-design/pro-form@1.56.1) (2022-03-07)
+## [1.56.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.56.0...@bicitech-design/pro-form@1.56.1) (2022-03-07)
 
 ### Bug Fixes
 
 - **form:** FormList add no set key warning ([b677fef](https://github.com/ant-design/pro-components/commit/b677fef0f3b63448b1c29f0a167eef019b4522ed))
 - **form:** FormList min width=100% ([688b46f](https://github.com/ant-design/pro-components/commit/688b46fb783e0f2b49520cde5a94d96e1de4ed0e))
 
-# [1.56.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.55.3...@ant-design/pro-form@1.56.0) (2022-03-07)
+# [1.56.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.55.3...@bicitech-design/pro-form@1.56.0) (2022-03-07)
 
 ### Bug Fixes
 
@@ -262,11 +262,11 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** add `name` prop to `itemRender` ([#4779](https://github.com/ant-design/pro-components/issues/4779)) ([41b1796](https://github.com/ant-design/pro-components/commit/41b1796f0c1fbffa85dcea1331a0c7c18357a194))
 
-## [1.55.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.55.2...@ant-design/pro-form@1.55.3) (2022-03-04)
+## [1.55.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.55.2...@bicitech-design/pro-form@1.55.3) (2022-03-04)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.55.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.55.0...@ant-design/pro-form@1.55.2) (2022-03-04)
+## [1.55.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.55.0...@bicitech-design/pro-form@1.55.2) (2022-03-04)
 
 ### Bug Fixes
 
@@ -276,14 +276,14 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** ModalForm and Drawer alway forceRender ([2f41fe6](https://github.com/ant-design/pro-components/commit/2f41fe697559daa0f23a9a0ec5711006d373c950))
 - **form:** submitter default config overwrite by proFormProps.submitter ([#4751](https://github.com/ant-design/pro-components/issues/4751)) ([3e5fca7](https://github.com/ant-design/pro-components/commit/3e5fca789b0e24210c9bb5e2658b16f0e175715b))
 
-## [1.55.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.55.0...@ant-design/pro-form@1.55.1) (2022-03-02)
+## [1.55.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.55.0...@bicitech-design/pro-form@1.55.1) (2022-03-02)
 
 ### Bug Fixes
 
 - **form:** 修复 queryFilter 响应式会受 span 的属性顺序问题 ([#4722](https://github.com/ant-design/pro-components/issues/4722)) ([36cacf5](https://github.com/ant-design/pro-components/commit/36cacf5d3ba746c30da9079a27fba3ae65678a6c))
 - **form:** ignoreRules dosen't work ([#4687](https://github.com/ant-design/pro-components/issues/4687)) ([9173858](https://github.com/ant-design/pro-components/commit/9173858d5d869272c1b155f725887f7e6d635743))
 
-# [1.55.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.54.0...@ant-design/pro-form@1.55.0) (2022-02-24)
+# [1.55.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.54.0...@bicitech-design/pro-form@1.55.0) (2022-02-24)
 
 ### Bug Fixes
 
@@ -294,7 +294,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** ProFormList 支持设置 min 和 max 控制条目数量 ([#4684](https://github.com/ant-design/pro-components/issues/4684)) ([0e648d4](https://github.com/ant-design/pro-components/commit/0e648d44f595f27eacd2a8d5f30634e29619683a))
 
-# [1.54.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.7...@ant-design/pro-form@1.54.0) (2022-02-21)
+# [1.54.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.7...@bicitech-design/pro-form@1.54.0) (2022-02-21)
 
 ### Bug Fixes
 
@@ -307,7 +307,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** improve dependency component archive ([#4678](https://github.com/ant-design/pro-components/issues/4678)) ([fcbc6c9](https://github.com/ant-design/pro-components/commit/fcbc6c9b944bb7e9e822ec5f0407cd7b413b11db))
 - **form,table,utils:** form 和 table 的 dateFormatter 支持函数 ([#4657](https://github.com/ant-design/pro-components/issues/4657)) ([bdbbae4](https://github.com/ant-design/pro-components/commit/bdbbae4212fede8bf230f9577feae853ce6bf287))
 
-## [1.53.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.6...@ant-design/pro-form@1.53.7) (2022-02-18)
+## [1.53.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.6...@bicitech-design/pro-form@1.53.7) (2022-02-18)
 
 ### Bug Fixes
 
@@ -315,45 +315,45 @@ All notable changes to this project will be documented in this file. See [Conven
 - 🐛 make sure the formItemProps property is dosen't override ([#4662](https://github.com/ant-design/pro-components/issues/4662)) ([cd50ac4](https://github.com/ant-design/pro-components/commit/cd50ac44b319ce240f4435f10872733b4ba74690))
 - **table:** EditableProTable 支持在 renderFormItem 中的 record 中返回用户自定义的字段 ([#4644](https://github.com/ant-design/pro-components/issues/4644)) ([488122d](https://github.com/ant-design/pro-components/commit/488122d88f031472ee0786a98b2a3dd017c5cb5b))
 
-## [1.53.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.5...@ant-design/pro-form@1.53.6) (2022-02-15)
+## [1.53.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.5...@bicitech-design/pro-form@1.53.6) (2022-02-15)
 
 ### Bug Fixes
 
 - **form:** fix ProFormDateTimePicker ts error ([0ca384d](https://github.com/ant-design/pro-components/commit/0ca384df21544250ba2d3074b1e49eb7de4c4865))
 - **form:** fix renderFormIten render null will show dom error ([8710ee3](https://github.com/ant-design/pro-components/commit/8710ee3c3da4a768d868d5255796786c5aee799f))
 
-## [1.53.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.4...@ant-design/pro-form@1.53.5) (2022-02-14)
+## [1.53.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.4...@bicitech-design/pro-form@1.53.5) (2022-02-14)
 
 ### Bug Fixes
 
 - **form:** fix xxx moudle is null errror ([e134df7](https://github.com/ant-design/pro-components/commit/e134df779368cc00a0c44ea19bbeae2b7c343fcd))
 
-## [1.53.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.3...@ant-design/pro-form@1.53.4) (2022-02-14)
+## [1.53.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.3...@bicitech-design/pro-form@1.53.4) (2022-02-14)
 
 ### Bug Fixes
 
 - **form:** improve type reminder ([#4618](https://github.com/ant-design/pro-components/issues/4618)) ([3930e14](https://github.com/ant-design/pro-components/commit/3930e14095635c4261366d38e81ff320fbf3bd79))
 
-## [1.53.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.2...@ant-design/pro-form@1.53.3) (2022-02-11)
+## [1.53.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.2...@bicitech-design/pro-form@1.53.3) (2022-02-11)
 
 ### Bug Fixes
 
 - **form:** 解决行为守卫 insertIndex 为 undefined 的问题 ([#4606](https://github.com/ant-design/pro-components/issues/4606)) ([0885ccb](https://github.com/ant-design/pro-components/commit/0885ccb24f01a3f4b77b3990f8a435456cd79fbb)), closes [#4588](https://github.com/ant-design/pro-components/issues/4588)
 - **form:** fix getValuePropsFunc no work by newValue ([52ef52f](https://github.com/ant-design/pro-components/commit/52ef52f3e5c070166383957dfaeded8b40cdc030)), closes [#issuecomment-1034584412](https://github.com/ant-design/pro-components/issues/issuecomment-1034584412)
 
-## [1.53.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.1...@ant-design/pro-form@1.53.2) (2022-02-10)
+## [1.53.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.1...@bicitech-design/pro-form@1.53.2) (2022-02-10)
 
 ### Bug Fixes
 
 - **form:** modal and drawer new render function ([#4597](https://github.com/ant-design/pro-components/issues/4597)) ([fabb06a](https://github.com/ant-design/pro-components/commit/fabb06a093eca0ad0dcbdef89507d0450fbcdc8d))
 
-## [1.53.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.53.0...@ant-design/pro-form@1.53.1) (2022-02-10)
+## [1.53.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.53.0...@bicitech-design/pro-form@1.53.1) (2022-02-10)
 
 ### Bug Fixes
 
 - **form:** fix form list action error ([77dfdd1](https://github.com/ant-design/pro-components/commit/77dfdd1fb20df6e048ff0162ea18bdaf31985071))
 
-# [1.53.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.14...@ant-design/pro-form@1.53.0) (2022-02-08)
+# [1.53.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.14...@bicitech-design/pro-form@1.53.0) (2022-02-08)
 
 ### Bug Fixes
 
@@ -365,7 +365,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** form support convertValue ([b555dc5](https://github.com/ant-design/pro-components/commit/b555dc5293ae9e92793b1ac6ad09e3cfbaf1bf64))
 - **table:** reduce the dom of the form ([#4565](https://github.com/ant-design/pro-components/issues/4565)) ([38750ea](https://github.com/ant-design/pro-components/commit/38750ea6a1de21702d4285f520e5b7ffb57f8fab))
 
-## [1.52.14](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.13...@ant-design/pro-form@1.52.14) (2022-01-25)
+## [1.52.14](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.13...@bicitech-design/pro-form@1.52.14) (2022-01-25)
 
 ### Bug Fixes
 
@@ -373,7 +373,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** make sure it is valid to get the form instance through formRef ([#4517](https://github.com/ant-design/pro-components/issues/4517)) ([38d1f92](https://github.com/ant-design/pro-components/commit/38d1f92199ddad1390679ee020d517e68c61c235))
 - **form:** proformlist style bug ([#4524](https://github.com/ant-design/pro-components/issues/4524)) ([02cb00a](https://github.com/ant-design/pro-components/commit/02cb00a4a8073b148dd97a577577f23bc6d954ef))
 
-## [1.52.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.12...@ant-design/pro-form@1.52.13) (2022-01-21)
+## [1.52.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.12...@bicitech-design/pro-form@1.52.13) (2022-01-21)
 
 ### Bug Fixes
 
@@ -383,14 +383,14 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** ProFormList should show label when form layout is horizontal ([#4513](https://github.com/ant-design/pro-components/issues/4513)) ([53aae7c](https://github.com/ant-design/pro-components/commit/53aae7cdfdec04f76812eac488df5ff2ecb4049a))
 - **form:** SchemaForm dependency add warning message ([#4478](https://github.com/ant-design/pro-components/issues/4478)) ([fad7fe0](https://github.com/ant-design/pro-components/commit/fad7fe093c917f65c6c846bacc01a19abbf2d2d7))
 
-## [1.52.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.11...@ant-design/pro-form@1.52.12) (2022-01-18)
+## [1.52.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.11...@bicitech-design/pro-form@1.52.12) (2022-01-18)
 
 ### Bug Fixes
 
 - **form:** fix form list error ([c646dcf](https://github.com/ant-design/pro-components/commit/c646dcf48d2c61bc68a5f8ad4d947494941050b9))
 - **form:** ProFormDependency support shouldUpdate ([4d3a531](https://github.com/ant-design/pro-components/commit/4d3a531d18b23e235d6cfdf882ccfe54c286c7e5))
 
-## [1.52.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.10...@ant-design/pro-form@1.52.11) (2022-01-17)
+## [1.52.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.10...@bicitech-design/pro-form@1.52.11) (2022-01-17)
 
 ### Bug Fixes
 
@@ -398,17 +398,17 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** drawer auto focus first input ([#4473](https://github.com/ant-design/pro-components/issues/4473)) ([a9394e2](https://github.com/ant-design/pro-components/commit/a9394e2690cbb8fda9be52f31431454fe39b52dd))
 - **form:** ProFormList use uuid ([#4479](https://github.com/ant-design/pro-components/issues/4479)) ([11b3f71](https://github.com/ant-design/pro-components/commit/11b3f717cf545d9a361f173975586a99375c6517))
 
-## [1.52.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.9...@ant-design/pro-form@1.52.10) (2022-01-12)
+## [1.52.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.9...@bicitech-design/pro-form@1.52.10) (2022-01-12)
 
 ### Bug Fixes
 
 - **form:** fix ref no render error ([db98d79](https://github.com/ant-design/pro-components/commit/db98d79f876b8a4dd56b6fe040c0537fff1b6c0c))
 
-## [1.52.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.8...@ant-design/pro-form@1.52.9) (2022-01-11)
+## [1.52.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.8...@bicitech-design/pro-form@1.52.9) (2022-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.52.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.7...@ant-design/pro-form@1.52.8) (2022-01-11)
+## [1.52.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.7...@bicitech-design/pro-form@1.52.8) (2022-01-11)
 
 ### Bug Fixes
 
@@ -417,11 +417,11 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix datePick typing error ([#4431](https://github.com/ant-design/pro-components/issues/4431)) ([cc8e893](https://github.com/ant-design/pro-components/commit/cc8e89360a209cff3182f9af316600c3ae2c6b97))
 - **form:** FormList same name will be cache problem ([#4426](https://github.com/ant-design/pro-components/issues/4426)) ([15ab36f](https://github.com/ant-design/pro-components/commit/15ab36f482aef5c6c6d78522d3ee41729197d54e))
 
-## [1.52.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.6...@ant-design/pro-form@1.52.7) (2022-01-07)
+## [1.52.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.6...@bicitech-design/pro-form@1.52.7) (2022-01-07)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.52.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.5...@ant-design/pro-form@1.52.6) (2022-01-05)
+## [1.52.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.5...@bicitech-design/pro-form@1.52.6) (2022-01-05)
 
 ### Bug Fixes
 
@@ -431,49 +431,49 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix stepForm props error ([1eec8a2](https://github.com/ant-design/pro-components/commit/1eec8a2ff97c95f3fea8400651ff5e2875561193))
 - fix doc error ([#4370](https://github.com/ant-design/pro-components/issues/4370)) ([438fe64](https://github.com/ant-design/pro-components/commit/438fe64c1d290aeb20f249582a7363740c32d6ae))
 
-## [1.52.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.4...@ant-design/pro-form@1.52.5) (2021-12-28)
+## [1.52.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.4...@bicitech-design/pro-form@1.52.5) (2021-12-28)
 
 ### Bug Fixes
 
 - **form:** fix ts error ([fbe853d](https://github.com/ant-design/pro-components/commit/fbe853d66aae90040ae0bc807c255fbf984611f2))
 
-## [1.52.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.3...@ant-design/pro-form@1.52.4) (2021-12-28)
+## [1.52.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.3...@bicitech-design/pro-form@1.52.4) (2021-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.52.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.2...@ant-design/pro-form@1.52.3) (2021-12-24)
+## [1.52.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.2...@bicitech-design/pro-form@1.52.3) (2021-12-24)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.52.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.1...@ant-design/pro-form@1.52.2) (2021-12-23)
+## [1.52.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.1...@bicitech-design/pro-form@1.52.2) (2021-12-23)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.52.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.52.0...@ant-design/pro-form@1.52.1) (2021-12-22)
+## [1.52.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.52.0...@bicitech-design/pro-form@1.52.1) (2021-12-22)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.52.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.51.3...@ant-design/pro-form@1.52.0) (2021-12-22)
+# [1.52.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.51.3...@bicitech-design/pro-form@1.52.0) (2021-12-22)
 
 ### Features
 
 - **field:** add DigitRange component ([#4133](https://github.com/ant-design/pro-components/issues/4133)) ([227a42d](https://github.com/ant-design/pro-components/commit/227a42def19035dc70e52f56142b33f55dd65f4b))
 
-## [1.51.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.51.2...@ant-design/pro-form@1.51.3) (2021-12-22)
+## [1.51.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.51.2...@bicitech-design/pro-form@1.51.3) (2021-12-22)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.51.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.51.1...@ant-design/pro-form@1.51.2) (2021-12-20)
+## [1.51.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.51.1...@bicitech-design/pro-form@1.51.2) (2021-12-20)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.51.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.51.0...@ant-design/pro-form@1.51.1) (2021-12-20)
+## [1.51.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.51.0...@bicitech-design/pro-form@1.51.1) (2021-12-20)
 
 ### Bug Fixes
 
 - **form:** fix drawer no trigger open error ([#4320](https://github.com/ant-design/pro-components/issues/4320)) ([17106af](https://github.com/ant-design/pro-components/commit/17106afaf32b9f06429cffbf666ad260b3269099))
 
-# [1.51.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.50.1...@ant-design/pro-form@1.51.0) (2021-12-20)
+# [1.51.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.50.1...@bicitech-design/pro-form@1.51.0) (2021-12-20)
 
 ### Bug Fixes
 
@@ -483,13 +483,13 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** Support ProFormTreeSelect and valueType=treeSelect ([#4237](https://github.com/ant-design/pro-components/issues/4237)) ([31fab85](https://github.com/ant-design/pro-components/commit/31fab85ecc2c3ef873e88b050f26d1c3de4b8f98))
 
-## [1.50.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.50.0...@ant-design/pro-form@1.50.1) (2021-12-17)
+## [1.50.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.50.0...@bicitech-design/pro-form@1.50.1) (2021-12-17)
 
 ### Bug Fixes
 
 - **form:** syncToUrl params error ([#4296](https://github.com/ant-design/pro-components/issues/4296)) ([95ab695](https://github.com/ant-design/pro-components/commit/95ab69560dbb88fcbd24570aa9b34815867789ca))
 
-# [1.50.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.11...@ant-design/pro-form@1.50.0) (2021-12-13)
+# [1.50.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.11...@bicitech-design/pro-form@1.50.0) (2021-12-13)
 
 ### Bug Fixes
 
@@ -499,61 +499,61 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **layout:** settingDrawer use new antd new function ([#4042](https://github.com/ant-design/pro-components/issues/4042)) ([8e907d8](https://github.com/ant-design/pro-components/commit/8e907d8bbe48848c37e8ce1d5a584880e181f250))
 
-## [1.49.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.10...@ant-design/pro-form@1.49.11) (2021-12-10)
+## [1.49.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.10...@bicitech-design/pro-form@1.49.11) (2021-12-10)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.9...@ant-design/pro-form@1.49.10) (2021-12-10)
+## [1.49.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.9...@bicitech-design/pro-form@1.49.10) (2021-12-10)
 
 ### Bug Fixes
 
 - **provide:** close auto clean cache ([#4243](https://github.com/ant-design/pro-components/issues/4243)) ([e638cb5](https://github.com/ant-design/pro-components/commit/e638cb5ff7830793020c94328ef2833c20f352f7))
 
-## [1.49.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.8...@ant-design/pro-form@1.49.9) (2021-12-09)
+## [1.49.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.8...@bicitech-design/pro-form@1.49.9) (2021-12-09)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.7...@ant-design/pro-form@1.49.8) (2021-12-08)
+## [1.49.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.7...@bicitech-design/pro-form@1.49.8) (2021-12-08)
 
 ### Bug Fixes
 
 - **form:** 🐛 SchemaForm and StepsForm formRef error ([#4220](https://github.com/ant-design/pro-components/issues/4220)) ([d1f8e95](https://github.com/ant-design/pro-components/commit/d1f8e95dee00942d4470e3ba1c60e86f18c7b3bd))
 
-## [1.49.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.6...@ant-design/pro-form@1.49.7) (2021-12-07)
+## [1.49.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.6...@bicitech-design/pro-form@1.49.7) (2021-12-07)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.5...@ant-design/pro-form@1.49.6) (2021-12-01)
+## [1.49.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.5...@bicitech-design/pro-form@1.49.6) (2021-12-01)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.4...@ant-design/pro-form@1.49.5) (2021-12-01)
+## [1.49.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.4...@bicitech-design/pro-form@1.49.5) (2021-12-01)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.3...@ant-design/pro-form@1.49.4) (2021-11-30)
+## [1.49.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.3...@bicitech-design/pro-form@1.49.4) (2021-11-30)
 
 ### Bug Fixes
 
 - **form:** fix the problem that addonBefore Required does not work when formitem is set ([#4141](https://github.com/ant-design/pro-components/issues/4141)) ([a994430](https://github.com/ant-design/pro-components/commit/a994430828ab03fe5dc75723aec029f929ba20c5))
 
-## [1.49.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.2...@ant-design/pro-form@1.49.3) (2021-11-23)
+## [1.49.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.2...@bicitech-design/pro-form@1.49.3) (2021-11-23)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.49.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.1...@ant-design/pro-form@1.49.2) (2021-11-23)
+## [1.49.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.1...@bicitech-design/pro-form@1.49.2) (2021-11-23)
 
 ### Bug Fixes
 
 - **form:** default close render params to url ([cd4f0ab](https://github.com/ant-design/pro-components/commit/cd4f0abab77cc212a53f549ea16faafa70d00a15))
 
-## [1.49.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.49.0...@ant-design/pro-form@1.49.1) (2021-11-22)
+## [1.49.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.49.0...@bicitech-design/pro-form@1.49.1) (2021-11-22)
 
 ### Bug Fixes
 
 - **ProForm:** 修复 ProForm 请求两次问题 ([#4074](https://github.com/ant-design/pro-components/issues/4074)) ([fe9d08c](https://github.com/ant-design/pro-components/commit/fe9d08c950497bb2447ca088471b9dc8b86acb67))
 
-# [1.49.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.48.1...@ant-design/pro-form@1.49.0) (2021-11-18)
+# [1.49.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.48.1...@bicitech-design/pro-form@1.49.0) (2021-11-18)
 
 ### Bug Fixes
 
@@ -564,20 +564,20 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** ProFormList support showItemLabel ([#4055](https://github.com/ant-design/pro-components/issues/4055)) ([1f8317a](https://github.com/ant-design/pro-components/commit/1f8317a14cb5d2a2f87c5a4fc747009398035694))
 
-## [1.48.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.48.0...@ant-design/pro-form@1.48.1) (2021-11-16)
+## [1.48.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.48.0...@bicitech-design/pro-form@1.48.1) (2021-11-16)
 
 ### Bug Fixes
 
 - **form:** support onVisibleChange form set ([#4044](https://github.com/ant-design/pro-components/issues/4044)) ([004d78f](https://github.com/ant-design/pro-components/commit/004d78ff276eaa762f8f363404d4ec8fadeea70e))
 
-# [1.48.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.47.0...@ant-design/pro-form@1.48.0) (2021-11-15)
+# [1.48.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.47.0...@bicitech-design/pro-form@1.48.0) (2021-11-15)
 
 ### Features
 
 - **form:** support antd next ([#4038](https://github.com/ant-design/pro-components/issues/4038)) ([96a64c3](https://github.com/ant-design/pro-components/commit/96a64c35d0fc6a359a4ff3d36b96f510f4580c63)), closes [#3770](https://github.com/ant-design/pro-components/issues/3770) [#3863](https://github.com/ant-design/pro-components/issues/3863)
 - **table:** add card table ([#4033](https://github.com/ant-design/pro-components/issues/4033)) ([b2a205d](https://github.com/ant-design/pro-components/commit/b2a205d72c2afe1e9cfca6fe0e61dcbf9a1611e5))
 
-# [1.47.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.46.0...@ant-design/pro-form@1.47.0) (2021-11-12)
+# [1.47.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.46.0...@bicitech-design/pro-form@1.47.0) (2021-11-12)
 
 ### Bug Fixes
 
@@ -594,7 +594,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **field:** select request 添加防抖动属性 ([#3987](https://github.com/ant-design/pro-components/issues/3987)) ([887e654](https://github.com/ant-design/pro-components/commit/887e6541dae8e614789e651c74b32abc875e83e7))
 - **form:** money support numberPopover ([#4008](https://github.com/ant-design/pro-components/issues/4008)) ([0d720f1](https://github.com/ant-design/pro-components/commit/0d720f19bf196f31bf16f4f730b039dd1a87ba3d))
 
-# [1.46.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.45.0...@ant-design/pro-form@1.46.0) (2021-11-02)
+# [1.46.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.45.0...@bicitech-design/pro-form@1.46.0) (2021-11-02)
 
 ### Bug Fixes
 
@@ -605,13 +605,13 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** SchemaForm support dependency ([#3895](https://github.com/ant-design/pro-components/issues/3895)) ([7a5a509](https://github.com/ant-design/pro-components/commit/7a5a509f7b03311837e5f598feffa92078e81888))
 
-# [1.45.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.44.0...@ant-design/pro-form@1.45.0) (2021-10-27)
+# [1.45.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.44.0...@bicitech-design/pro-form@1.45.0) (2021-10-27)
 
 ### Features
 
 - **form:** support Cascader ([#3904](https://github.com/ant-design/pro-components/issues/3904)) ([be63c81](https://github.com/ant-design/pro-components/commit/be63c81be1102fd2f099e9182fb296a01a8b59f0))
 
-# [1.44.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.5...@ant-design/pro-form@1.44.0) (2021-10-26)
+# [1.44.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.5...@bicitech-design/pro-form@1.44.0) (2021-10-26)
 
 ### Bug Fixes
 
@@ -623,15 +623,15 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support autoFocusFirstInput props ([#3894](https://github.com/ant-design/pro-components/issues/3894)) ([a860555](https://github.com/ant-design/pro-components/commit/a860555f6ab683b52bb0cfd58e6be60fe98a70fe))
 - support ssr server ([69773c9](https://github.com/ant-design/pro-components/commit/69773c9dbaccd342d86312032c7b09958cdaed7c))
 
-## [1.43.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.4...@ant-design/pro-form@1.43.5) (2021-10-19)
+## [1.43.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.4...@bicitech-design/pro-form@1.43.5) (2021-10-19)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.43.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.3...@ant-design/pro-form@1.43.4) (2021-10-18)
+## [1.43.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.3...@bicitech-design/pro-form@1.43.4) (2021-10-18)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.43.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.2...@ant-design/pro-form@1.43.3) (2021-10-15)
+## [1.43.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.2...@bicitech-design/pro-form@1.43.3) (2021-10-15)
 
 ### Bug Fixes
 
@@ -639,17 +639,17 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix Abnormal operation of proformdependency in proform ([#3839](https://github.com/ant-design/pro-components/issues/3839)) ([d107ea9](https://github.com/ant-design/pro-components/commit/d107ea93c4bb8fe08c56cbe8eb52722ff327b9f6))
 - **form:** fix modal and drawer reset error ([#3838](https://github.com/ant-design/pro-components/issues/3838)) ([e76eee7](https://github.com/ant-design/pro-components/commit/e76eee762779a0b3718441b57bc037dc3a5bee89))
 
-## [1.43.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.1...@ant-design/pro-form@1.43.2) (2021-10-12)
+## [1.43.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.1...@bicitech-design/pro-form@1.43.2) (2021-10-12)
 
 ### Bug Fixes
 
 - **card:** fix card ehen theme change no change color error ([#3804](https://github.com/ant-design/pro-components/issues/3804)) ([083ec08](https://github.com/ant-design/pro-components/commit/083ec08794ab555615d5eb2304c3ef2e4660e77f))
 
-## [1.43.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.43.0...@ant-design/pro-form@1.43.1) (2021-10-08)
+## [1.43.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.43.0...@bicitech-design/pro-form@1.43.1) (2021-10-08)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.43.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.42.1...@ant-design/pro-form@1.43.0) (2021-10-08)
+# [1.43.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.42.1...@bicitech-design/pro-form@1.43.0) (2021-10-08)
 
 ### Bug Fixes
 
@@ -662,13 +662,13 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** form support use singer function ([#3764](https://github.com/ant-design/pro-components/issues/3764)) ([3ec5d3c](https://github.com/ant-design/pro-components/commit/3ec5d3c9779f63a0a3e701d9825754ca32cc8111))
 
-## [1.42.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.42.0...@ant-design/pro-form@1.42.1) (2021-09-26)
+## [1.42.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.42.0...@bicitech-design/pro-form@1.42.1) (2021-09-26)
 
 ### Bug Fixes
 
 - **form:** no use div ref render dom ([#3739](https://github.com/ant-design/pro-components/issues/3739)) ([a72dce8](https://github.com/ant-design/pro-components/commit/a72dce88912715b54308e54f2660c57ae227e4f5))
 
-# [1.42.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.41.2...@ant-design/pro-form@1.42.0) (2021-09-24)
+# [1.42.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.41.2...@bicitech-design/pro-form@1.42.0) (2021-09-24)
 
 ### Bug Fixes
 
@@ -678,21 +678,21 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** 增加验证并返回格式化后值的方法 validateFieldsReturnFormatValue ([fec07d9](https://github.com/ant-design/pro-components/commit/fec07d9f5fbc218f114ca73ee67d7629cf203362))
 
-## [1.41.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.41.1...@ant-design/pro-form@1.41.2) (2021-09-18)
+## [1.41.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.41.1...@bicitech-design/pro-form@1.41.2) (2021-09-18)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.41.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.41.0...@ant-design/pro-form@1.41.1) (2021-09-18)
+## [1.41.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.41.0...@bicitech-design/pro-form@1.41.1) (2021-09-18)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.41.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.40.1...@ant-design/pro-form@1.41.0) (2021-09-17)
+# [1.41.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.40.1...@bicitech-design/pro-form@1.41.0) (2021-09-17)
 
 ### Features
 
 - **form:** support auto getPopupContainer ([#3685](https://github.com/ant-design/pro-components/issues/3685)) ([896c113](https://github.com/ant-design/pro-components/commit/896c11363f5a3d8043bf3e029bd75496d06ce83d))
 
-## [1.40.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.40.0...@ant-design/pro-form@1.40.1) (2021-09-16)
+## [1.40.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.40.0...@bicitech-design/pro-form@1.40.1) (2021-09-16)
 
 ### Bug Fixes
 
@@ -700,13 +700,13 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix the problem of repeated prompts ([#3671](https://github.com/ant-design/pro-components/issues/3671)) ([089226f](https://github.com/ant-design/pro-components/commit/089226f6af593d07caecef2d24c3d26ef3817810))
 - [#3651](https://github.com/ant-design/pro-components/issues/3651) 修复金额输入组件设置 width 无效的问题 ([#3654](https://github.com/ant-design/pro-components/issues/3654)) ([ef72dba](https://github.com/ant-design/pro-components/commit/ef72dbae77a77a5831a6056d4194ac3524f7afe8))
 
-# [1.40.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.39.1...@ant-design/pro-form@1.40.0) (2021-09-10)
+# [1.40.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.39.1...@bicitech-design/pro-form@1.40.0) (2021-09-10)
 
 ### Features
 
 - **form:** formList support function children ([#3635](https://github.com/ant-design/pro-components/issues/3635)) ([93fb20d](https://github.com/ant-design/pro-components/commit/93fb20de2427470ca3ffbe0ba4c7b86a8ffb7cd4))
 
-## [1.39.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.39.0...@ant-design/pro-form@1.39.1) (2021-09-09)
+## [1.39.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.39.0...@bicitech-design/pro-form@1.39.1) (2021-09-09)
 
 ### Bug Fixes
 
@@ -714,7 +714,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** dependencies awalay run funtion ([3075858](https://github.com/ant-design/pro-components/commit/307585851997ffc4cc5ecc9aeb015bee9dfa48e2))
 - **form:** 解决有 addonBefore 或 addBefore 的情况下出现双重表单校验提示的问题 ([#3611](https://github.com/ant-design/pro-components/issues/3611)) ([aceeb06](https://github.com/ant-design/pro-components/commit/aceeb06b912c5f9da9c8922c3ab24109a03e3624)), closes [Form#3547](https://github.com/Form/issues/3547) [#3547](https://github.com/ant-design/pro-components/issues/3547) [#3601](https://github.com/ant-design/pro-components/issues/3601)
 
-# [1.39.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.38.1...@ant-design/pro-form@1.39.0) (2021-09-07)
+# [1.39.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.38.1...@bicitech-design/pro-form@1.39.0) (2021-09-07)
 
 ### Bug Fixes
 
@@ -726,11 +726,11 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form,field:** 增加 ProFormMoney 组件 ([#3588](https://github.com/ant-design/pro-components/issues/3588)) ([2435ac3](https://github.com/ant-design/pro-components/commit/2435ac34b968ebbbeb018ab070f94f344822eddd)), closes [Form#3547](https://github.com/Form/issues/3547) [#3547](https://github.com/ant-design/pro-components/issues/3547)
 
-## [1.38.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.38.0...@ant-design/pro-form@1.38.1) (2021-08-30)
+## [1.38.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.38.0...@bicitech-design/pro-form@1.38.1) (2021-08-30)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.38.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.37.0...@ant-design/pro-form@1.38.0) (2021-08-30)
+# [1.38.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.37.0...@bicitech-design/pro-form@1.38.0) (2021-08-30)
 
 ### Bug Fixes
 
@@ -742,7 +742,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** LoginForm support logo ([#3545](https://github.com/ant-design/pro-components/issues/3545)) ([c10a960](https://github.com/ant-design/pro-components/commit/c10a960d9758523ba331e0a31888d99339569b14))
 - **layout:** support layout error boundaries ([#3551](https://github.com/ant-design/pro-components/issues/3551)) ([5b5f76a](https://github.com/ant-design/pro-components/commit/5b5f76a86df14ce42f12ce0e1e916e4b3b2ea357))
 
-# [1.37.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.36.0...@ant-design/pro-form@1.37.0) (2021-08-26)
+# [1.37.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.36.0...@bicitech-design/pro-form@1.37.0) (2021-08-26)
 
 ### Bug Fixes
 
@@ -754,7 +754,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** huge performance improvement ([#3528](https://github.com/ant-design/pro-components/issues/3528)) ([31be4cc](https://github.com/ant-design/pro-components/commit/31be4cc533b222607808742dd51d9016017fb4f0))
 - **form:** huge performance improvement ([#3533](https://github.com/ant-design/pro-components/issues/3533)) ([8092203](https://github.com/ant-design/pro-components/commit/8092203475a61380365821cf1c4e3b9886fec0b6))
 
-# [1.36.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.35.0...@ant-design/pro-form@1.36.0) (2021-08-24)
+# [1.36.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.35.0...@bicitech-design/pro-form@1.36.0) (2021-08-24)
 
 ### Bug Fixes
 
@@ -766,7 +766,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** form columns support dependencies ([#3523](https://github.com/ant-design/pro-components/issues/3523)) ([73624c8](https://github.com/ant-design/pro-components/commit/73624c87cf81e417cc3547386050261a45903bce))
 
-# [1.35.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.34.0...@ant-design/pro-form@1.35.0) (2021-08-19)
+# [1.35.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.34.0...@bicitech-design/pro-form@1.35.0) (2021-08-19)
 
 ### Bug Fixes
 
@@ -782,7 +782,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support addonBefore and addonAfter ([#3434](https://github.com/ant-design/pro-components/issues/3434)) ([ff23de6](https://github.com/ant-design/pro-components/commit/ff23de663852e628447a25243b20c97395f30fc5))
 - **form:** support ProFormInstance types ([#3432](https://github.com/ant-design/pro-components/issues/3432)) ([e341b08](https://github.com/ant-design/pro-components/commit/e341b082994492eaca6773c325f37a3bebf29d00))
 
-# [1.34.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.33.1...@ant-design/pro-form@1.34.0) (2021-08-09)
+# [1.34.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.33.1...@bicitech-design/pro-form@1.34.0) (2021-08-09)
 
 ### Bug Fixes
 
@@ -793,13 +793,13 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** FormItem support FilterDropdown ([#3381](https://github.com/ant-design/pro-components/issues/3381)) ([f5f7dbb](https://github.com/ant-design/pro-components/commit/f5f7dbb2730496a836d684840462c08715caff62))
 - **table:** support defualt size ([#3383](https://github.com/ant-design/pro-components/issues/3383)) ([442f716](https://github.com/ant-design/pro-components/commit/442f716dcbd36dde436ebdf4a85a8fa6e9e3b1b1))
 
-## [1.33.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.33.0...@ant-design/pro-form@1.33.1) (2021-08-05)
+## [1.33.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.33.0...@bicitech-design/pro-form@1.33.1) (2021-08-05)
 
 ### Bug Fixes
 
 - **form:** reset initialValues add warning ([#3364](https://github.com/ant-design/pro-components/issues/3364)) ([071cecf](https://github.com/ant-design/pro-components/commit/071cecf335dac1d2175a4e6b7bcdf3386c3c0501))
 
-# [1.33.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.32.4...@ant-design/pro-form@1.33.0) (2021-08-03)
+# [1.33.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.32.4...@bicitech-design/pro-form@1.33.0) (2021-08-03)
 
 ### Bug Fixes
 
@@ -810,28 +810,28 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** add login form ([#3328](https://github.com/ant-design/pro-components/issues/3328)) ([5966fad](https://github.com/ant-design/pro-components/commit/5966fad52ef3a139f313458090589d3f6a02f3dc))
 
-## [1.32.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.32.3...@ant-design/pro-form@1.32.4) (2021-07-30)
+## [1.32.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.32.3...@bicitech-design/pro-form@1.32.4) (2021-07-30)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.32.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.32.2...@ant-design/pro-form@1.32.3) (2021-07-30)
+## [1.32.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.32.2...@bicitech-design/pro-form@1.32.3) (2021-07-30)
 
 ### Bug Fixes
 
 - **form:** fix DrawerForm&ModalForm submitter overwirter error ([#3332](https://github.com/ant-design/pro-components/issues/3332)) ([022b19b](https://github.com/ant-design/pro-components/commit/022b19b20f6a53c24107f879804f0d781b684a46))
 - **form:** ProFormSelect can not get values ([#3321](https://github.com/ant-design/pro-components/issues/3321)) ([fc9e448](https://github.com/ant-design/pro-components/commit/fc9e4487ef0ba661dc9e8c2e9470773d7e246eb0))
 
-## [1.32.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.32.1...@ant-design/pro-form@1.32.2) (2021-07-26)
+## [1.32.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.32.1...@bicitech-design/pro-form@1.32.2) (2021-07-26)
 
 ### Bug Fixes
 
 - **form:** 修复 QueryFilter 组件 optionRender 设为 false 无效问题 ([#3283](https://github.com/ant-design/pro-components/issues/3283)) ([e4ab640](https://github.com/ant-design/pro-components/commit/e4ab6409f16f918f73540420567552bff92edab6))
 
-## [1.32.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.32.0...@ant-design/pro-form@1.32.1) (2021-07-20)
+## [1.32.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.32.0...@bicitech-design/pro-form@1.32.1) (2021-07-20)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.32.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.31.2...@ant-design/pro-form@1.32.0) (2021-07-19)
+# [1.32.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.31.2...@bicitech-design/pro-form@1.32.0) (2021-07-19)
 
 ### Bug Fixes
 
@@ -846,15 +846,15 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** StepForm support step props ([#3239](https://github.com/ant-design/pro-components/issues/3239)) ([3aaad4b](https://github.com/ant-design/pro-components/commit/3aaad4b2c47f76a0bf0b8f76ac78c844652af313))
 
-## [1.31.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.31.1...@ant-design/pro-form@1.31.2) (2021-07-06)
+## [1.31.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.31.1...@bicitech-design/pro-form@1.31.2) (2021-07-06)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.31.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.31.0...@ant-design/pro-form@1.31.1) (2021-07-01)
+## [1.31.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.31.0...@bicitech-design/pro-form@1.31.1) (2021-07-01)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.31.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.30.0...@ant-design/pro-form@1.31.0) (2021-06-28)
+# [1.31.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.30.0...@bicitech-design/pro-form@1.31.0) (2021-06-28)
 
 ### Bug Fixes
 
@@ -867,7 +867,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** add layout demo ([#3076](https://github.com/ant-design/pro-components/issues/3076)) ([1def19d](https://github.com/ant-design/pro-components/commit/1def19d061d148fec40cf3a4c4f39a1bfcc0c9ad))
 
-# [1.30.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.29.1...@ant-design/pro-form@1.30.0) (2021-06-23)
+# [1.30.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.29.1...@bicitech-design/pro-form@1.30.0) (2021-06-23)
 
 ### Bug Fixes
 
@@ -877,7 +877,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** SchemaForm support steps form ([#3058](https://github.com/ant-design/pro-components/issues/3058)) ([146f0fb](https://github.com/ant-design/pro-components/commit/146f0fb32e1f01b24917c225da4cb32e81861524))
 
-## [1.29.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.29.0...@ant-design/pro-form@1.29.1) (2021-06-17)
+## [1.29.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.29.0...@bicitech-design/pro-form@1.29.1) (2021-06-17)
 
 ### Bug Fixes
 
@@ -886,7 +886,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** switch width style fixed ([4e7543d](https://github.com/ant-design/pro-components/commit/4e7543daca5c5da3cfef2761737301e392a41cac))
 - **form:** use same antd lock ([#3043](https://github.com/ant-design/pro-components/issues/3043)) ([e6d46e5](https://github.com/ant-design/pro-components/commit/e6d46e54d2618537709ab2cdd8847d844f174fb1))
 
-# [1.29.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.28.1...@ant-design/pro-form@1.29.0) (2021-06-15)
+# [1.29.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.28.1...@bicitech-design/pro-form@1.29.0) (2021-06-15)
 
 ### Bug Fixes
 
@@ -897,13 +897,13 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** ModalForm support footer is null ([#3001](https://github.com/ant-design/pro-components/issues/3001)) ([92c07b0](https://github.com/ant-design/pro-components/commit/92c07b02e8d9441843ce614821d4c41cc6842c7f))
 
-## [1.28.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.28.0...@ant-design/pro-form@1.28.1) (2021-06-09)
+## [1.28.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.28.0...@bicitech-design/pro-form@1.28.1) (2021-06-09)
 
 ### Bug Fixes
 
 - **form:** fix ProFormCaptcha now work error ([#2981](https://github.com/ant-design/pro-components/issues/2981)) ([2784e0e](https://github.com/ant-design/pro-components/commit/2784e0ec5eb5127939aeb518ca31e5338f76099d))
 
-# [1.28.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.27.1...@ant-design/pro-form@1.28.0) (2021-06-08)
+# [1.28.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.27.1...@bicitech-design/pro-form@1.28.0) (2021-06-08)
 
 ### Bug Fixes
 
@@ -919,14 +919,14 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** LightFilter support footer ([#2794](https://github.com/ant-design/pro-components/issues/2794)) ([#2884](https://github.com/ant-design/pro-components/issues/2884)) ([042daa6](https://github.com/ant-design/pro-components/commit/042daa6035361ae65b401004eb06f697186f33c8))
 - **form:** support more tooltip props ([#2932](https://github.com/ant-design/pro-components/issues/2932)) ([bedd7eb](https://github.com/ant-design/pro-components/commit/bedd7ebb0784da8fbb9c4998651f39f5efff5354))
 
-## [1.27.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.27.0...@ant-design/pro-form@1.27.1) (2021-05-31)
+## [1.27.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.27.0...@bicitech-design/pro-form@1.27.1) (2021-05-31)
 
 ### Bug Fixes
 
 - **form:** fix abnormal gap ([#2883](https://github.com/ant-design/pro-components/issues/2883)) ([6aa13f0](https://github.com/ant-design/pro-components/commit/6aa13f0ac1416d11e501f0be9c71f80137c0be82))
 - build error ([#2880](https://github.com/ant-design/pro-components/issues/2880)) ([c90591a](https://github.com/ant-design/pro-components/commit/c90591a82e91de886fd2ede7dcbb7059fac8ca83))
 
-# [1.27.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.26.0...@ant-design/pro-form@1.27.0) (2021-05-28)
+# [1.27.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.26.0...@bicitech-design/pro-form@1.27.0) (2021-05-28)
 
 ### Bug Fixes
 
@@ -936,7 +936,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - step form value deep merge ([#2836](https://github.com/ant-design/pro-components/issues/2836)) ([e5ab9d4](https://github.com/ant-design/pro-components/commit/e5ab9d4e03a5f61c9f1528a27ccbcded9c0f27ef))
 
-# [1.26.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.25.0...@ant-design/pro-form@1.26.0) (2021-05-25)
+# [1.26.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.25.0...@bicitech-design/pro-form@1.26.0) (2021-05-25)
 
 ### Bug Fixes
 
@@ -946,7 +946,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **table:** eidt table use Proform ([#2832](https://github.com/ant-design/pro-components/issues/2832)) ([5c8b4ba](https://github.com/ant-design/pro-components/commit/5c8b4bac7169d2d0c091b1d1d9a68f03166abd88))
 
-# [1.25.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.24.2...@ant-design/pro-form@1.25.0) (2021-05-24)
+# [1.25.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.24.2...@bicitech-design/pro-form@1.25.0) (2021-05-24)
 
 ### Bug Fixes
 
@@ -956,17 +956,17 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** form support request and params ([#2812](https://github.com/ant-design/pro-components/issues/2812)) ([8064293](https://github.com/ant-design/pro-components/commit/8064293532e9e937dea973be50d9e8fbc06c3aa9))
 
-## [1.24.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.24.1...@ant-design/pro-form@1.24.2) (2021-05-23)
+## [1.24.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.24.1...@bicitech-design/pro-form@1.24.2) (2021-05-23)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.24.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.24.0...@ant-design/pro-form@1.24.1) (2021-05-21)
+## [1.24.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.24.0...@bicitech-design/pro-form@1.24.1) (2021-05-21)
 
 ### Bug Fixes
 
 - **form:** space between button and form ([#2777](https://github.com/ant-design/pro-components/issues/2777)) ([ddceda2](https://github.com/ant-design/pro-components/commit/ddceda2ca019de0c0fe3a29b3a187e90b1ed3398))
 
-# [1.24.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.23.0...@ant-design/pro-form@1.24.0) (2021-05-18)
+# [1.24.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.23.0...@bicitech-design/pro-form@1.24.0) (2021-05-18)
 
 ### Bug Fixes
 
@@ -978,7 +978,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - add table drag demo ([#2736](https://github.com/ant-design/pro-components/issues/2736)) ([cedb26e](https://github.com/ant-design/pro-components/commit/cedb26ee26733a1a9e83184b0a1a87b0e2866d60))
 
-# [1.23.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.22.1...@ant-design/pro-form@1.23.0) (2021-05-11)
+# [1.23.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.22.1...@bicitech-design/pro-form@1.23.0) (2021-05-11)
 
 ### Bug Fixes
 
@@ -991,13 +991,13 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **table:** support sync pageinfo to url ([#2701](https://github.com/ant-design/pro-components/issues/2701)) ([384ca36](https://github.com/ant-design/pro-components/commit/384ca364e0606535e4538920d6ecc85cff70c164))
 
-## [1.22.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.22.0...@ant-design/pro-form@1.22.1) (2021-04-29)
+## [1.22.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.22.0...@bicitech-design/pro-form@1.22.1) (2021-04-29)
 
 ### Bug Fixes
 
 - **form:** support formRef ([36b09f4](https://github.com/ant-design/pro-components/commit/36b09f4a76e73ffde52cff1a3c9a01ddc8506b69))
 
-# [1.22.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.5...@ant-design/pro-form@1.22.0) (2021-04-29)
+# [1.22.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.5...@bicitech-design/pro-form@1.22.0) (2021-04-29)
 
 ### Bug Fixes
 
@@ -1009,33 +1009,33 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** FieldSet support type=group ([#2628](https://github.com/ant-design/pro-components/issues/2628)) ([4e737dd](https://github.com/ant-design/pro-components/commit/4e737dd566a3eea4b292b427836c407523b3c48b))
 
-## [1.21.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.4...@ant-design/pro-form@1.21.5) (2021-04-22)
+## [1.21.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.4...@bicitech-design/pro-form@1.21.5) (2021-04-22)
 
 ### Bug Fixes
 
 - **form:** sync url should no alawys set reset ([#2568](https://github.com/ant-design/pro-components/issues/2568)) ([a06d17b](https://github.com/ant-design/pro-components/commit/a06d17b69c561c60751baaf72aef36bd8dbba407))
 
-## [1.21.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.3...@ant-design/pro-form@1.21.4) (2021-04-19)
+## [1.21.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.3...@bicitech-design/pro-form@1.21.4) (2021-04-19)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.21.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.2...@ant-design/pro-form@1.21.3) (2021-04-19)
+## [1.21.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.2...@bicitech-design/pro-form@1.21.3) (2021-04-19)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.21.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.1...@ant-design/pro-form@1.21.2) (2021-04-19)
+## [1.21.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.1...@bicitech-design/pro-form@1.21.2) (2021-04-19)
 
 ### Bug Fixes
 
 - **table:** fix add end will error in pagination ([#2529](https://github.com/ant-design/pro-components/issues/2529)) ([a74e410](https://github.com/ant-design/pro-components/commit/a74e410e8f6ffa3f84b455c4399130008ebb509c))
 
-## [1.21.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.21.0...@ant-design/pro-form@1.21.1) (2021-04-15)
+## [1.21.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.21.0...@bicitech-design/pro-form@1.21.1) (2021-04-15)
 
 ### Bug Fixes
 
 - **form:** fix build form error ([9fb9e3f](https://github.com/ant-design/pro-components/commit/9fb9e3fe6b4ace4fd66566483b7511b67d5bd5b1))
 
-# [1.21.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.20.0...@ant-design/pro-form@1.21.0) (2021-04-15)
+# [1.21.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.20.0...@bicitech-design/pro-form@1.21.0) (2021-04-15)
 
 ### Bug Fixes
 
@@ -1049,7 +1049,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** group support align ([#2457](https://github.com/ant-design/pro-components/issues/2457)) ([73df402](https://github.com/ant-design/pro-components/commit/73df402db96cb8ce83d7a18cb87ab33eab09b74a))
 - **form:** support SchemaForm ([#2040](https://github.com/ant-design/pro-components/issues/2040)) ([423f476](https://github.com/ant-design/pro-components/commit/423f4761eecde5a62c4a8476441aa0484ff94711))
 
-# [1.20.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.19.1...@ant-design/pro-form@1.20.0) (2021-04-06)
+# [1.20.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.19.1...@bicitech-design/pro-form@1.20.0) (2021-04-06)
 
 ### Bug Fixes
 
@@ -1060,7 +1060,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** creatorRecord support function ([#2383](https://github.com/ant-design/pro-components/issues/2383)) ([e9a5ba9](https://github.com/ant-design/pro-components/commit/e9a5ba9612146277b5b4cf375b5b25695db812af))
 
-## [1.19.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.19.0...@ant-design/pro-form@1.19.1) (2021-03-31)
+## [1.19.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.19.0...@bicitech-design/pro-form@1.19.1) (2021-03-31)
 
 ### Bug Fixes
 
@@ -1069,7 +1069,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix moblie style width is over ([#2357](https://github.com/ant-design/pro-components/issues/2357)) ([02511c5](https://github.com/ant-design/pro-components/commit/02511c5bc1d546cb2e27805ed73df7ab27acbc59))
 - **form:** fix StepsForm min-width error ([#2351](https://github.com/ant-design/pro-components/issues/2351)) ([5affd94](https://github.com/ant-design/pro-components/commit/5affd940b9a023413dfd5134ad143f9c9953ae42))
 
-# [1.19.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.18.4...@ant-design/pro-form@1.19.0) (2021-03-29)
+# [1.19.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.18.4...@bicitech-design/pro-form@1.19.0) (2021-03-29)
 
 ### Bug Fixes
 
@@ -1080,20 +1080,20 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **table:** search form support className ([#2254](https://github.com/ant-design/pro-components/issues/2254)) ([4b36710](https://github.com/ant-design/pro-components/commit/4b36710e6b314a2054b69b319bf071e3754727be))
 
-## [1.18.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.18.3...@ant-design/pro-form@1.18.4) (2021-03-18)
+## [1.18.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.18.3...@bicitech-design/pro-form@1.18.4) (2021-03-18)
 
 ### Bug Fixes
 
 - **form:** fix drawer and modal from render error ([#2221](https://github.com/ant-design/pro-components/issues/2221)) ([55ee6c9](https://github.com/ant-design/pro-components/commit/55ee6c9a7831db1b67c3cde224dfbbcb4e311736))
 - **form:** if width<16, no rerender form layout ([#2220](https://github.com/ant-design/pro-components/issues/2220)) ([dd2ebe0](https://github.com/ant-design/pro-components/commit/dd2ebe02a8dd95366830d46c852ddcdc75b4a33d))
 
-## [1.18.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.18.2...@ant-design/pro-form@1.18.3) (2021-03-17)
+## [1.18.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.18.2...@bicitech-design/pro-form@1.18.3) (2021-03-17)
 
 ### Bug Fixes
 
 - **from:** form button porps support=false ([#2215](https://github.com/ant-design/pro-components/issues/2215)) ([c5bab24](https://github.com/ant-design/pro-components/commit/c5bab246658b8626cb34c516510e8533f513eaea))
 
-## [1.18.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.18.1...@ant-design/pro-form@1.18.2) (2021-03-16)
+## [1.18.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.18.1...@bicitech-design/pro-form@1.18.2) (2021-03-16)
 
 ### Bug Fixes
 
@@ -1101,11 +1101,11 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix ProFormDateRangePicker type error ([#2181](https://github.com/ant-design/pro-components/issues/2181)) ([e01d519](https://github.com/ant-design/pro-components/commit/e01d5198a999267c34c9695460a5c618dd700e73))
 - **form:** fix width<16, layout will change error ([#2180](https://github.com/ant-design/pro-components/issues/2180)) ([67018c5](https://github.com/ant-design/pro-components/commit/67018c57ade57088229953c23e3155ed578dd5ae))
 
-## [1.18.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.18.0...@ant-design/pro-form@1.18.1) (2021-03-11)
+## [1.18.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.18.0...@bicitech-design/pro-form@1.18.1) (2021-03-11)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.18.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.17.0...@ant-design/pro-form@1.18.0) (2021-03-11)
+# [1.18.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.17.0...@bicitech-design/pro-form@1.18.0) (2021-03-11)
 
 ### Bug Fixes
 
@@ -1115,7 +1115,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **card:** migrate StatisticCard ([#2023](https://github.com/ant-design/pro-components/issues/2023)) ([317549d](https://github.com/ant-design/pro-components/commit/317549d814401b795726562fa4b4ee5471afe3ba))
 
-# [1.17.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.16.3...@ant-design/pro-form@1.17.0) (2021-03-08)
+# [1.17.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.16.3...@bicitech-design/pro-form@1.17.0) (2021-03-08)
 
 ### Bug Fixes
 
@@ -1132,7 +1132,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **field:** add color pick ([#2089](https://github.com/ant-design/pro-components/issues/2089)) ([e83c2ee](https://github.com/ant-design/pro-components/commit/e83c2ee36f67b66070074562f80f248cbfc1a6e3))
 
-## [1.16.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.16.2...@ant-design/pro-form@1.16.3) (2021-02-28)
+## [1.16.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.16.2...@bicitech-design/pro-form@1.16.3) (2021-02-28)
 
 ### Bug Fixes
 
@@ -1140,14 +1140,14 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** update form list style ([a877ef7](https://github.com/ant-design/pro-components/commit/a877ef73d1a6390ad2c3a726f53b6583f289a935))
 - **select:** no overwirtter defalut select props ([#2041](https://github.com/ant-design/pro-components/issues/2041)) ([0b4f1ea](https://github.com/ant-design/pro-components/commit/0b4f1ea1d4af7d15c7f4494b88236f32f8608a11))
 
-## [1.16.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.16.1...@ant-design/pro-form@1.16.2) (2021-02-25)
+## [1.16.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.16.1...@bicitech-design/pro-form@1.16.2) (2021-02-25)
 
 ### Bug Fixes
 
 - **form:** fix placeholder no work error ([#1991](https://github.com/ant-design/pro-components/issues/1991)) ([353c49d](https://github.com/ant-design/pro-components/commit/353c49dc0b44e193681f38366774a4040982e521))
 - **form:** form list support formlist ([#1995](https://github.com/ant-design/pro-components/issues/1995)) ([94e5d7b](https://github.com/ant-design/pro-components/commit/94e5d7b28bf0d2677da2dab2afbb1388bfaa9502))
 
-## [1.16.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.16.0...@ant-design/pro-form@1.16.1) (2021-02-23)
+## [1.16.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.16.0...@bicitech-design/pro-form@1.16.1) (2021-02-23)
 
 ### Bug Fixes
 
@@ -1157,7 +1157,7 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix modalForm reset time ([69fe97c](https://github.com/ant-design/pro-components/commit/69fe97cba2e602ae908a68c0aeed11afc20a992f))
 - **form:** ProFormSelect support params ([52a4a40](https://github.com/ant-design/pro-components/commit/52a4a40ea40b4410b4fcfc3a3c4422838f26a187))
 
-# [1.16.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.15.4...@ant-design/pro-form@1.16.0) (2021-02-22)
+# [1.16.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.15.4...@bicitech-design/pro-form@1.16.0) (2021-02-22)
 
 ### Bug Fixes
 
@@ -1172,27 +1172,27 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support form list ([#1908](https://github.com/ant-design/pro-components/issues/1908)) ([bc34d34](https://github.com/ant-design/pro-components/commit/bc34d34e490d83a73c890e6514d12d451a0161f9))
 - **select:** support SearchSelect ([#1916](https://github.com/ant-design/pro-components/issues/1916)) ([4cb5710](https://github.com/ant-design/pro-components/commit/4cb57100453856e079fe435f70d8fa2f7e62440c))
 
-## [1.15.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.15.3...@ant-design/pro-form@1.15.4) (2021-02-04)
+## [1.15.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.15.3...@bicitech-design/pro-form@1.15.4) (2021-02-04)
 
 ### Bug Fixes
 
 - **form:** modal and drawer form close not reset ([#1827](https://github.com/ant-design/pro-components/issues/1827)) ([71d456c](https://github.com/ant-design/pro-components/commit/71d456c5d07222046bfdfcd08de953dd5c269bd0))
 
-## [1.15.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.15.2...@ant-design/pro-form@1.15.3) (2021-02-02)
+## [1.15.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.15.2...@bicitech-design/pro-form@1.15.3) (2021-02-02)
 
 ### Bug Fixes
 
 - StepsForm document error ([#1800](https://github.com/ant-design/pro-components/issues/1800)) ([b9b9a1b](https://github.com/ant-design/pro-components/commit/b9b9a1b36a27c9b97ef831f8e0ca35ef8cb169cb))
 
-## [1.15.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.15.1...@ant-design/pro-form@1.15.2) (2021-01-25)
+## [1.15.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.15.1...@bicitech-design/pro-form@1.15.2) (2021-01-25)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.15.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.15.0...@ant-design/pro-form@1.15.1) (2021-01-21)
+## [1.15.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.15.0...@bicitech-design/pro-form@1.15.1) (2021-01-21)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.15.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.14.1...@ant-design/pro-form@1.15.0) (2021-01-21)
+# [1.15.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.14.1...@bicitech-design/pro-form@1.15.0) (2021-01-21)
 
 ### Bug Fixes
 
@@ -1206,11 +1206,11 @@ All notable changes to this project will be documented in this file. See [Conven
 - **table:** EditableProTable support onValuesChange ([#1713](https://github.com/ant-design/pro-components/issues/1713)) ([8e67799](https://github.com/ant-design/pro-components/commit/8e67799125e37c44d356166a309479c611895d86))
 - **table:** proTable supports polling ([#1694](https://github.com/ant-design/pro-components/issues/1694)) ([b37fe69](https://github.com/ant-design/pro-components/commit/b37fe69c53363acfc431900e01d6c5512fdae118))
 
-## [1.14.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.14.0...@ant-design/pro-form@1.14.1) (2021-01-18)
+## [1.14.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.14.0...@bicitech-design/pro-form@1.14.1) (2021-01-18)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.14.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.10...@ant-design/pro-form@1.14.0) (2021-01-18)
+# [1.14.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.10...@bicitech-design/pro-form@1.14.0) (2021-01-18)
 
 ### Bug Fixes
 
@@ -1226,25 +1226,25 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** support sync url ([#1650](https://github.com/ant-design/pro-components/issues/1650)) ([df6a8ec](https://github.com/ant-design/pro-components/commit/df6a8ec7340891691334ab4acc1c7d8679f649d7))
 - **table:** support hideInSetting props ([#1651](https://github.com/ant-design/pro-components/issues/1651)) ([2dee954](https://github.com/ant-design/pro-components/commit/2dee95453c79de23d967f285bb8aa9351b8b8cb0))
 
-## [1.13.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.9...@ant-design/pro-form@1.13.10) (2021-01-13)
+## [1.13.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.9...@bicitech-design/pro-form@1.13.10) (2021-01-13)
 
 ### Bug Fixes
 
 - **form:** default render form ([#1611](https://github.com/ant-design/pro-components/issues/1611)) ([fcdfeb6](https://github.com/ant-design/pro-components/commit/fcdfeb659c776250c7b70c4d71db2ac0609ee550))
 
-## [1.13.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.8...@ant-design/pro-form@1.13.9) (2021-01-12)
+## [1.13.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.8...@bicitech-design/pro-form@1.13.9) (2021-01-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.7...@ant-design/pro-form@1.13.8) (2021-01-11)
+## [1.13.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.7...@bicitech-design/pro-form@1.13.8) (2021-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.6...@ant-design/pro-form@1.13.7) (2021-01-11)
+## [1.13.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.6...@bicitech-design/pro-form@1.13.7) (2021-01-11)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.5...@ant-design/pro-form@1.13.6) (2021-01-08)
+## [1.13.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.5...@bicitech-design/pro-form@1.13.6) (2021-01-08)
 
 ### Bug Fixes
 
@@ -1252,29 +1252,29 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix ModalForm and DrawerFrom props error ([#1534](https://github.com/ant-design/pro-components/issues/1534)) ([9d4e028](https://github.com/ant-design/pro-components/commit/9d4e028d4a508013bf407a5920c9e541faa28a63))
 - **form:** fix ProFormRadio.Group vertical style error ([#1542](https://github.com/ant-design/pro-components/issues/1542)) ([e7d42d7](https://github.com/ant-design/pro-components/commit/e7d42d704961965d0aa9e38c53868e4242044fa7))
 
-## [1.13.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.4...@ant-design/pro-form@1.13.5) (2021-01-07)
+## [1.13.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.4...@bicitech-design/pro-form@1.13.5) (2021-01-07)
 
 ### Bug Fixes
 
 - **form:** fix form width no work error ([#1516](https://github.com/ant-design/pro-components/issues/1516)) ([0ce87ea](https://github.com/ant-design/pro-components/commit/0ce87ea5093aece6e0245d9c72ee0edc6137bb28))
 
-## [1.13.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.3...@ant-design/pro-form@1.13.4) (2021-01-06)
+## [1.13.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.3...@bicitech-design/pro-form@1.13.4) (2021-01-06)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.2...@ant-design/pro-form@1.13.3) (2021-01-05)
+## [1.13.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.2...@bicitech-design/pro-form@1.13.3) (2021-01-05)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.1...@ant-design/pro-form@1.13.2) (2021-01-05)
+## [1.13.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.1...@bicitech-design/pro-form@1.13.2) (2021-01-05)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.13.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.13.0...@ant-design/pro-form@1.13.1) (2021-01-04)
+## [1.13.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.13.0...@bicitech-design/pro-form@1.13.1) (2021-01-04)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.13.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.12.0...@ant-design/pro-form@1.13.0) (2021-01-02)
+# [1.13.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.12.0...@bicitech-design/pro-form@1.13.0) (2021-01-02)
 
 ### Bug Fixes
 
@@ -1285,7 +1285,7 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **from:** support ProFormDependency ([#1475](https://github.com/ant-design/pro-components/issues/1475)) ([a761e47](https://github.com/ant-design/pro-components/commit/a761e4796c1162082d60b26a53102bdb8146b63c))
 
-# [1.12.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.7...@ant-design/pro-form@1.12.0) (2021-01-01)
+# [1.12.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.7...@bicitech-design/pro-form@1.12.0) (2021-01-01)
 
 ### Bug Fixes
 
@@ -1295,27 +1295,27 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **table:** support customization valueType ([#1456](https://github.com/ant-design/pro-components/issues/1456)) ([cbce5ba](https://github.com/ant-design/pro-components/commit/cbce5baf9ae456a1ab32a748e7ac86ee592b4344))
 
-## [1.11.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.6...@ant-design/pro-form@1.11.7) (2020-12-31)
+## [1.11.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.6...@bicitech-design/pro-form@1.11.7) (2020-12-31)
 
 ### Bug Fixes
 
 - **form:** fix ProFormCaptcha name error ([#1459](https://github.com/ant-design/pro-components/issues/1459)) ([92c56bf](https://github.com/ant-design/pro-components/commit/92c56bf5eb3e4dee82c56092bc28b2e376054b32))
 
-## [1.11.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.5...@ant-design/pro-form@1.11.6) (2020-12-31)
+## [1.11.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.5...@bicitech-design/pro-form@1.11.6) (2020-12-31)
 
 ### Bug Fixes
 
 - **form:** add defaultXXX warning ([#1457](https://github.com/ant-design/pro-components/issues/1457)) ([805607b](https://github.com/ant-design/pro-components/commit/805607b46e1d076ae7199bef9aa68301f75dedcd))
 
-## [1.11.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.4...@ant-design/pro-form@1.11.5) (2020-12-28)
+## [1.11.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.4...@bicitech-design/pro-form@1.11.5) (2020-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.11.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.3...@ant-design/pro-form@1.11.4) (2020-12-28)
+## [1.11.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.3...@bicitech-design/pro-form@1.11.4) (2020-12-28)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.11.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.2...@ant-design/pro-form@1.11.3) (2020-12-28)
+## [1.11.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.2...@bicitech-design/pro-form@1.11.3) (2020-12-28)
 
 ### Bug Fixes
 
@@ -1323,97 +1323,97 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** fix QueryFilter span style error ([#1419](https://github.com/ant-design/pro-components/issues/1419)) ([857aa70](https://github.com/ant-design/pro-components/commit/857aa704ec4f98a8e5637fe4a96b5ffb7a5cf03f))
 - fix typo ([#1412](https://github.com/ant-design/pro-components/issues/1412)) ([2f629ba](https://github.com/ant-design/pro-components/commit/2f629ba193746c2829e48fadcbab779d6e4a8cef))
 
-## [1.11.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.11.1...@ant-design/pro-form@1.11.2) (2020-12-25)
+## [1.11.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.11.1...@bicitech-design/pro-form@1.11.2) (2020-12-25)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.11.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.3...@ant-design/pro-form@1.11.1) (2020-12-25)
+## [1.11.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.3...@bicitech-design/pro-form@1.11.1) (2020-12-25)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.11.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.10.4...@ant-design/pro-form@1.11.0) (2020-12-24)
+# [1.11.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.10.4...@bicitech-design/pro-form@1.11.0) (2020-12-24)
 
 ### Features
 
 - **chore:** adjust information structure ([#1383](https://github.com/ant-design/pro-components/issues/1383)) ([76b3f29](https://github.com/ant-design/pro-components/commit/76b3f2929c5a5dcd4ed78e723b2a01e3a5cdfbf5)), closes [#1376](https://github.com/ant-design/pro-components/issues/1376) [#1380](https://github.com/ant-design/pro-components/issues/1380)
 - **form:** 懒加载 DrawerForm 和 ModalFrom 优化性能 ([#1370](https://github.com/ant-design/pro-components/issues/1370)) ([743a0ce](https://github.com/ant-design/pro-components/commit/743a0ce00d00e326b02dd83a3ab349405ef92aff))
 
-## [1.10.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.10.3...@ant-design/pro-form@1.10.4) (2020-12-21)
+## [1.10.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.10.3...@bicitech-design/pro-form@1.10.4) (2020-12-21)
 
 ### Bug Fixes
 
 - **table:** form 修复问题和清空操作冲突，改成 hasOwnProperty 判断 ([#1363](https://github.com/ant-design/pro-components/issues/1363)) ([7820466](https://github.com/ant-design/pro-components/commit/7820466504bef2335e6900b8a658fb3214b507e3))
 
-## [1.10.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.10.2...@ant-design/pro-form@1.10.3) (2020-12-21)
+## [1.10.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.10.2...@bicitech-design/pro-form@1.10.3) (2020-12-21)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.10.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.10.1...@ant-design/pro-form@1.10.2) (2020-12-17)
+## [1.10.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.10.1...@bicitech-design/pro-form@1.10.2) (2020-12-17)
 
 ### Bug Fixes
 
 - **form:** 修复 lightFilter 在 collapse 的情况下 form 失效的 bug ([#1323](https://github.com/ant-design/pro-components/issues/1323)) ([c026a83](https://github.com/ant-design/pro-components/commit/c026a8384c0d768129a45e79d1efc7396f64d49e))
 - **form:** 修复 ModalForm 和 DrawerForm 的编写错误 ([#1328](https://github.com/ant-design/pro-components/issues/1328)) ([27ed75a](https://github.com/ant-design/pro-components/commit/27ed75a6bf25d63179a265bd981fe4c663d119c8))
 
-## [1.10.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.10.0...@ant-design/pro-form@1.10.1) (2020-12-15)
+## [1.10.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.10.0...@bicitech-design/pro-form@1.10.1) (2020-12-15)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.10.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.9.0...@ant-design/pro-form@1.10.0) (2020-12-14)
+# [1.10.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.9.0...@bicitech-design/pro-form@1.10.0) (2020-12-14)
 
 ### Features
 
 - **desciption:** support editable ([#1273](https://github.com/ant-design/pro-components/issues/1273)) ([bc8821b](https://github.com/ant-design/pro-components/commit/bc8821bce05faadaa7d9337ae2287131c41791e0))
 - **table:** EditableTable support max length ([#1286](https://github.com/ant-design/pro-components/issues/1286)) ([dac9844](https://github.com/ant-design/pro-components/commit/dac9844e42ed19d5a539b6b0eae42ea35d6f958d))
 
-# [1.9.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.8.1...@ant-design/pro-form@1.9.0) (2020-12-10)
+# [1.9.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.8.1...@bicitech-design/pro-form@1.9.0) (2020-12-10)
 
 ### Features
 
 - **form:** support getPopupContainer ([#1251](https://github.com/ant-design/pro-components/issues/1251)) ([d1f20a9](https://github.com/ant-design/pro-components/commit/d1f20a9191783c3eb3992f284822e3ad2d2d9cea))
 
-## [1.8.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.8.0...@ant-design/pro-form@1.8.1) (2020-12-09)
+## [1.8.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.8.0...@bicitech-design/pro-form@1.8.1) (2020-12-09)
 
 ### Bug Fixes
 
 - **colsize:** fix colsize warning ([#1245](https://github.com/ant-design/pro-components/issues/1245)) ([af674b6](https://github.com/ant-design/pro-components/commit/af674b661f53ef7f537bd49bea32784274cf0d34))
 
-# [1.8.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.6...@ant-design/pro-form@1.8.0) (2020-12-08)
+# [1.8.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.6...@bicitech-design/pro-form@1.8.0) (2020-12-08)
 
 ### Features
 
 - **table:** fieldProps support function ([#1227](https://github.com/ant-design/pro-components/issues/1227)) ([bc34fb0](https://github.com/ant-design/pro-components/commit/bc34fb0ce11d006c83b06166f6cf8903bd5d3e1a))
 
-## [1.7.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.5...@ant-design/pro-form@1.7.6) (2020-12-07)
+## [1.7.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.5...@bicitech-design/pro-form@1.7.6) (2020-12-07)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.7.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.4...@ant-design/pro-form@1.7.5) (2020-12-04)
+## [1.7.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.4...@bicitech-design/pro-form@1.7.5) (2020-12-04)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.7.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.3...@ant-design/pro-form@1.7.4) (2020-12-03)
+## [1.7.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.3...@bicitech-design/pro-form@1.7.4) (2020-12-03)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.7.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.2...@ant-design/pro-form@1.7.3) (2020-12-03)
+## [1.7.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.2...@bicitech-design/pro-form@1.7.3) (2020-12-03)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.7.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.1...@ant-design/pro-form@1.7.2) (2020-12-02)
+## [1.7.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.1...@bicitech-design/pro-form@1.7.2) (2020-12-02)
 
 ### Bug Fixes
 
 - **form:** fix optionRender no has form error ([#1147](https://github.com/ant-design/pro-components/issues/1147)) ([3398fb9](https://github.com/ant-design/pro-components/commit/3398fb999952eebf6b9ba5736e6dc5d44a5fecce))
 
-## [1.7.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.7.0...@ant-design/pro-form@1.7.1) (2020-11-30)
+## [1.7.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.7.0...@bicitech-design/pro-form@1.7.1) (2020-11-30)
 
 ### Bug Fixes
 
 - **form:** fix setState() call inside `Field` error ([#1137](https://github.com/ant-design/pro-components/issues/1137)) ([f72f9f6](https://github.com/ant-design/pro-components/commit/f72f9f6e07cd18c1c01d4679f19076df06b6fbf5))
 - **form:** No longer generate redundant dom ([#1121](https://github.com/ant-design/pro-components/issues/1121)) ([4fb8379](https://github.com/ant-design/pro-components/commit/4fb8379f0d24dcd7d40d924b1885a0a708851400))
 
-# [1.7.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.6.2...@ant-design/pro-form@1.7.0) (2020-11-27)
+# [1.7.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.6.2...@bicitech-design/pro-form@1.7.0) (2020-11-27)
 
 ### Bug Fixes
 
@@ -1426,18 +1426,18 @@ All notable changes to this project will be documented in this file. See [Conven
 - **table:** support editor table ([#994](https://github.com/ant-design/pro-components/issues/994)) ([35f40fe](https://github.com/ant-design/pro-components/commit/35f40feb72dd10ea6fefb7d6a59943d43d0a7325))
 - **table:** table support fieldProps.onChange ([#1068](https://github.com/ant-design/pro-components/issues/1068)) ([b8fe662](https://github.com/ant-design/pro-components/commit/b8fe662fd042dda92c4ad0e35c24e1afe2870996))
 
-## [1.6.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.6.1...@ant-design/pro-form@1.6.2) (2020-11-19)
+## [1.6.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.6.1...@bicitech-design/pro-form@1.6.2) (2020-11-19)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.6.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.6.0...@ant-design/pro-form@1.6.1) (2020-11-19)
+## [1.6.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.6.0...@bicitech-design/pro-form@1.6.1) (2020-11-19)
 
 ### Bug Fixes
 
 - **form:** modal and drawer render to body ([#1031](https://github.com/ant-design/pro-components/issues/1031)) ([807c052](https://github.com/ant-design/pro-components/commit/807c05265d3d327537233a2db265589bf6d58e60))
 - **table:** fix the problem that the table rendering is not timely ([#1024](https://github.com/ant-design/pro-components/issues/1024)) ([19d3af5](https://github.com/ant-design/pro-components/commit/19d3af58e692dbfa5a4b32644afe9672ba5719cf))
 
-# [1.6.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.5.1...@ant-design/pro-form@1.6.0) (2020-11-18)
+# [1.6.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.5.1...@bicitech-design/pro-form@1.6.0) (2020-11-18)
 
 ### Bug Fixes
 
@@ -1447,11 +1447,11 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** onFinish support reset form ([cf84064](https://github.com/ant-design/pro-components/commit/cf8406411b2445399290b476b3d8dff959507db3))
 
-## [1.5.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.5.0...@ant-design/pro-form@1.5.1) (2020-11-17)
+## [1.5.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.5.0...@bicitech-design/pro-form@1.5.1) (2020-11-17)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.5.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.4.1...@ant-design/pro-form@1.5.0) (2020-11-17)
+# [1.5.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.4.1...@bicitech-design/pro-form@1.5.0) (2020-11-17)
 
 ### Bug Fixes
 
@@ -1463,27 +1463,27 @@ All notable changes to this project will be documented in this file. See [Conven
 - **form:** LightFilter support allowClear ([#974](https://github.com/ant-design/pro-components/issues/974)) ([6ef984a](https://github.com/ant-design/pro-components/commit/6ef984ae6ba9560737c200c0ca39e5d2f3d7286b))
 - **form:** support readonly ([#963](https://github.com/ant-design/pro-components/issues/963)) ([2b27e91](https://github.com/ant-design/pro-components/commit/2b27e917707c530c2a9d9c91fa27c1b663a07bf4))
 
-## [1.4.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.4.0...@ant-design/pro-form@1.4.1) (2020-11-10)
+## [1.4.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.4.0...@bicitech-design/pro-form@1.4.1) (2020-11-10)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.4.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.3.0...@ant-design/pro-form@1.4.0) (2020-11-09)
+# [1.4.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.3.0...@bicitech-design/pro-form@1.4.0) (2020-11-09)
 
 ### Features
 
 - **table:** 修复 ListToolBar 样式问题 & 调整部分 Table 样式的 demo ([#918](https://github.com/ant-design/pro-components/issues/918)) ([a217c6e](https://github.com/ant-design/pro-components/commit/a217c6ea309f5232fd1864b2d886f449f49f2b6a))
 
-# [1.3.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.2.1...@ant-design/pro-form@1.3.0) (2020-11-04)
+# [1.3.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.2.1...@bicitech-design/pro-form@1.3.0) (2020-11-04)
 
 ### Features
 
 - **form:** submit button text localization ([#896](https://github.com/ant-design/pro-components/issues/896)) ([d209ea1](https://github.com/ant-design/pro-components/commit/d209ea1073cf12672b04a585c1343e02f5841fd2))
 
-## [1.2.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.2.0...@ant-design/pro-form@1.2.1) (2020-11-02)
+## [1.2.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.2.0...@bicitech-design/pro-form@1.2.1) (2020-11-02)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.2.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.6...@ant-design/pro-form@1.2.0) (2020-11-02)
+# [1.2.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.6...@bicitech-design/pro-form@1.2.0) (2020-11-02)
 
 ### Bug Fixes
 
@@ -1493,59 +1493,59 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **form:** localize stepsform texts ([#868](https://github.com/ant-design/pro-components/issues/868)) ([4d0f86f](https://github.com/ant-design/pro-components/commit/4d0f86f2d4812265893ba1d4e8e8994787609de2))
 
-## [1.1.6](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.5...@ant-design/pro-form@1.1.6) (2020-10-29)
+## [1.1.6](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.5...@bicitech-design/pro-form@1.1.6) (2020-10-29)
 
 ### Bug Fixes
 
 - **table:** renderFormItem should run in form init ([#852](https://github.com/ant-design/pro-components/issues/852)) ([612b04a](https://github.com/ant-design/pro-components/commit/612b04a7225ccc93b8c081d268981d988c333d4c))
 
-## [1.1.5](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.4...@ant-design/pro-form@1.1.5) (2020-10-26)
+## [1.1.5](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.4...@bicitech-design/pro-form@1.1.5) (2020-10-26)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.1.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.3...@ant-design/pro-form@1.1.4) (2020-10-23)
+## [1.1.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.3...@bicitech-design/pro-form@1.1.4) (2020-10-23)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.1.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.2...@ant-design/pro-form@1.1.3) (2020-10-23)
+## [1.1.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.2...@bicitech-design/pro-form@1.1.3) (2020-10-23)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.1.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.1...@ant-design/pro-form@1.1.2) (2020-10-22)
+## [1.1.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.1...@bicitech-design/pro-form@1.1.2) (2020-10-22)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.1.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.1.0...@ant-design/pro-form@1.1.1) (2020-10-21)
+## [1.1.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.1.0...@bicitech-design/pro-form@1.1.1) (2020-10-21)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.1.0](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.4...@ant-design/pro-form@1.1.0) (2020-10-19)
+# [1.1.0](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.4...@bicitech-design/pro-form@1.1.0) (2020-10-19)
 
 ### Features
 
 - **form:** add effective style to LightFilter when collapse ([#746](https://github.com/ant-design/pro-components/issues/746)) ([af7eb93](https://github.com/ant-design/pro-components/commit/af7eb93285f13b4b8fb087186515421e5c9a7a35))
 
-## [1.0.4](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.3...@ant-design/pro-form@1.0.4) (2020-10-15)
+## [1.0.4](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.3...@bicitech-design/pro-form@1.0.4) (2020-10-15)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.0.3](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.2...@ant-design/pro-form@1.0.3) (2020-10-15)
+## [1.0.3](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.2...@bicitech-design/pro-form@1.0.3) (2020-10-15)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.0.2](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.1...@ant-design/pro-form@1.0.2) (2020-10-12)
+## [1.0.2](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.1...@bicitech-design/pro-form@1.0.2) (2020-10-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-## [1.0.1](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.31...@ant-design/pro-form@1.0.1) (2020-10-12)
+## [1.0.1](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.31...@bicitech-design/pro-form@1.0.1) (2020-10-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.31](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.30...@ant-design/pro-form@1.0.0-beta.31) (2020-10-12)
+# [1.0.0-beta.31](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.30...@bicitech-design/pro-form@1.0.0-beta.31) (2020-10-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.30](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.28...@ant-design/pro-form@1.0.0-beta.30) (2020-09-29)
+# [1.0.0-beta.30](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.28...@bicitech-design/pro-form@1.0.0-beta.30) (2020-09-29)
 
 ### Bug Fixes
 
@@ -1556,25 +1556,25 @@ All notable changes to this project will be documented in this file. See [Conven
 - ProTable & ProList support LightFilter ([#622](https://github.com/ant-design/pro-components/issues/622)) ([ce925c1](https://github.com/ant-design/pro-components/commit/ce925c191330956dadbad752b25ad4c7481d9663))
 - **field:** 支持密码类型 ([#475](https://github.com/ant-design/pro-components/issues/475)) ([b5a3bd2](https://github.com/ant-design/pro-components/commit/b5a3bd2493a0476ab9186e3fd279742e9bf79458))
 
-# [1.0.0-beta.28](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.27...@ant-design/pro-form@1.0.0-beta.28) (2020-09-22)
+# [1.0.0-beta.28](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.27...@bicitech-design/pro-form@1.0.0-beta.28) (2020-09-22)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.27](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.26...@ant-design/pro-form@1.0.0-beta.27) (2020-09-22)
+# [1.0.0-beta.27](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.26...@bicitech-design/pro-form@1.0.0-beta.27) (2020-09-22)
 
 ### Bug Fixes
 
 - DatePicker light mode dropdown style detail ([0fc2dc7](https://github.com/ant-design/pro-components/commit/0fc2dc7ba7836b432381bbe75a268ab1d57b54aa))
 
-# [1.0.0-beta.26](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.25...@ant-design/pro-form@1.0.0-beta.26) (2020-09-14)
+# [1.0.0-beta.26](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.25...@bicitech-design/pro-form@1.0.0-beta.26) (2020-09-14)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.25](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.24...@ant-design/pro-form@1.0.0-beta.25) (2020-09-14)
+# [1.0.0-beta.25](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.24...@bicitech-design/pro-form@1.0.0-beta.25) (2020-09-14)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.24](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.23...@ant-design/pro-form@1.0.0-beta.24) (2020-09-10)
+# [1.0.0-beta.24](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.23...@bicitech-design/pro-form@1.0.0-beta.24) (2020-09-10)
 
 ### Bug Fixes
 
@@ -1584,70 +1584,70 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - **from:** support ProFormDatePicker.Month & Quarter & Year ([#436](https://github.com/ant-design/pro-components/issues/436)) ([dade507](https://github.com/ant-design/pro-components/commit/dade507a45b0b27aa7f00c103a09db1f0bd1264f))
 
-# [1.0.0-beta.23](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.22...@ant-design/pro-form@1.0.0-beta.23) (2020-09-08)
+# [1.0.0-beta.23](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.22...@bicitech-design/pro-form@1.0.0-beta.23) (2020-09-08)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.22](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.21...@ant-design/pro-form@1.0.0-beta.22) (2020-09-07)
+# [1.0.0-beta.22](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.21...@bicitech-design/pro-form@1.0.0-beta.22) (2020-09-07)
 
 ### Features
 
 - **form:** LightFilter support i18n ([#379](https://github.com/ant-design/pro-components/issues/379)) ([6e70e85](https://github.com/ant-design/pro-components/commit/6e70e85556291c2baf4b4b582b2a476e1aefe806))
 - **form:** new form component ProFormDatePicker.Week & LightFilter support bordered ([#385](https://github.com/ant-design/pro-components/issues/385)) ([c6bb939](https://github.com/ant-design/pro-components/commit/c6bb939c016e1d278485fe0cd3808c242b4eb117))
 
-# [1.0.0-beta.21](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.20...@ant-design/pro-form@1.0.0-beta.21) (2020-08-31)
+# [1.0.0-beta.21](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.20...@bicitech-design/pro-form@1.0.0-beta.21) (2020-08-31)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.20](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.19...@ant-design/pro-form@1.0.0-beta.20) (2020-08-26)
+# [1.0.0-beta.20](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.19...@bicitech-design/pro-form@1.0.0-beta.20) (2020-08-26)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.19](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.18...@ant-design/pro-form@1.0.0-beta.19) (2020-08-25)
+# [1.0.0-beta.19](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.18...@bicitech-design/pro-form@1.0.0-beta.19) (2020-08-25)
 
 ### Bug Fixes
 
 - **table:** actions intl message ([#289](https://github.com/ant-design/pro-components/issues/289)) ([7bc99fe](https://github.com/ant-design/pro-components/commit/7bc99fe9b8420565c17956872f9936e41d6b82b8))
 
-# [1.0.0-beta.18](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.17...@ant-design/pro-form@1.0.0-beta.18) (2020-08-24)
+# [1.0.0-beta.18](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.17...@bicitech-design/pro-form@1.0.0-beta.18) (2020-08-24)
 
 ### Features
 
 - **form:** ProForm new Layout LightFilter support ([#173](https://github.com/ant-design/pro-components/issues/173)) ([e558c62](https://github.com/ant-design/pro-components/commit/e558c62a14e9d3b85050f790c72de96dbaa82321))
 
-# [1.0.0-beta.17](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.16...@ant-design/pro-form@1.0.0-beta.17) (2020-08-19)
+# [1.0.0-beta.17](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.16...@bicitech-design/pro-form@1.0.0-beta.17) (2020-08-19)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.16](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.15...@ant-design/pro-form@1.0.0-beta.16) (2020-08-18)
+# [1.0.0-beta.16](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.15...@bicitech-design/pro-form@1.0.0-beta.16) (2020-08-18)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.15](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.14...@ant-design/pro-form@1.0.0-beta.15) (2020-08-17)
+# [1.0.0-beta.15](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.14...@bicitech-design/pro-form@1.0.0-beta.15) (2020-08-17)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.14](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.13...@ant-design/pro-form@1.0.0-beta.14) (2020-08-14)
+# [1.0.0-beta.14](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.13...@bicitech-design/pro-form@1.0.0-beta.14) (2020-08-14)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.13](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.12...@ant-design/pro-form@1.0.0-beta.13) (2020-08-14)
+# [1.0.0-beta.13](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.12...@bicitech-design/pro-form@1.0.0-beta.13) (2020-08-14)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.12](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.11...@ant-design/pro-form@1.0.0-beta.12) (2020-08-12)
+# [1.0.0-beta.12](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.11...@bicitech-design/pro-form@1.0.0-beta.12) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.11](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.10...@ant-design/pro-form@1.0.0-beta.11) (2020-08-12)
+# [1.0.0-beta.11](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.10...@bicitech-design/pro-form@1.0.0-beta.11) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.10](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.9...@ant-design/pro-form@1.0.0-beta.10) (2020-08-12)
+# [1.0.0-beta.10](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.9...@bicitech-design/pro-form@1.0.0-beta.10) (2020-08-12)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
-# [1.0.0-beta.9](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.8...@ant-design/pro-form@1.0.0-beta.9) (2020-08-10)
+# [1.0.0-beta.9](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.8...@bicitech-design/pro-form@1.0.0-beta.9) (2020-08-10)
 
 ### Bug Fixes
 
@@ -1658,21 +1658,21 @@ All notable changes to this project will be documented in this file. See [Conven
 
 - SearchFilter 合并到 QueryFilter ([#75](https://github.com/ant-design/pro-components/issues/75)) ([7b20381](https://github.com/ant-design/pro-components/commit/7b20381fae342d52d13e394d5144348f12f42339))
 
-# [1.0.0-beta.8](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.7...@ant-design/pro-form@1.0.0-beta.8) (2020-07-30)
+# [1.0.0-beta.8](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.7...@bicitech-design/pro-form@1.0.0-beta.8) (2020-07-30)
 
 ### Bug Fixes
 
 - use rc-resize-observer for response logic and improve test coverage ([#44](https://github.com/ant-design/pro-components/issues/44)) ([15315e9](https://github.com/ant-design/pro-components/commit/15315e9fde969e6b80d9f9142e5b21f2d83afe56))
 
-# [1.0.0-beta.7](https://github.com/ant-design/pro-components/compare/@ant-design/pro-form@1.0.0-beta.6...@ant-design/pro-form@1.0.0-beta.7) (2020-07-25)
+# [1.0.0-beta.7](https://github.com/ant-design/pro-components/compare/@bicitech-design/pro-form@1.0.0-beta.6...@bicitech-design/pro-form@1.0.0-beta.7) (2020-07-25)
 
-**Note:** Version bump only for package @ant-design/pro-form
+**Note:** Version bump only for package @bicitech-design/pro-form
 
 # 1.0.0-beta.6 (2020-07-24)
 
 ### Bug Fixes
 
-- rename @ant-design/form -> @ant-design/pro-form ([#16](https://github.com/ant-design/pro-components/issues/16)) ([82e0b6d](https://github.com/ant-design/pro-components/commit/82e0b6d20decc4b391925d469b1c250c69ded485))
+- rename @ant-design/form -> @bicitech-design/pro-form ([#16](https://github.com/ant-design/pro-components/issues/16)) ([82e0b6d](https://github.com/ant-design/pro-components/commit/82e0b6d20decc4b391925d469b1c250c69ded485))
 - secondary typescript define ([32f8571](https://github.com/ant-design/pro-components/commit/32f8571e4e1a8007f4208736cc0aec87548b1874))
 - useForm not work problem ([c7a0dba](https://github.com/ant-design/pro-components/commit/c7a0dbaa99b9f5c32d37820420764662a3aeeddd))
 

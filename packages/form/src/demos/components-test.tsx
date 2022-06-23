@@ -8,7 +8,7 @@ import {
   ProFormSwitch,
   ProFormUploadButton,
   ProFormUploadDragger,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Button, Input } from 'antd';
 import { useRef } from 'react';
 

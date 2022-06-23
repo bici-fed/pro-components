@@ -4,7 +4,7 @@ import {
   NotificationOutlined,
   SettingOutlined,
 } from '@ant-design/icons';
-import { isBrowser, merge } from '@ant-design/pro-utils';
+import { isBrowser, merge } from '@bicitech-design/pro-utils';
 import {
   disable as darkreaderDisable,
   enable as darkreaderEnable,

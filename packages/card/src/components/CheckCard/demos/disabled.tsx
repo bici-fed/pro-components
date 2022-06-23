@@ -2,7 +2,7 @@
  * title: 选项不可用
  */
 
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@bicitech-design/pro-components';
 
 export default () => (
   <>

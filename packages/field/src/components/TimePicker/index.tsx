@@ -1,4 +1,4 @@
-import { FieldLabel, parseValueToMoment } from '@ant-design/pro-utils';
+import { FieldLabel, parseValueToMoment } from '@bicitech-design/pro-utils';
 import { ConfigProvider, DatePicker, TimePicker } from 'antd';
 import moment from 'moment';
 import React, { useContext, useState } from 'react';

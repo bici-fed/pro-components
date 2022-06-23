@@ -1,12 +1,12 @@
 ﻿import { PlusOutlined } from '@ant-design/icons';
-import type { ProFormInstance } from '@ant-design/pro-components';
+import type { ProFormInstance } from '@bicitech-design/pro-components';
 import {
   DrawerForm,
   ProForm,
   ProFormDateRangePicker,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Button, message } from 'antd';
 import { useRef } from 'react';
 

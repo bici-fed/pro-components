@@ -8,7 +8,7 @@ import {
   ProFormText,
   ProFormTextArea,
   StepsForm,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Button, message, Modal } from 'antd';
 import { useState } from 'react';
 

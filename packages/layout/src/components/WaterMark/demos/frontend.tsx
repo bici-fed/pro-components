@@ -1,7 +1,7 @@
 /** Title: 前置水印 */
 import { QuestionCircleOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable, TableDropdown, WaterMark } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { ProTable, TableDropdown, WaterMark } from '@bicitech-design/pro-components';
 import { Tooltip } from 'antd';
 
 const valueEnum = {

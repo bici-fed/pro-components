@@ -1,6 +1,6 @@
 import { FilterOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel, FilterDropdown } from '@ant-design/pro-utils';
+import { useIntl } from '@bicitech-design/pro-provider';
+import { FieldLabel, FilterDropdown } from '@bicitech-design/pro-utils';
 import type { FormProps } from 'antd';
 import { ConfigProvider } from 'antd';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';

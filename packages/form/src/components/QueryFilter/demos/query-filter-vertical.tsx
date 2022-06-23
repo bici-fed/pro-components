@@ -4,7 +4,7 @@ import {
   ProFormRadio,
   ProFormText,
   QueryFilter,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 
 export default () => {
   return (

@@ -52,7 +52,7 @@ const getMds = async (allVersion = false) => {
     }
     console.log(versions.toString());
     versions.map(async (version) => {
-      const versionPkg = `@ant-design/pro-${pkg}@${version}`;
+      const versionPkg = `@bicitech-design/pro-${pkg}@${version}`;
       const changeLog = getChangelog(content, versionPkg);
       if (!changeLog) {
         return;

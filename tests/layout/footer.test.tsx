@@ -1,4 +1,4 @@
-import { DefaultFooter } from '@ant-design/pro-components';
+import { DefaultFooter } from '@bicitech-design/pro-components';
 import { mount, render } from 'enzyme';
 
 describe('DefaultFooter test', () => {

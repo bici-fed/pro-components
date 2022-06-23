@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import type { SwitchProps } from 'antd';
 import { Switch } from 'antd';
 import Omit from 'omit.js';

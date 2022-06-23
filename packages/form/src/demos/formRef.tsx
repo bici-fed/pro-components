@@ -1,5 +1,5 @@
-import type { ProFormInstance } from '@ant-design/pro-components';
-import { ProForm, ProFormDatePicker, ProFormText } from '@ant-design/pro-components';
+import type { ProFormInstance } from '@bicitech-design/pro-components';
+import { ProForm, ProFormDatePicker, ProFormText } from '@bicitech-design/pro-components';
 import { Button, message } from 'antd';
 import moment from 'moment';
 import { useRef } from 'react';

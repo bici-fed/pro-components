@@ -1,5 +1,5 @@
 ﻿/* eslint-disable react-hooks/exhaustive-deps */
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import type { FormInstance } from 'antd';
 import { message } from 'antd';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';

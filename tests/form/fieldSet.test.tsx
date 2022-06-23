@@ -3,7 +3,7 @@
   ProFormRate,
   ProFormText,
   ProFormTextArea,
-} from '@ant-design/pro-form';
+} from '@bicitech-design/pro-form';
 import { Input } from 'antd';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';

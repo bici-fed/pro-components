@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import { ConfigProvider } from 'antd';
 import React, { useContext, useMemo } from 'react';
 import type { ProFormProps } from '../ProForm';

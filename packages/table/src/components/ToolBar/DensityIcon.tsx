@@ -1,5 +1,5 @@
 import { ColumnHeightOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import { Dropdown, Menu, Tooltip } from 'antd';
 import React from 'react';
 import Container from '../../container';

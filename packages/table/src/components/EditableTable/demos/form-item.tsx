@@ -1,4 +1,8 @@
-﻿import type { EditableFormInstance, ProColumns, ProFormInstance } from '@ant-design/pro-components';
+﻿import type {
+  EditableFormInstance,
+  ProColumns,
+  ProFormInstance,
+} from '@bicitech-design/pro-components';
 import {
   EditableProTable,
   ProCard,
@@ -6,7 +10,7 @@ import {
   ProFormDependency,
   ProFormField,
   ProFormRadio,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Button } from 'antd';
 import React, { useRef, useState } from 'react';
 

@@ -1,6 +1,6 @@
-import ProField from '@ant-design/pro-field';
-import type { ProSchema } from '@ant-design/pro-utils';
-import { isDeepEqualReact, runFunction } from '@ant-design/pro-utils';
+import ProField from '@bicitech-design/pro-field';
+import type { ProSchema } from '@bicitech-design/pro-utils';
+import { isDeepEqualReact, runFunction } from '@bicitech-design/pro-utils';
 import React, { memo, useMemo } from 'react';
 import { createField } from '../../BaseForm/createField';
 import type { ProFormFieldItemProps } from '../../interface';

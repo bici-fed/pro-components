@@ -1,5 +1,5 @@
-import { ConfigProviderWrap } from '@ant-design/pro-provider';
-import { ErrorBoundary } from '@ant-design/pro-utils';
+import { ConfigProviderWrap } from '@bicitech-design/pro-provider';
+import { ErrorBoundary } from '@bicitech-design/pro-utils';
 import { Layout } from 'antd';
 import type { CSSProperties } from 'react';
 import React from 'react';

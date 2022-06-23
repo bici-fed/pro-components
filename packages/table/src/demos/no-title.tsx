@@ -1,6 +1,6 @@
 import { DownOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { ProTable } from '@bicitech-design/pro-components';
 import { Dropdown, Menu, Popconfirm, Space } from 'antd';
 import React from 'react';
 

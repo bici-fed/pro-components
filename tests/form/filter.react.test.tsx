@@ -4,7 +4,7 @@ import {
   ProFormText,
   ProFormTreeSelect,
   QueryFilter,
-} from '@ant-design/pro-form';
+} from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { cleanup, fireEvent, render } from '@testing-library/react';
 import { TreeSelect } from 'antd';

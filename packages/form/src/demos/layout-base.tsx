@@ -11,7 +11,7 @@ import {
   ProFormText,
   ProFormTextArea,
   ProFormUploadButton,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Card } from 'antd';
 
 export default () => {

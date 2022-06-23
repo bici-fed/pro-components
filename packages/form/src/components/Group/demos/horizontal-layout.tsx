@@ -1,4 +1,4 @@
-import { ProCard, ProForm, ProFormList, ProFormText } from '@ant-design/pro-components';
+import { ProCard, ProForm, ProFormList, ProFormText } from '@bicitech-design/pro-components';
 
 const Demo = () => {
   return (

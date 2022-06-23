@@ -9,7 +9,7 @@
   ProFormSwitch,
   ProFormText,
   ProFormTextArea,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { useState } from 'react';
 
 const valueTypeArray = [

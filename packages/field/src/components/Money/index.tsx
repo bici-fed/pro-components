@@ -1,4 +1,4 @@
-import { intlMap as allIntlMap, useIntl } from '@ant-design/pro-provider';
+import { intlMap as allIntlMap, useIntl } from '@bicitech-design/pro-provider';
 import type { InputNumberProps } from 'antd';
 import { InputNumber, Popover } from 'antd';
 import omit from 'omit.js';

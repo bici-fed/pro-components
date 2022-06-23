@@ -15,7 +15,7 @@ import {
   transformKeySubmitValue,
   useDebounceFn,
   useDebounceValue,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import { act, fireEvent, render } from '@testing-library/react';
 import { Form, Input } from 'antd';
 import { mount } from 'enzyme';

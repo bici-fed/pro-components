@@ -1,5 +1,5 @@
 import { EllipsisOutlined } from '@ant-design/icons';
-import { StatisticCard } from '@ant-design/pro-components';
+import { StatisticCard } from '@bicitech-design/pro-components';
 
 export default () => {
   return (

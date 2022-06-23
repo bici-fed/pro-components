@@ -1,5 +1,5 @@
-import type { ActionType } from '@ant-design/pro-table';
-import ProTable, { TableDropdown } from '@ant-design/pro-table';
+import type { ActionType } from '@bicitech-design/pro-table';
+import ProTable, { TableDropdown } from '@bicitech-design/pro-table';
 import { fireEvent, render as ReactRender, screen } from '@testing-library/react';
 import { Button, Input, Select } from 'antd';
 import { mount, render } from 'enzyme';

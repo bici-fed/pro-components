@@ -1,4 +1,4 @@
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import type { ButtonProps, FormInstance } from 'antd';
 import { Button, Space } from 'antd';
 import omit from 'omit.js';

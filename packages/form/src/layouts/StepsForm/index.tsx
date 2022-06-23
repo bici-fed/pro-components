@@ -1,5 +1,5 @@
-import { ConfigProviderWrap, useIntl } from '@ant-design/pro-provider';
-import { merge, useRefFunction } from '@ant-design/pro-utils';
+import { ConfigProviderWrap, useIntl } from '@bicitech-design/pro-provider';
+import { merge, useRefFunction } from '@bicitech-design/pro-utils';
 import type { FormInstance, StepsProps } from 'antd';
 import { Button, Col, ConfigProvider, Form, Row, Space, Steps } from 'antd';
 import type { FormProviderProps } from 'antd/lib/form/context';

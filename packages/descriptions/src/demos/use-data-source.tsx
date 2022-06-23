@@ -1,4 +1,4 @@
-import { ProDescriptions } from '@ant-design/pro-components';
+import { ProDescriptions } from '@bicitech-design/pro-components';
 
 export default () => {
   return (

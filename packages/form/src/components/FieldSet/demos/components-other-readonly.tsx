@@ -11,7 +11,7 @@ import {
   ProFormText,
   ProFormUploadButton,
   ProFormUploadDragger,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 
 const Demo = () => (
   <div

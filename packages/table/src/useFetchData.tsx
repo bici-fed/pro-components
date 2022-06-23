@@ -5,7 +5,7 @@ import {
   useMountMergeState,
   usePrevious,
   useRefFunction,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import { useEffect, useLayoutEffect, useRef } from 'react';
 import type { PageInfo, RequestData, UseFetchDataAction, UseFetchProps } from './typing';
 import { postDataPipeline } from './utils/index';

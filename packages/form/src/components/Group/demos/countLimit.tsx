@@ -1,6 +1,6 @@
 import { CloseOutlined, SnippetsOutlined } from '@ant-design/icons';
-import type { FormListActionType } from '@ant-design/pro-components';
-import { ProForm, ProFormList, ProFormText } from '@ant-design/pro-components';
+import type { FormListActionType } from '@bicitech-design/pro-components';
+import { ProForm, ProFormList, ProFormText } from '@bicitech-design/pro-components';
 import { useRef } from 'react';
 
 export default () => {

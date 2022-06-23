@@ -8,7 +8,7 @@ import {
   ProFormSlider,
   ProFormText,
   ProFormTimePicker,
-} from '@ant-design/pro-form';
+} from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
 import { mount } from 'enzyme';

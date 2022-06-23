@@ -1,5 +1,5 @@
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { ProTable } from '@bicitech-design/pro-components';
 import { Button, DatePicker, Space, Table } from 'antd';
 
 const { RangePicker } = DatePicker;
@@ -51,7 +51,8 @@ const columns: ProColumns<TableListItem>[] = [
   {
     title: '应用名称',
     width: 120,
-    dataIndex: 'name',
+    dataIndex: ['user', 'name'],
+    key: 'name',
     fixed: 'left',
     render: (_) => <a>{_}</a>,
   },

@@ -1,5 +1,5 @@
-import { useIntl } from '@ant-design/pro-provider';
-import { parseValueToMoment } from '@ant-design/pro-utils';
+import { useIntl } from '@bicitech-design/pro-provider';
+import { parseValueToMoment } from '@bicitech-design/pro-utils';
 import { DatePicker, Tooltip } from 'antd';
 import moment from 'moment';
 import type { ProFieldFC } from '../../index';

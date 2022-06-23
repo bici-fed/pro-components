@@ -1,4 +1,4 @@
-import { ProList } from '@ant-design/pro-components';
+import { ProList } from '@bicitech-design/pro-components';
 import { Button, Space, Tag } from 'antd';
 
 const dataSource = [

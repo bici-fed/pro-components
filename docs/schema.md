@@ -287,7 +287,7 @@ const valueEnum = {
 ```
 
 ```tsx
-import { ProFormSelect } from '@ant-design/pro-components';
+import { ProFormSelect } from '@bicitech-design/pro-components';
 
 const valueEnum = {
   all: { text: '全部', status: 'Default' },
@@ -364,7 +364,7 @@ const columns = [
 ```
 
 ```tsx
-import { ProFormSelect } from '@ant-design/pro-components';
+import { ProFormSelect } from '@bicitech-design/pro-components';
 
 const options = [
   {
@@ -433,7 +433,7 @@ const columns = [
 ```
 
 ```tsx
-import { ProForm, ProFormSelect, ProFormText } from '@ant-design/pro-components';
+import { ProForm, ProFormSelect, ProFormText } from '@bicitech-design/pro-components';
 
 const request = async (params) => {
   console.log(params);

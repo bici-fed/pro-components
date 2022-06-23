@@ -1,5 +1,5 @@
 import { EditOutlined, EllipsisOutlined, SettingOutlined } from '@ant-design/icons';
-import { ProCard } from '@ant-design/pro-components';
+import { ProCard } from '@bicitech-design/pro-components';
 
 export default () => {
   return (

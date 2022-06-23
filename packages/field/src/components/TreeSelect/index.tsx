@@ -1,4 +1,4 @@
-import { FieldLabel } from '@ant-design/pro-utils';
+import { FieldLabel } from '@bicitech-design/pro-utils';
 import type { RadioGroupProps, TreeSelectProps } from 'antd';
 import { ConfigProvider, Spin, TreeSelect } from 'antd';
 import classNames from 'classnames';

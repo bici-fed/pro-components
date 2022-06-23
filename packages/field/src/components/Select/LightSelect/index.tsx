@@ -1,5 +1,5 @@
 import { SearchOutlined } from '@ant-design/icons';
-import { FieldLabel } from '@ant-design/pro-utils';
+import { FieldLabel } from '@bicitech-design/pro-utils';
 import type { SelectProps } from 'antd';
 import { ConfigProvider, Input, Select } from 'antd';
 import classNames from 'classnames';

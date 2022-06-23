@@ -1,4 +1,4 @@
-import { ProForm, ProFormText, QueryFilter } from '@ant-design/pro-components';
+import { ProForm, ProFormText, QueryFilter } from '@bicitech-design/pro-components';
 import { Input } from 'antd';
 
 export default () => {

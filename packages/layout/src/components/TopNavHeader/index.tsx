@@ -1,4 +1,4 @@
-import { useDebounceFn } from '@ant-design/pro-utils';
+import { useDebounceFn } from '@bicitech-design/pro-utils';
 import classNames from 'classnames';
 import ResizeObserver from 'rc-resize-observer';
 import React, { useRef, useState } from 'react';

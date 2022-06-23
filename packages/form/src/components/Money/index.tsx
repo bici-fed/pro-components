@@ -1,4 +1,4 @@
-import type { ProFieldMoneyProps } from '@ant-design/pro-field';
+import type { ProFieldMoneyProps } from '@bicitech-design/pro-field';
 import type { InputNumberProps } from 'antd';
 import React from 'react';
 import type { ProFormFieldItemProps } from '../../interface';

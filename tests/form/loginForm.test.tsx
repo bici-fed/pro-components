@@ -4,7 +4,7 @@ import {
   UserAddOutlined,
   WeiboCircleOutlined,
 } from '@ant-design/icons';
-import { LoginForm, LoginFormPage, ProFormText } from '@ant-design/pro-form';
+import { LoginForm, LoginFormPage, ProFormText } from '@bicitech-design/pro-form';
 import { act, render } from '@testing-library/react';
 import { Alert, Space } from 'antd';
 import { mount } from 'enzyme';

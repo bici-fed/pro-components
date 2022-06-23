@@ -1,6 +1,6 @@
 import { LoadingOutlined, ReloadOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { ProTable } from '@bicitech-design/pro-components';
 import { Button } from 'antd';
 import moment from 'moment';
 import { useState } from 'react';

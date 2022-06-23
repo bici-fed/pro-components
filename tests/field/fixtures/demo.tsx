@@ -1,5 +1,5 @@
-import Field from '@ant-design/pro-field';
-import type { ProFieldFCMode } from '@ant-design/pro-utils';
+import Field from '@bicitech-design/pro-field';
+import type { ProFieldFCMode } from '@bicitech-design/pro-utils';
 import { Descriptions } from 'antd';
 import moment from 'moment';
 

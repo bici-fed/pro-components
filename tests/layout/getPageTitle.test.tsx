@@ -1,4 +1,4 @@
-﻿import { getPageTitle } from '@ant-design/pro-components';
+﻿import { getPageTitle } from '@bicitech-design/pro-components';
 
 const pageProps = {
   pathname: '/welcome',

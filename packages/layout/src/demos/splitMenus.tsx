@@ -1,4 +1,4 @@
-import { ProLayout, SettingDrawer } from '@ant-design/pro-components';
+import { ProLayout, SettingDrawer } from '@bicitech-design/pro-components';
 import defaultProps from './_defaultProps';
 
 export default () => {

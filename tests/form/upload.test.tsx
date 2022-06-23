@@ -1,4 +1,4 @@
-﻿import ProForm, { ProFormUploadButton, ProFormUploadDragger } from '@ant-design/pro-form';
+﻿import ProForm, { ProFormUploadButton, ProFormUploadDragger } from '@bicitech-design/pro-form';
 import type { UploadFile } from 'antd/lib/upload/interface';
 import { mount } from 'enzyme';
 import { act } from 'react-dom/test-utils';

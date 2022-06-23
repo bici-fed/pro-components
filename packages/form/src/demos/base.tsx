@@ -1,4 +1,4 @@
-import type { ProFormInstance } from '@ant-design/pro-components';
+import type { ProFormInstance } from '@bicitech-design/pro-components';
 import {
   ProForm,
   ProFormCascader,
@@ -8,7 +8,7 @@ import {
   ProFormSelect,
   ProFormText,
   ProFormTreeSelect,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { message, TreeSelect } from 'antd';
 import { useRef } from 'react';
 

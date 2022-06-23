@@ -3,7 +3,7 @@ import type {
   ProFieldValueType,
   ProSchema,
   SearchConvertKeyFn,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import type { FormItemProps, RowProps, SpaceProps } from 'antd';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { ColProps } from 'antd/lib/grid/col';

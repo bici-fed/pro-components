@@ -1,4 +1,4 @@
-import ProTable from '@ant-design/pro-table';
+import ProTable from '@bicitech-design/pro-table';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
 import { mount } from 'enzyme';

@@ -1,4 +1,9 @@
-﻿import { ProForm, ProFormDependency, ProFormList, ProFormText } from '@ant-design/pro-components';
+﻿import {
+  ProForm,
+  ProFormDependency,
+  ProFormList,
+  ProFormText,
+} from '@bicitech-design/pro-components';
 import { Button } from 'antd';
 
 const Demo = () => {

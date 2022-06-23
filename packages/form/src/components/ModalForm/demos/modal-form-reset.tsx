@@ -1,5 +1,5 @@
-import type { ProFormInstance } from '@ant-design/pro-components';
-import { ModalForm, ProFormText } from '@ant-design/pro-components';
+import type { ProFormInstance } from '@bicitech-design/pro-components';
+import { ModalForm, ProFormText } from '@bicitech-design/pro-components';
 import { Button, message, Space } from 'antd';
 import { useRef, useState } from 'react';
 

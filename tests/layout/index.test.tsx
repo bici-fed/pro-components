@@ -1,6 +1,6 @@
-import type { BasicLayoutProps } from '@ant-design/pro-components';
-import { BasicLayout } from '@ant-design/pro-components';
-import { LoginForm, ProFormText } from '@ant-design/pro-form';
+import type { BasicLayoutProps } from '@bicitech-design/pro-components';
+import { BasicLayout } from '@bicitech-design/pro-components';
+import { LoginForm, ProFormText } from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
 import { ConfigProvider } from 'antd';

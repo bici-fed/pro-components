@@ -1,5 +1,5 @@
 import { DownOutlined } from '@ant-design/icons';
-import type { ProColumnType, ProFormInstance } from '@ant-design/pro-components';
+import type { ProColumnType, ProFormInstance } from '@bicitech-design/pro-components';
 import {
   ProCard,
   ProForm,
@@ -14,7 +14,7 @@ import {
   ProFormTextArea,
   ProTable,
   useDebounceFn,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Button } from 'antd';
 import { useRef, useState } from 'react';
 

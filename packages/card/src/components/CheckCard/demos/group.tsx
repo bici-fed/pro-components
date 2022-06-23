@@ -2,7 +2,7 @@
  * title: 选项列表
  */
 
-import { CheckCard } from '@ant-design/pro-components';
+import { CheckCard } from '@bicitech-design/pro-components';
 
 export default () => (
   <div style={{ padding: 24, backgroundColor: '#F0F2F5' }}>

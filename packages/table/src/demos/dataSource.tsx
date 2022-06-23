@@ -1,6 +1,6 @@
 import { EllipsisOutlined, QuestionCircleOutlined, SearchOutlined } from '@ant-design/icons';
-import type { ProColumns } from '@ant-design/pro-components';
-import { ProTable, TableDropdown } from '@ant-design/pro-components';
+import type { ProColumns } from '@bicitech-design/pro-components';
+import { ProTable, TableDropdown } from '@bicitech-design/pro-components';
 import { Button, Dropdown, Input, Menu, Tooltip } from 'antd';
 
 const valueEnum = {

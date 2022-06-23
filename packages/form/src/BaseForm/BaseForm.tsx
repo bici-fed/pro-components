@@ -1,10 +1,10 @@
-import { ConfigProviderWrap } from '@ant-design/pro-provider';
+import { ConfigProviderWrap } from '@bicitech-design/pro-provider';
 import type {
   ProFieldValueType,
   ProFormInstanceType,
   ProRequestData,
   SearchTransformKeyFn,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import {
   conversionMomentValue,
   isDeepEqualReact,
@@ -14,7 +14,7 @@ import {
   useFetchData,
   useMountMergeState,
   usePrevious,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import { useUrlSearchParams } from '@umijs/use-params';
 import type { FormInstance, FormItemProps, FormProps } from 'antd';
 import { ConfigProvider, Form, Spin } from 'antd';
@@ -291,12 +291,12 @@ function BaseFormComponents<T = Record<string, any>>(props: BaseFormProps<T>) {
         const obj = nameList ? set({}, nameList as string[], value) : value;
         return transformKey(obj, omitNil, nameList);
       },
-      /** 
+      /**
       /**
        *验字段后返回格式化之后的所有数据
        * @param nameList (string|number)[]
        * @returns T
-       * 
+       *
        * @example validateFieldsReturnFormatValue -> {a:{b:value}}
        */
       validateFieldsReturnFormatValue: async (nameList?: NamePath[]) => {

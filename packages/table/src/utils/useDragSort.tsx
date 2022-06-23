@@ -1,4 +1,4 @@
-import { useRefFunction } from '@ant-design/pro-utils';
+import { useRefFunction } from '@bicitech-design/pro-utils';
 import type { TableComponents } from 'rc-table/lib/interface';
 import { SortableContainer, SortableElement } from 'react-sortable-hoc';
 import type { SortDataParams } from './index';

@@ -11,7 +11,7 @@ import {
   ProFormSwitch,
   ProFormText,
   ProFormTimePicker,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Radio } from 'antd';
 import React from 'react';
 

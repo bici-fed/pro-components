@@ -10,7 +10,7 @@ import {
   ProFormSlider,
   ProFormSwitch,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import Mock from 'mockjs';
 
 export const waitTime = (time: number = 100) => {

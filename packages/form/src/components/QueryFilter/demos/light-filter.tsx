@@ -14,7 +14,7 @@ import {
   ProFormText,
   ProFormTimePicker,
   ProFormTreeSelect,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import { Radio, TreeSelect } from 'antd';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import moment from 'moment';

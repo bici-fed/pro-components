@@ -1,6 +1,6 @@
-﻿import type { BaseQueryFilterProps, ProFormProps } from '@ant-design/pro-form';
-import { BetaSchemaForm } from '@ant-design/pro-form';
-import type { ProSchemaComponentTypes } from '@ant-design/pro-utils';
+﻿import type { BaseQueryFilterProps, ProFormProps } from '@bicitech-design/pro-form';
+import { BetaSchemaForm } from '@bicitech-design/pro-form';
+import type { ProSchemaComponentTypes } from '@bicitech-design/pro-utils';
 import type { FormInstance, FormItemProps } from 'antd';
 import { ConfigProvider, Table } from 'antd';
 import classNames from 'classnames';

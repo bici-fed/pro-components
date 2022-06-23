@@ -1,4 +1,9 @@
-import { ProForm, ProFormDependency, ProFormSelect, ProFormText } from '@ant-design/pro-components';
+import {
+  ProForm,
+  ProFormDependency,
+  ProFormSelect,
+  ProFormText,
+} from '@bicitech-design/pro-components';
 import { Form, message } from 'antd';
 
 const waitTime = (time: number = 100) => {

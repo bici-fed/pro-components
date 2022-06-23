@@ -1,5 +1,5 @@
-﻿import type { ProFormColumnsType } from '@ant-design/pro-components';
-import { BetaSchemaForm } from '@ant-design/pro-components';
+﻿import type { ProFormColumnsType } from '@bicitech-design/pro-components';
+import { BetaSchemaForm } from '@bicitech-design/pro-components';
 import { Input } from 'antd';
 
 const valueEnum = {

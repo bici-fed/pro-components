@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { LoadingOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
+import { useIntl } from '@bicitech-design/pro-provider';
 import type { FormInstance, FormProps } from 'antd';
 import { message, Popconfirm } from 'antd';
 import type { NamePath } from 'antd/lib/form/interface';

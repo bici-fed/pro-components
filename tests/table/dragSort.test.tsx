@@ -1,5 +1,5 @@
 import { MenuOutlined } from '@ant-design/icons';
-import { DragSortTable } from '@ant-design/pro-table';
+import { DragSortTable } from '@bicitech-design/pro-table';
 import { mount } from 'enzyme';
 import { sortData } from '../../packages/table/src/utils';
 import { waitForComponentToPaint } from '../util';

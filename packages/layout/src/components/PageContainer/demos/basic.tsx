@@ -1,5 +1,5 @@
 import { EllipsisOutlined } from '@ant-design/icons';
-import { PageContainer, ProCard } from '@ant-design/pro-components';
+import { PageContainer, ProCard } from '@bicitech-design/pro-components';
 import { Button, Dropdown, Menu } from 'antd';
 
 export default () => (

@@ -4,7 +4,7 @@ import {
   ProColumns,
   ProFormField,
   useRefFunction,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 import React, { useState } from 'react';
 
 const waitTime = (time: number = 100) => {

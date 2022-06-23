@@ -1,4 +1,4 @@
-﻿import { DrawerForm, ProFormText } from '@ant-design/pro-form';
+﻿import { DrawerForm, ProFormText } from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { fireEvent, render } from '@testing-library/react';
 import { Button } from 'antd';

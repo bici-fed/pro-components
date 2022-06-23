@@ -1,16 +1,16 @@
-import type { ProFieldEmptyText } from '@ant-design/pro-field';
-import type { ProFormFieldProps } from '@ant-design/pro-form';
-import { FieldContext, ProFormDependency, ProFormField } from '@ant-design/pro-form';
+import type { ProFieldEmptyText } from '@bicitech-design/pro-field';
+import type { ProFormFieldProps } from '@bicitech-design/pro-form';
+import { FieldContext, ProFormDependency, ProFormField } from '@bicitech-design/pro-form';
 import type {
   ProFieldValueType,
   ProSchemaComponentTypes,
   UseEditableUtilType,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import {
   getFieldPropsOrFormItemProps,
   InlineErrorFormItem,
   runFunction,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import React, { useCallback, useContext, useEffect, useMemo, useState } from 'react';
 import type { useContainer } from '../container';
 import type { ProColumnType } from '../index';

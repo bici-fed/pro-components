@@ -1,6 +1,6 @@
-import type { IntlType } from '@ant-design/pro-provider';
-import type { UseEditableUtilType } from '@ant-design/pro-utils';
-import { arrayMoveImmutable } from '@ant-design/pro-utils';
+import type { IntlType } from '@bicitech-design/pro-provider';
+import type { UseEditableUtilType } from '@bicitech-design/pro-utils';
+import { arrayMoveImmutable } from '@bicitech-design/pro-utils';
 import type { TablePaginationConfig } from 'antd';
 import type { SortOrder } from 'antd/es/table/interface';
 import type React from 'react';
@@ -163,7 +163,7 @@ export const genColumnKey = (key?: React.ReactText | undefined, index?: number):
  *
  * @param dataIndex Column 中的 dataIndex
  */
-function parseDataIndex(dataIndex: ProColumnType['dataIndex']): string | undefined {
+export function parseDataIndex(dataIndex: ProColumnType['dataIndex']): string | undefined {
   if (Array.isArray(dataIndex)) {
     return dataIndex.join(',');
   }

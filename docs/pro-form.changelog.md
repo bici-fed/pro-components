@@ -9,7 +9,7 @@ group:
 
 # Change Log
 
-## @ant-design/pro-form@1.69.2
+## @bicitech-design/pro-form@1.69.2
 
 `2022-06-02`
 
@@ -22,13 +22,13 @@ group:
 - fix(form): fix addonAfter style error (#5312). [#5312](https://github.com/ant-design/pro-components/pull/#5312) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix(form): fix Cascader and TreeSelect no has light lable error (#5310). [#5310](https://github.com/ant-design/pro-components/pull/#5310) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.69.1
+## @bicitech-design/pro-form@1.69.1
 
 `2022-05-27`
 
 - fix(form): input will be blur after setState (#5298). [#5298](https://github.com/ant-design/pro-components/pull/#5298) [@Dunqing](https://github.com/Dunqing)
 
-## @ant-design/pro-form@1.69.0
+## @bicitech-design/pro-form@1.69.0
 
 `2022-05-26`
 
@@ -36,27 +36,27 @@ group:
 - fix(form): select placement api dont work in lightFilter (#5279). [#5279](https://github.com/ant-design/pro-components/pull/#5279) [@ONLY-yours](https://github.com/ONLY-yours)
 - fix(form): default get a form. [2de054b](https://github.com/ant-design/pro-components/commit/2de054b)
 
-## @ant-design/pro-form@1.68.1
+## @bicitech-design/pro-form@1.68.1
 
 `2022-05-20`
 
 - fix(form): 解决 ProFormSelect、ProFormDatePicker、ProFormTimePicker 在 LightFilter 模式下点击激活下拉选项后再次点击未隐藏下拉框的问题 (#5169). [#5169](https://github.com/ant-design/pro-components/pull/#5169) [@wangmeijian](https://github.com/wangmeijian)
 
-## @ant-design/pro-form@1.68.0
+## @bicitech-design/pro-form@1.68.0
 
 `2022-05-16`
 
 - feat(form): `FieldProps` add `ref` type (#5209). [#5209](https://github.com/ant-design/pro-components/pull/#5209) [@kungege](https://github.com/kungege)
 - fix(form): fix ProFormTreeSelect style no work error. [cb5dfa5](https://github.com/ant-design/pro-components/commit/cb5dfa5)
 
-## @ant-design/pro-form@1.67.2
+## @bicitech-design/pro-form@1.67.2
 
 `2022-05-12`
 
 - fix(form): fix bgImg color cover style. [fea7f7d](https://github.com/ant-design/pro-components/commit/fea7f7d)
 - fix(form):FormRender 不能自定义 proFieldProps (#5199). [#5199](https://github.com/ant-design/pro-components/pull/#5199) [@ly4236](https://github.com/ly4236)
 
-## @ant-design/pro-form@1.66.0
+## @bicitech-design/pro-form@1.66.0
 
 `2022-04-29`
 
@@ -64,14 +64,14 @@ group:
 - fix(form): Supplementary English Documents (#5139). [#5139](https://github.com/ant-design/pro-components/pull/#5139) [@wangmeijian](https://github.com/wangmeijian)
 - fix(form): add missed ProFormTreeSelect to the form export (#5133). [#5133](https://github.com/ant-design/pro-components/pull/#5133) [@Symous](https://github.com/Symous)
 
-## @ant-design/pro-form@1.65.0
+## @bicitech-design/pro-form@1.65.0
 
 `2022-04-24`
 
 - feat(form): 提交表单时，禁用取消按钮和右上角关闭按钮，直到 onFinish 异步回调执行完成 (#5078). [#5078](https://github.com/ant-design/pro-components/pull/#5078) [@wangmeijian](https://github.com/wangmeijian)
 - fix(form) 验证码获取 按钮导致登录框宽度动态变化 (#5077). [#5077](https://github.com/ant-design/pro-components/pull/#5077) [@hihuangwei](https://github.com/hihuangwei)
 
-## @ant-design/pro-form@1.65.0
+## @bicitech-design/pro-form@1.65.0
 
 `2022-04-24`
 
@@ -79,21 +79,21 @@ group:
 - fix(form) 验证码获取 按钮导致登录框宽度动态变化 (#5077). [#5077](https://github.com/ant-design/pro-components/pull/#5077) [@hihuangwei](https://github.com/hihuangwei)
 - feat(form): fix test case (#5109). [#5109](https://github.com/ant-design/pro-components/pull/#5109) [@wangmeijian](https://github.com/wangmeijian)
 
-## @ant-design/pro-form@1.64.1
+## @bicitech-design/pro-form@1.64.1
 
 `2022-04-18`
 
 - fix(form): ProFormList RenderProps 透传总行数 count 参数 (#5068). [#5068](https://github.com/ant-design/pro-components/pull/#5068) [@beysong](https://github.com/beysong)
 - fix(form): fix revalidateOnFocus alway work error-n. [0ea1618](https://github.com/ant-design/pro-components/commit/0ea1618)
 
-## @ant-design/pro-form@1.64.0
+## @bicitech-design/pro-form@1.64.0
 
 `2022-04-14`
 
 - fix(form):support min screen style. [1a32c6b](https://github.com/ant-design/pro-components/commit/1a32c6b)
 - feat(form): add new components LoginFormPage. [5d6a2ee](https://github.com/ant-design/pro-components/commit/5d6a2ee)
 
-## @ant-design/pro-form@1.63.0
+## @bicitech-design/pro-form@1.63.0
 
 `2022-04-12`
 
@@ -102,14 +102,14 @@ group:
 - fix(form): fix array placeholder (#5022). [#5022](https://github.com/ant-design/pro-components/pull/#5022) [@drizzlesconsin](https://github.com/drizzlesconsin)
 - feat(form): add placement in lightFilter (#4974). [#4974](https://github.com/ant-design/pro-components/pull/#4974) [@ONLY-yours](https://github.com/ONLY-yours)
 
-## @ant-design/pro-form@1.62.0
+## @bicitech-design/pro-form@1.62.0
 
 `2022-04-07`
 
 - feat(form): Render Extra Content inside Pro Form List (#4991). [#4991](https://github.com/ant-design/pro-components/pull/#4991) [@Tushar1998](https://github.com/Tushar1998)
 - fix(form): fix alwaysShowItemLabel no work error. [8bccdf7](https://github.com/ant-design/pro-components/commit/8bccdf7)
 
-## @ant-design/pro-form@1.61.1
+## @bicitech-design/pro-form@1.61.1
 
 `2022-04-06`
 
@@ -120,7 +120,7 @@ group:
 - fix(form): Invalid use of DatePicker format in ProFormList (#4978). [#4978](https://github.com/ant-design/pro-components/pull/#4978) [@1247748612](https://github.com/1247748612)
 - fix(form): select autoClearSearchValue config false (#4954). [#4954](https://github.com/ant-design/pro-components/pull/#4954) [@leoner](https://github.com/leoner)
 
-## @ant-design/pro-form@1.61.0
+## @bicitech-design/pro-form@1.61.0
 
 `2022-03-28`
 
@@ -130,7 +130,7 @@ group:
 - fix(form): ConfigProvider setting componentSize dosen't work when using BaseForm (#4927). [#4927](https://github.com/ant-design/pro-components/pull/#4927) [@1247748612](https://github.com/1247748612)
 - fix(form): `LoginForm` login button i18n invalid (#4929). [#4929](https://github.com/ant-design/pro-components/pull/#4929) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.60.0
+## @bicitech-design/pro-form@1.60.0
 
 `2022-03-25`
 
@@ -138,26 +138,26 @@ group:
 - feat(form): Select add style and className prop (#4915). [#4915](https://github.com/ant-design/pro-components/pull/#4915) [@zqran](https://github.com/zqran)
 - fix(form): field will be ignored when value=0 (#4901). [#4901](https://github.com/ant-design/pro-components/pull/#4901) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.59.2
+## @bicitech-design/pro-form@1.59.2
 
 `2022-03-18`
 
 - fix(form): fix modal and drawer form rerender error. [4b728f2](https://github.com/ant-design/pro-components/commit/4b728f2)
 
-## @ant-design/pro-form@1.59.0
+## @bicitech-design/pro-form@1.59.0
 
 `2022-03-16`
 
 - fix(form): min color compontents. [73252e6](https://github.com/ant-design/pro-components/commit/73252e6)
 - feat(form): StepsForm support vertical direction (#4848). [#4848](https://github.com/ant-design/pro-components/pull/#4848) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.58.1
+## @bicitech-design/pro-form@1.58.1
 
 `2022-03-15`
 
 - fix(form): fix ProFormDependency no rendeer transform error. [5b163eb](https://github.com/ant-design/pro-components/commit/5b163eb)
 
-## @ant-design/pro-form@1.58.0
+## @bicitech-design/pro-form@1.58.0
 
 `2022-03-14`
 
@@ -165,21 +165,21 @@ group:
 - fix(form): ModalForm and DrawerForm remove default value of forceRender (#4842). [#4842](https://github.com/ant-design/pro-components/pull/#4842) [@1247748612](https://github.com/1247748612)
 - fix(form): avoid executing setState after unmount (#4814). [#4814](https://github.com/ant-design/pro-components/pull/#4814) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.57.0
+## @bicitech-design/pro-form@1.57.0
 
 `2022-03-08`
 
 - feat(form): improve SchemaForm achieve (#4786). [#4786](https://github.com/ant-design/pro-components/pull/#4786) [@1247748612](https://github.com/1247748612)
 - fix(form): switching current on `onFinish` has no effect (#4790). [#4790](https://github.com/ant-design/pro-components/pull/#4790) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.56.1
+## @bicitech-design/pro-form@1.56.1
 
 `2022-03-07`
 
 - fix(form): FormList add no set key warning. [b677fef](https://github.com/ant-design/pro-components/commit/b677fef)
 - fix(form): FormList min width=100%. [688b46f](https://github.com/ant-design/pro-components/commit/688b46f)
 
-## @ant-design/pro-form@1.56.0
+## @bicitech-design/pro-form@1.56.0
 
 `2022-03-07`
 
@@ -188,7 +188,7 @@ group:
 - fix(form): improve ModalForm and DrawerForm performance (#4773). [#4773](https://github.com/ant-design/pro-components/pull/#4773) [@1247748612](https://github.com/1247748612)
 - feat(form): add `name` prop to `itemRender` (#4779). [#4779](https://github.com/ant-design/pro-components/pull/#4779) [@zqran](https://github.com/zqran)
 
-## @ant-design/pro-form@1.55.2
+## @bicitech-design/pro-form@1.55.2
 
 `2022-03-04`
 
@@ -199,14 +199,14 @@ group:
 - fix(form): ignoreRules dosen't work (#4687). [#4687](https://github.com/ant-design/pro-components/pull/#4687) [@1247748612](https://github.com/1247748612)
 - fix(form): 修复 queryFilter 响应式会受 span 的属性顺序问题 (#4722). [#4722](https://github.com/ant-design/pro-components/pull/#4722) [@fengluoX](https://github.com/fengluoX)
 
-## @ant-design/pro-form@1.55.0
+## @bicitech-design/pro-form@1.55.0
 
 `2022-02-24`
 
 - fix(form): initialValue no cover. [0669ddd](https://github.com/ant-design/pro-components/commit/0669ddd)
 - feat(form): ProFormList 支持设置 min 和 max 控制条目数量 (#4684). [#4684](https://github.com/ant-design/pro-components/pull/#4684) [@kiner-tang](https://github.com/kiner-tang)
 
-## @ant-design/pro-form@1.54.0
+## @bicitech-design/pro-form@1.54.0
 
 `2022-02-21`
 
@@ -215,13 +215,13 @@ group:
 - fix(form): fix FormItemProp no rerender error. [2365df4](https://github.com/ant-design/pro-components/commit/2365df4)
 - feat(form): 更新货币符号 (#4667). [#4667](https://github.com/ant-design/pro-components/pull/#4667) [@kiner-tang](https://github.com/kiner-tang)
 
-## @ant-design/pro-form@1.53.7
+## @bicitech-design/pro-form@1.53.7
 
 `2022-02-18`
 
 - fix(form): fix ignoreRules no work error. [5586970](https://github.com/ant-design/pro-components/commit/5586970)
 
-## @ant-design/pro-form@1.53.6
+## @bicitech-design/pro-form@1.53.6
 
 `2022-02-15`
 
@@ -230,19 +230,19 @@ group:
 - fix(form): fix ProFormDateTimePicker ts error. [0ca384d](https://github.com/ant-design/pro-components/commit/0ca384d)
 - fix(form): omit money props for fieldProps. [c5016fc](https://github.com/ant-design/pro-components/commit/c5016fc)
 
-## @ant-design/pro-form@1.53.5
+## @bicitech-design/pro-form@1.53.5
 
 `2022-02-14`
 
 - fix(form): fix xxx moudle is null errror. [e134df7](https://github.com/ant-design/pro-components/commit/e134df7)
 
-## @ant-design/pro-form@1.53.4
+## @bicitech-design/pro-form@1.53.4
 
 `2022-02-14`
 
 - fix(form): improve type reminder (#4618). [#4618](https://github.com/ant-design/pro-components/pull/#4618) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.53.3
+## @bicitech-design/pro-form@1.53.3
 
 `2022-02-11`
 
@@ -250,19 +250,19 @@ group:
 - fix(form): fix getValuePropsFunc no work by newValue. [52ef52f](https://github.com/ant-design/pro-components/commit/52ef52f)
 - fix(form): fix FieldMoney fieldProps no work error. [3f165fe](https://github.com/ant-design/pro-components/commit/3f165fe)
 
-## @ant-design/pro-form@1.53.2
+## @bicitech-design/pro-form@1.53.2
 
 `2022-02-10`
 
 - fix(form): modal and drawer new render function (#4597). [#4597](https://github.com/ant-design/pro-components/pull/#4597) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.53.1
+## @bicitech-design/pro-form@1.53.1
 
 `2022-02-10`
 
 - fix(form): fix form list action error. [77dfdd1](https://github.com/ant-design/pro-components/commit/77dfdd1)
 
-## @ant-design/pro-form@1.53.0
+## @bicitech-design/pro-form@1.53.0
 
 `2022-02-08`
 
@@ -270,7 +270,7 @@ group:
 - feat(form): form support convertValue. [b555dc5](https://github.com/ant-design/pro-components/commit/b555dc5)
 - feat(form): 表单列表支持设置行为守卫 (#4518). [#4518](https://github.com/ant-design/pro-components/pull/#4518) [@kiner-tang](https://github.com/kiner-tang)
 
-## @ant-design/pro-form@1.52.14
+## @bicitech-design/pro-form@1.52.14
 
 `2022-01-25`
 
@@ -279,7 +279,7 @@ group:
 - fix(form): make sure it is valid to get the form instance through formRef (#4517). [#4517](https://github.com/ant-design/pro-components/pull/#4517) [@1247748612](https://github.com/1247748612)
 - fix(form): BetaSchemaForm setFieldsValue 失效 (#4516). [#4516](https://github.com/ant-design/pro-components/pull/#4516) [@rojer95](https://github.com/rojer95)
 
-## @ant-design/pro-form@1.52.13
+## @bicitech-design/pro-form@1.52.13
 
 `2022-01-21`
 
@@ -292,14 +292,14 @@ group:
 - fix(form): select fieldNames options (#4484). [#4484](https://github.com/ant-design/pro-components/pull/#4484) [@1247748612](https://github.com/1247748612)
 - fix(form): 🐛 type error (#4485). [#4485](https://github.com/ant-design/pro-components/pull/#4485) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.52.12
+## @bicitech-design/pro-form@1.52.12
 
 `2022-01-18`
 
 - fix(form): ProFormDependency support shouldUpdate. [4d3a531](https://github.com/ant-design/pro-components/commit/4d3a531)
 - fix(form): fix form list error. [c646dcf](https://github.com/ant-design/pro-components/commit/c646dcf)
 
-## @ant-design/pro-form@1.52.11
+## @bicitech-design/pro-form@1.52.11
 
 `2022-01-17`
 
@@ -307,13 +307,13 @@ group:
 - fix(form): default close swr cache (#4470). [#4470](https://github.com/ant-design/pro-components/pull/#4470) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix(form): drawer auto focus first input (#4473). [#4473](https://github.com/ant-design/pro-components/pull/#4473) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.52.10
+## @bicitech-design/pro-form@1.52.10
 
 `2022-01-12`
 
 - fix(form): fix ref no render error. [db98d79](https://github.com/ant-design/pro-components/commit/db98d79)
 
-## @ant-design/pro-form@1.52.8
+## @bicitech-design/pro-form@1.52.8
 
 `2022-01-11`
 
@@ -323,13 +323,13 @@ group:
 - fix(form): 🐛 DrawerForm cannot get form instance by formRef (#4421). [#4421](https://github.com/ant-design/pro-components/pull/#4421) [@1247748612](https://github.com/1247748612)
 - fix(form): FormList same name will be cache problem (#4426). [#4426](https://github.com/ant-design/pro-components/pull/#4426) [@rojer95](https://github.com/rojer95)
 
-## @ant-design/pro-form@1.52.7
+## @bicitech-design/pro-form@1.52.7
 
 `2022-01-07`
 
 - fix(form): 🐛 Cannot read properties of undefined (reading 'autoFocus' (#4419). [#4419](https://github.com/ant-design/pro-components/pull/#4419) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.52.6
+## @bicitech-design/pro-form@1.52.6
 
 `2022-01-05`
 
@@ -340,7 +340,7 @@ group:
 - fix(form): DateRangePicker in LightFilter format is always set to YYYY-MM-DD (#4374). [#4374](https://github.com/ant-design/pro-components/pull/#4374) [@rojer95](https://github.com/rojer95)
 - fix(form): fix stepForm props error. [1eec8a2](https://github.com/ant-design/pro-components/commit/1eec8a2)
 
-## @ant-design/pro-form@1.52.5
+## @bicitech-design/pro-form@1.52.5
 
 `2021-12-28`
 
@@ -348,63 +348,63 @@ group:
 - fix(form): fix ts error. [dc2fa95](https://github.com/ant-design/pro-components/commit/dc2fa95)
 - fix(form): fix react warning. [883eb37](https://github.com/ant-design/pro-components/commit/883eb37)
 
-## @ant-design/pro-form@1.51.1
+## @bicitech-design/pro-form@1.51.1
 
 `2021-12-20`
 
 - fix(form): fix drawer no trigger open error (#4320). [#4320](https://github.com/ant-design/pro-components/pull/#4320) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.51.0
+## @bicitech-design/pro-form@1.51.0
 
 `2021-12-20`
 
 - fix(form): fix the problem that the animation of the floating layer form is lost (#4308). [#4308](https://github.com/ant-design/pro-components/pull/#4308) [@chenshuai2144](https://github.com/chenshuai2144)
 - feat(form): Support ProFormTreeSelect and valueType=treeSelect (#4237). [#4237](https://github.com/ant-design/pro-components/pull/#4237) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.50.1
+## @bicitech-design/pro-form@1.50.1
 
 `2021-12-17`
 
 - fix(form): syncToUrl params error (#4296). [#4296](https://github.com/ant-design/pro-components/pull/#4296) [@zzcan](https://github.com/zzcan)
 
-## @ant-design/pro-form@1.50.0
+## @bicitech-design/pro-form@1.50.0
 
 `2021-12-13`
 
 - fix(form): relay no render DrawerForm and ModalForm (#4254). [#4254](https://github.com/ant-design/pro-components/pull/#4254) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.49.9
+## @bicitech-design/pro-form@1.49.9
 
 `2021-12-09`
 
 - fix(form): fix InputNumberPopover null error (#4238). [#4238](https://github.com/ant-design/pro-components/pull/#4238) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix(form): cascader mode=text error (#4213). [#4213](https://github.com/ant-design/pro-components/pull/#4213) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.49.8
+## @bicitech-design/pro-form@1.49.8
 
 `2021-12-08`
 
 - fix(form): 🐛 SchemaForm and StepsForm formRef error (#4220). [#4220](https://github.com/ant-design/pro-components/pull/#4220) [@1247748612](https://github.com/1247748612)
 
-## @ant-design/pro-form@1.49.7
+## @bicitech-design/pro-form@1.49.7
 
 `2021-12-07`
 
 - performance(form): less render function (#4199). [#4199](https://github.com/ant-design/pro-components/pull/#4199) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.49.6
+## @bicitech-design/pro-form@1.49.6
 
 `2021-12-01`
 
 - fix(form): fix RangePicker format is string,will error (#4169). [#4169](https://github.com/ant-design/pro-components/pull/#4169) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.49.5
+## @bicitech-design/pro-form@1.49.5
 
 `2021-12-01`
 
 - fix(form): change numberPopoverRender render dom (#4161). [#4161](https://github.com/ant-design/pro-components/pull/#4161) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.49.4
+## @bicitech-design/pro-form@1.49.4
 
 `2021-11-30`
 
@@ -412,13 +412,13 @@ group:
 - 🐛 chore(form): syncToUrl params judgment wrong order (#4124). [#4124](https://github.com/ant-design/pro-components/pull/#4124) [@DerrickTel](https://github.com/DerrickTel)
 - 🐛 fix(form): syncToUrl params judgment error (#4117). [#4117](https://github.com/ant-design/pro-components/pull/#4117) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.49.2
+## @bicitech-design/pro-form@1.49.2
 
 `2021-11-23`
 
 - fix(form): default close render params to url. [cd4f0ab](https://github.com/ant-design/pro-components/commit/cd4f0ab)
 
-## @ant-design/pro-form@1.49.0
+## @bicitech-design/pro-form@1.49.0
 
 `2021-11-18`
 
@@ -426,19 +426,19 @@ group:
 - fix(form): fix layout="vertical" style error (#4054). [#4054](https://github.com/ant-design/pro-components/pull/#4054) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix(form): support higher accuracy (#4051). [#4051](https://github.com/ant-design/pro-components/pull/#4051) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.48.1
+## @bicitech-design/pro-form@1.48.1
 
 `2021-11-16`
 
 - fix(form): support onVisibleChange form set (#4044). [#4044](https://github.com/ant-design/pro-components/pull/#4044) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.48.0
+## @bicitech-design/pro-form@1.48.0
 
 `2021-11-15`
 
 - feat(form): support antd next (#4038). [#4038](https://github.com/ant-design/pro-components/pull/#4038) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.47.0
+## @bicitech-design/pro-form@1.47.0
 
 `2021-11-12`
 
@@ -449,20 +449,20 @@ group:
 - feat(form): money support numberPopover (#4008). [#4008](https://github.com/ant-design/pro-components/pull/#4008) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix(form): less render sum. [7b025e5](https://github.com/ant-design/pro-components/commit/7b025e5)
 
-## @ant-design/pro-form@1.46.0
+## @bicitech-design/pro-form@1.46.0
 
 `2021-11-02`
 
 - fix(form): 完善 StepsForm 的 useCallback 依赖，修复可能导致的打包丢失依赖问题 (#3938). [#3938](https://github.com/ant-design/pro-components/pull/#3938) [@xiaojun1994](https://github.com/xiaojun1994)
 - feat(form): SchemaForm support dependency (#3895). [#3895](https://github.com/ant-design/pro-components/pull/#3895) [@rojer95](https://github.com/rojer95)
 
-## @ant-design/pro-form@1.45.0
+## @bicitech-design/pro-form@1.45.0
 
 `2021-10-27`
 
 - feat(form): support Cascader (#3904). [#3904](https://github.com/ant-design/pro-components/pull/#3904) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.44.0
+## @bicitech-design/pro-form@1.44.0
 
 `2021-10-26`
 
@@ -470,19 +470,19 @@ group:
 - fix(form): fix modal and darwer no animation error (#3884). [#3884](https://github.com/ant-design/pro-components/pull/#3884) [@chenshuai2144](https://github.com/chenshuai2144)
 - ✨ feat(form): footerRender support null (#3866). [#3866](https://github.com/ant-design/pro-components/pull/#3866) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.43.5
+## @bicitech-design/pro-form@1.43.5
 
 `2021-10-19`
 
 - 🐛 fix(form): ProFormSlider support number [#3849](https://github.com/ant-design/pro-components/pull/3849) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.43.4
+## @bicitech-design/pro-form@1.43.4
 
 `2021-10-18`
 
 - 🐛 fix(form): ProSelect filter support filterOption [#3822](https://github.com/ant-design/pro-components/pull/3822) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.43.3
+## @bicitech-design/pro-form@1.43.3
 
 `2021-10-15`
 
@@ -490,7 +490,7 @@ group:
 - 🐛 fix(form): fix modal and drawer reset error [#3838](https://github.com/ant-design/pro-components/pull/3838) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): 修复 ProFormList 的 children 类型错误问题并添加 action 注入 [#3835](https://github.com/ant-design/pro-components/pull/3835) [@0x219](https://github.com/0x219)
 
-## @ant-design/pro-form@1.43.0
+## @bicitech-design/pro-form@1.43.0
 
 `2021-10-08`
 
@@ -501,13 +501,13 @@ group:
 - 🐛 fix(field): timePicker 组件用 moment 解析时间不填入 format 是会直接 Invalid date [#3745](https://github.com/ant-design/pro-components/pull/3745) [@rojer95](https://github.com/rojer95)
 - 💥 feat(form): form support use singer function [#3764](https://github.com/ant-design/pro-components/pull/3764) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.42.1
+## @bicitech-design/pro-form@1.42.1
 
 `2021-09-26`
 
 - 🐛 fix(form): no use div ref render dom [#3739](https://github.com/ant-design/pro-components/pull/3739) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.42.0
+## @bicitech-design/pro-form@1.42.0
 
 `2021-09-24`
 
@@ -515,26 +515,26 @@ group:
 - 🐛 fix(form): fix:select unnamed cache [#3716](https://github.com/ant-design/pro-components/pull/3716) [@zitudu](https://github.com/zitudu)
 - 🐛 fix(table): optimize style performance [#3706](https://github.com/ant-design/pro-components/pull/3706) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.41.0
+## @bicitech-design/pro-form@1.41.0
 
 `2021-09-17`
 
 - 💥 feat(form): support auto getPopupContainer [#3685](https://github.com/ant-design/pro-components/pull/3685) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.40.1
+## @bicitech-design/pro-form@1.40.1
 
 `2021-09-16`
 
 - 🐛 fix(form): fix the problem of multiple calls [#3676](https://github.com/ant-design/pro-components/pull/3676) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix the problem of repeated prompts [#3671](https://github.com/ant-design/pro-components/pull/3671) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.40.0
+## @bicitech-design/pro-form@1.40.0
 
 `2021-09-10`
 
 - 💥 feat(form): formList support function children [#3635](https://github.com/ant-design/pro-components/pull/3635) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.39.1
+## @bicitech-design/pro-form@1.39.1
 
 `2021-09-09`
 
@@ -542,7 +542,7 @@ group:
 - 🐛 fix(form): auto close KeyPress submit [#3625](https://github.com/ant-design/pro-components/pull/3625) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): 解决有 addonBefore 或 addBefore 的情况下出现双重表单校验提示的问题 [#3611](https://github.com/ant-design/pro-components/pull/3611) [@kiner-tang](https://github.com/kiner-tang)
 
-## @ant-design/pro-form@1.39.0
+## @bicitech-design/pro-form@1.39.0
 
 `2021-09-07`
 
@@ -550,7 +550,7 @@ group:
 - 🐛 fix(form): better FormGroup Space style [#3562](https://github.com/ant-design/pro-components/pull/3562) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form,field): 增加 ProFormMoney 组件 [#3588](https://github.com/ant-design/pro-components/pull/3588) [@kiner-tang](https://github.com/kiner-tang)
 
-## @ant-design/pro-form@1.38.0
+## @bicitech-design/pro-form@1.38.0
 
 `2021-08-30`
 
@@ -558,7 +558,7 @@ group:
 - 💥 feat(form): FormList support actionRef [#3550](https://github.com/ant-design/pro-components/pull/3550) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): LoginForm support logo [#3545](https://github.com/ant-design/pro-components/pull/3545) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.36.0
+## @bicitech-design/pro-form@1.36.0
 
 `2021-08-24`
 
@@ -568,7 +568,7 @@ group:
 - 🐛 fix(form): fix incorrect formRef in demo code [#3501](https://github.com/ant-design/pro-components/pull/3501) [@Symous](https://github.com/Symous)
 - 💥 feat(form): form columns support dependencies [#3523](https://github.com/ant-design/pro-components/pull/3523) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.35.0
+## @bicitech-design/pro-form@1.35.0
 
 `2021-08-19`
 
@@ -581,7 +581,7 @@ group:
 - 💥 feat(form): support ProFormInstance types [#3432](https://github.com/ant-design/pro-components/pull/3432) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): support addonBefore and addonAfter [#3434](https://github.com/ant-design/pro-components/pull/3434) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.33.1
+## @bicitech-design/pro-form@1.33.1
 
 `2021-08-05`
 
@@ -589,7 +589,7 @@ group:
 - 🐛 fix(form): reset initialValues add warning [#3364](https://github.com/ant-design/pro-components/pull/3364) [@chenshuai2144](https://github.com/chenshuai2144)
 - feat(table): table support editable.formProps [#3363](https://github.com/ant-design/pro-components/pull/3363) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.33.0
+## @bicitech-design/pro-form@1.33.0
 
 `2021-08-03`
 
@@ -597,7 +597,7 @@ group:
 - 💥 feat(form): add login form [#3328](https://github.com/ant-design/pro-components/pull/3328) [@xiefengnian](https://github.com/xiefengnian)
 - ✨ feat(form): SchemaForm add proFieldProps [#3347](https://github.com/ant-design/pro-components/pull/3347) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.32.3
+## @bicitech-design/pro-form@1.32.3
 
 `2021-07-30`
 
@@ -605,19 +605,19 @@ group:
 - 🐛 fix(form): ProFormSelect can not get values [#3321](https://github.com/ant-design/pro-components/pull/3321) [@dingtianxiu](https://github.com/dingtianxiu)
 - 🐛 fix(form): ProFormTextArea onChange [#3305](https://github.com/ant-design/pro-components/pull/3305) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.32.2
+## @bicitech-design/pro-form@1.32.2
 
 `2021-07-26`
 
 - 🐛 fix(QueryFilter): 修复 QueryFilter 组件 optionRender 设为 false 无效问题 [#3283](https://github.com/ant-design/pro-components/pull/3283) [@0x219](https://github.com/0x219)
 
-## @ant-design/pro-form@1.32.1
+## @bicitech-design/pro-form@1.32.1
 
 `2021-07-20`
 
 - 🐛 fix(list): fix form context no render error [#3274](https://github.com/ant-design/pro-components/pull/3274) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.32.0
+## @bicitech-design/pro-form@1.32.0
 
 `2021-07-19`
 
@@ -628,7 +628,7 @@ group:
 - 💥 feat(form): StepForm support step props [#3239](https://github.com/ant-design/pro-components/pull/3239) [@chenshuai2144](https://github.com/chenshuai2144)
 - ✨ feat(form): feat new valueType -> divider [#3215](https://github.com/ant-design/pro-components/pull/3215) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.31.0
+## @bicitech-design/pro-form@1.31.0
 
 `2021-06-28`
 
@@ -640,7 +640,7 @@ group:
 - 💥 feat(form) : support Embed mode [#3091](https://github.com/ant-design/pro-components/pull/3091) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): add layout demo [#3076](https://github.com/ant-design/pro-components/pull/3076) [@rdmclin2](https://github.com/rdmclin2)
 
-## @ant-design/pro-form@1.30.0
+## @bicitech-design/pro-form@1.30.0
 
 `2021-06-23`
 
@@ -648,14 +648,14 @@ group:
 - 🐛 fix(form): fix regular match [#3064](https://github.com/ant-design/pro-components/pull/3064) [@DerrickTel](https://github.com/DerrickTel)
 - 💥 feat(form): SchemaForm support steps form [#3058](https://github.com/ant-design/pro-components/pull/3058) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.29.0
+## @bicitech-design/pro-form@1.29.0
 
 `2021-06-15`
 
 - 🐛 fix(form): use merge repacle assign [#3011](https://github.com/ant-design/pro-components/pull/3011) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): ModalForm support footer is null [#3001](https://github.com/ant-design/pro-components/pull/3001) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.28.0
+## @bicitech-design/pro-form@1.28.0
 
 `2021-06-08`
 
@@ -668,26 +668,26 @@ group:
 - 💥 feat(form): support more tooltip props [#2932](https://github.com/ant-design/pro-components/pull/2932) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): LightFilter support footer (#2794) [#2884](https://github.com/ant-design/pro-components/pull/2884) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.27.1
+## @bicitech-design/pro-form@1.27.1
 
 `2021-05-31`
 
 - 🐛 fix(form): fix abnormal gap [#2883](https://github.com/ant-design/pro-components/pull/2883) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.27.0
+## @bicitech-design/pro-form@1.27.0
 
 `2021-05-28`
 
 - 🐛 fix(form): The label is displayed when the createButton above（#2786） [#2853](https://github.com/ant-design/pro-components/pull/2853) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.26.0
+## @bicitech-design/pro-form@1.26.0
 
 `2021-05-25`
 
 - 🐛 fix(form): fix SchemaForm title function [#2826](https://github.com/ant-design/pro-components/pull/2826) [@hui5](https://github.com/hui5)
 - 💥 feat(table): eidt table use Proform [#2832](https://github.com/ant-design/pro-components/pull/2832) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.25.0
+## @bicitech-design/pro-form@1.25.0
 
 `2021-05-24`
 
@@ -695,14 +695,14 @@ group:
 - 🐛 fix(form): fix formRef no work error [#2816](https://github.com/ant-design/pro-components/pull/2816) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): form support request and params [#2812](https://github.com/ant-design/pro-components/pull/2812) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.24.1
+## @bicitech-design/pro-form@1.24.1
 
 `2021-05-21`
 
 - 🐛 fix(form): space between button and form (#2767) [#2777](https://github.com/ant-design/pro-components/pull/2777) [@DerrickTel](https://github.com/DerrickTel)
 - 💥 feat(form): select option support ellipsis(#2555) [#2765](https://github.com/ant-design/pro-components/pull/2765) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.24.0
+## @bicitech-design/pro-form@1.24.0
 
 `2021-05-18`
 
@@ -715,7 +715,7 @@ group:
 - 💥 feat(form): select option height light support less(#2667) [#2748](https://github.com/ant-design/pro-components/pull/2748) [@DerrickTel](https://github.com/DerrickTel)
 - 💥 feat(form): valueType digit supports intlProps [#2740](https://github.com/ant-design/pro-components/pull/2740) [@jiyingzhi](https://github.com/jiyingzhi)
 
-## @ant-design/pro-form@1.23.0
+## @bicitech-design/pro-form@1.23.0
 
 `2021-05-11`
 
@@ -725,7 +725,7 @@ group:
 - 🐛 fix(form): LightFilter 折叠的 ProFormFields 行为异常 [#2657](https://github.com/ant-design/pro-components/pull/2657) [@wen-haoming](https://github.com/wen-haoming)
 - 💥 feat(form) : support getFieldsFormatValue [#2675](https://github.com/ant-design/pro-components/pull/2675) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.22.0
+## @bicitech-design/pro-form@1.22.0
 
 `2021-04-29`
 
@@ -734,7 +734,7 @@ group:
 - 🐛 fix(form): FieldImage support fieldProps [#2586](https://github.com/ant-design/pro-components/pull/2586) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): FieldSet support type=group [#2628](https://github.com/ant-design/pro-components/pull/2628) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.21.5
+## @bicitech-design/pro-form@1.21.5
 
 `2021-04-22`
 
@@ -742,14 +742,14 @@ group:
 - 🐛 fix(form): sync url should no alawys set reset [#2568](https://github.com/ant-design/pro-components/pull/2568) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix transformKeySubmitValue will gen null value error [#2571](https://github.com/ant-design/pro-components/pull/2571) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.21.2
+## @bicitech-design/pro-form@1.21.2
 
 `2021-04-19`
 
 - 🐛 fix(form) : support moneySymbol=false [#2532](https://github.com/ant-design/pro-components/pull/2532) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form) : fix searchValue no work error [#2531](https://github.com/ant-design/pro-components/pull/2531) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.21.0
+## @bicitech-design/pro-form@1.21.0
 
 `2021-04-15`
 
@@ -761,7 +761,7 @@ group:
 - 💥 feat(form): group support align [#2457](https://github.com/ant-design/pro-components/pull/2457) [@drizzlesconsin](https://github.com/drizzlesconsin)
 - 设置 Select 的 optionLabelProp 和 optionFilterProp 的默认值为 label [#2413](https://github.com/ant-design/pro-components/pull/2413) [@jiyingzhi](https://github.com/jiyingzhi)
 
-## @ant-design/pro-form@1.20.0
+## @bicitech-design/pro-form@1.20.0
 
 `2021-04-06`
 
@@ -770,7 +770,7 @@ group:
 - 🐛 fix(utils): 优化 inline-error-form-item 的 popover 展示逻辑 [#2372](https://github.com/ant-design/pro-components/pull/2372) [@xiefengnian](https://github.com/xiefengnian)
 - 💥 feat(form): creatorRecord support function [#2383](https://github.com/ant-design/pro-components/pull/2383) [@newketom](https://github.com/newketom)
 
-## @ant-design/pro-form@1.19.1
+## @bicitech-design/pro-form@1.19.1
 
 `2021-03-31`
 
@@ -779,7 +779,7 @@ group:
 - 🐛 fix(form): fix StepsForm min-width error [#2351](https://github.com/ant-design/pro-components/pull/2351) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix: render empty text when 'text === 0' [#2348](https://github.com/ant-design/pro-components/pull/2348) [@yingzhiji](https://github.com/yingzhiji)
 
-## @ant-design/pro-form@1.19.0
+## @bicitech-design/pro-form@1.19.0
 
 `2021-03-29`
 
@@ -787,7 +787,7 @@ group:
 - 🐛 fix(proform): call synctourl props during onreset [#2258](https://github.com/ant-design/pro-components/pull/2258) [@JunlinZhu-Tommy](https://github.com/JunlinZhu-Tommy)
 - 💥 feat(table): search form support className [#2254](https://github.com/ant-design/pro-components/pull/2254) [@drizzlesconsin](https://github.com/drizzlesconsin)
 
-## @ant-design/pro-form@1.18.4
+## @bicitech-design/pro-form@1.18.4
 
 `2021-03-18`
 
@@ -796,7 +796,7 @@ group:
 - 💥 feat(utils): fix inline-error-form-item problems [#2223](https://github.com/ant-design/pro-components/pull/2223) [@xiefengnian](https://github.com/xiefengnian)
 - 💥 feat(utils): upgrade inline-error-form-item [#2168](https://github.com/ant-design/pro-components/pull/2168) [@xiefengnian](https://github.com/xiefengnian)
 
-## @ant-design/pro-form@1.18.2
+## @bicitech-design/pro-form@1.18.2
 
 `2021-03-16`
 
@@ -805,14 +805,14 @@ group:
 - 🐛 fix(form): fix ProFormDateRangePicker type error [#2181](https://github.com/ant-design/pro-components/pull/2181) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix width<16, layout will change error [#2180](https://github.com/ant-design/pro-components/pull/2180) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.18.0
+## @bicitech-design/pro-form@1.18.0
 
 `2021-03-11`
 
 - 🐛 fix(select): 修复 Select 默认的 filterOption 没有忽略大小写 [#2137](https://github.com/ant-design/pro-components/pull/2137) [@raohong](https://github.com/raohong)
 - 🐛 fix(form): fix copy trigger rerender error [#2136](https://github.com/ant-design/pro-components/pull/2136) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.17.0
+## @bicitech-design/pro-form@1.17.0
 
 `2021-03-08`
 
@@ -827,14 +827,14 @@ group:
 - 🐛 fix(form): FormList support rules [#2070](https://github.com/ant-design/pro-components/pull/2070) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): select optipn support optGroup [#2067](https://github.com/ant-design/pro-components/pull/2067) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.16.3
+## @bicitech-design/pro-form@1.16.3
 
 `2021-02-28`
 
 - 🐛 fix(form): 🇧🇷 Adding stepForm and editableTable translations to pt-BR [#2018](https://github.com/ant-design/pro-components/pull/2018) [@renanwilliam](https://github.com/renanwilliam)
 - 🐛 fix(form): fix multiple data no work error [#2028](https://github.com/ant-design/pro-components/pull/2028) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.16.2
+## @bicitech-design/pro-form@1.16.2
 
 `2021-02-25`
 
@@ -842,7 +842,7 @@ group:
 - 🐛 fix(form): form list support formlist [#1995](https://github.com/ant-design/pro-components/pull/1995) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix placeholder no work error [#1991](https://github.com/ant-design/pro-components/pull/1991) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.16.1
+## @bicitech-design/pro-form@1.16.1
 
 `2021-02-23`
 
@@ -850,7 +850,7 @@ group:
 - 🐛 fix(form): fix breakpoint xl width error [#1946](https://github.com/ant-design/pro-components/pull/1946) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): modelForm and DrawerForm stopPropagation [#1939](https://github.com/ant-design/pro-components/pull/1939) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.16.0
+## @bicitech-design/pro-form@1.16.0
 
 `2021-02-22`
 
@@ -858,20 +858,20 @@ group:
 - 🐛 fix(form): fix searchText and resetText no work error [#1872](https://github.com/ant-design/pro-components/pull/1872) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): support form list [#1908](https://github.com/ant-design/pro-components/pull/1908) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.15.4
+## @bicitech-design/pro-form@1.15.4
 
 `2021-02-04`
 
 - 🐛 fix(form): fix form control error [#1833](https://github.com/ant-design/pro-components/pull/1833) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): modal and drawer form close not reset [#1827](https://github.com/ant-design/pro-components/pull/1827) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.15.2
+## @bicitech-design/pro-form@1.15.2
 
 `2021-01-25`
 
 - fix: ignore Blob type [#1722](https://github.com/ant-design/pro-components/pull/1722) [@eynol](https://github.com/eynol)
 
-## @ant-design/pro-form@1.15.0
+## @bicitech-design/pro-form@1.15.0
 
 `2021-01-21`
 
@@ -879,7 +879,7 @@ group:
 - 🐛 fix(form): fix from reset error [#1709](https://github.com/ant-design/pro-components/pull/1709) [@chenshuai2144](https://github.com/chenshuai2144)
 - fix: allow `labelInValue` value in form values [#1705](https://github.com/ant-design/pro-components/pull/1705) [@eynol](https://github.com/eynol)
 
-## @ant-design/pro-form@1.14.0
+## @bicitech-design/pro-form@1.14.0
 
 `2021-01-18`
 
@@ -891,21 +891,21 @@ group:
 - 💥 feat(form): QueryForm support preserve [#1665](https://github.com/ant-design/pro-components/pull/1665) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(form): support sync url [#1650](https://github.com/ant-design/pro-components/pull/1650) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.13.10
+## @bicitech-design/pro-form@1.13.10
 
 `2021-01-13`
 
 - 🐛 fix(form): fix the problem of duplicate form fields [#1607](https://github.com/ant-design/pro-components/pull/1607) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): default render form [#1611](https://github.com/ant-design/pro-components/pull/1611) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.13.8
+## @bicitech-design/pro-form@1.13.8
 
 `2021-01-11`
 
 - fix(form): fix namePath is array error [#1579](https://github.com/ant-design/pro-components/pull/1579) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): lightSelect searchInput allowClear [#1568](https://github.com/ant-design/pro-components/pull/1568) [@oldturkey](https://github.com/oldturkey)
 
-## @ant-design/pro-form@1.13.6
+## @bicitech-design/pro-form@1.13.6
 
 `2021-01-08`
 
@@ -914,7 +914,7 @@ group:
 - 🐛 fix(form): fix transform no work when namePath is array [#1537](https://github.com/ant-design/pro-components/pull/1537) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix ModalForm and DrawerFrom props error [#1534](https://github.com/ant-design/pro-components/pull/1534) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.13.0
+## @bicitech-design/pro-form@1.13.0
 
 `2021-01-03`
 
@@ -922,32 +922,32 @@ group:
 - 🐛 fix(form): fix the problem of attribute priority [#1472](https://github.com/ant-design/pro-components/pull/1472) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): add footer warning [#1469](https://github.com/ant-design/pro-components/pull/1469) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.12.0
+## @bicitech-design/pro-form@1.12.0
 
 `2021-01-01`
 
 - 🐛 fix(table): fix table form submit time error [#1466](https://github.com/ant-design/pro-components/pull/1466) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.11.7
+## @bicitech-design/pro-form@1.11.7
 
 `2020-12-31`
 
 - 🐛 fix(form): fix ProFormCaptcha name error [#1459](https://github.com/ant-design/pro-components/pull/1459) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.11.6
+## @bicitech-design/pro-form@1.11.6
 
 `2020-12-31`
 
 - 🐛 fix(form): add defaultXXX warning [#1457](https://github.com/ant-design/pro-components/pull/1457) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.11.3
+## @bicitech-design/pro-form@1.11.3
 
 `2020-12-28`
 
 - 🐛 fix(form): fix ProFormSet no work error [#1420](https://github.com/ant-design/pro-components/pull/1420) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix QueryFilter span style error [#1419](https://github.com/ant-design/pro-components/pull/1419) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.11.0
+## @bicitech-design/pro-form@1.11.0
 
 `2020-12-24`
 
@@ -955,70 +955,70 @@ group:
 - 💥 feat(form): 懒加载 DrawerForm 和 ModalFrom 优化性能 [#1370](https://github.com/ant-design/pro-components/pull/1370) [@Deturium](https://github.com/Deturium)
 - 💥 feat(chore): adjust information structure [#1383](https://github.com/ant-design/pro-components/pull/1383) [@rdmclin2](https://github.com/rdmclin2)
 
-## @ant-design/pro-form@1.10.4
+## @bicitech-design/pro-form@1.10.4
 
 `2020-12-21`
 
 - 🐛 fix(compiler): form 修复问题和清空操作冲突，改成 hasOwnProperty 判断 [#1363](https://github.com/ant-design/pro-components/pull/1363) [@oldturkey](https://github.com/oldturkey)
 
-## @ant-design/pro-form@1.10.3
+## @bicitech-design/pro-form@1.10.3
 
 `2020-12-21`
 
 - 🐛 fix(form): use same width enum like antd [#1351](https://github.com/ant-design/pro-components/pull/1351) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.10.2
+## @bicitech-design/pro-form@1.10.2
 
 `2020-12-17`
 
 - 🐛 fix(form): 修复 lightFilter 在 collapse 的情况下 form 失效的 bug [#1323](https://github.com/ant-design/pro-components/pull/1323) [@oldturkey](https://github.com/oldturkey)
 
-## @ant-design/pro-form@1.10.0
+## @bicitech-design/pro-form@1.10.0
 
 `2020-12-14`
 
 - 🐛 fix(dependencies):add dependencies to pro-utils & pro-descriptions & pro-layout & pro-form [#1280](https://github.com/ant-design/pro-components/pull/1280) [@yanm1ng](https://github.com/yanm1ng)
 
-## @ant-design/pro-form@1.9.0
+## @bicitech-design/pro-form@1.9.0
 
 `2020-12-10`
 
 - 💥 feat(form): support getPopupContainer [#1251](https://github.com/ant-design/pro-components/pull/1251) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.8.1
+## @bicitech-design/pro-form@1.8.1
 
 `2020-12-09`
 
 - 💥 feat(table): add "colSize" in fieldProps within proTable's columns to customize query form item width [#1229](https://github.com/ant-design/pro-components/pull/1229) [@LyndonXiao](https://github.com/LyndonXiao)
 
-## @ant-design/pro-form@1.7.6
+## @bicitech-design/pro-form@1.7.6
 
 `2020-12-07`
 
 - 🐛 fix(table): fix formItemProps no work error [#1222](https://github.com/ant-design/pro-components/pull/1222) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.7.3
+## @bicitech-design/pro-form@1.7.3
 
 `2020-12-03`
 
 - 🐛 fix(form): fix modalForm cancel button is invalid error [#1174](https://github.com/ant-design/pro-components/pull/1174) [@chenshuai2144](https://github.com/chenshuai2144)
 - 💥 feat(table): onReset support search. transform [#1176](https://github.com/ant-design/pro-components/pull/1176) [@DerrickTel](https://github.com/DerrickTel)
 
-## @ant-design/pro-form@1.7.2
+## @bicitech-design/pro-form@1.7.2
 
 `2020-12-02`
 
 - 🐛 fix(table): fix protable form types error [#1158](https://github.com/ant-design/pro-components/pull/1158) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix optionRender no has form error [#1147](https://github.com/ant-design/pro-components/pull/1147) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.7.1
+## @bicitech-design/pro-form@1.7.1
 
 `2020-11-30`
 
 - 🐛 fix(form): fix setState() call inside `Field` error [#1137](https://github.com/ant-design/pro-components/pull/1137) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): No longer generate redundant dom [#1121](https://github.com/ant-design/pro-components/pull/1121) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.7.0
+## @bicitech-design/pro-form@1.7.0
 
 `2020-11-27`
 
@@ -1028,13 +1028,13 @@ group:
 - ⚡️ feat(form): optimize query filter performance [#1074](https://github.com/ant-design/pro-components/pull/1074) [@chenshuai2144](https://github.com/chenshuai2144)
 - feat: add table demos and fix form layout styles [#1069](https://github.com/ant-design/pro-components/pull/1069) [@rdmclin2](https://github.com/rdmclin2)
 
-## @ant-design/pro-form@1.6.2
+## @bicitech-design/pro-form@1.6.2
 
 `2020-11-19`
 
 - 🐛 fix(form): fix formItemProps no work error [#1037](https://github.com/ant-design/pro-components/pull/1037) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.6.1
+## @bicitech-design/pro-form@1.6.1
 
 `2020-11-19`
 
@@ -1042,13 +1042,13 @@ group:
 - 🐛 fix(table): No more transparent formitem [#1028](https://github.com/ant-design/pro-components/pull/1028) [@chenshuai2144](https://github.com/chenshuai2144)
 - 🐛 fix(form): fix stepForm formRef no work error [#1023](https://github.com/ant-design/pro-components/pull/1023) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.6.0
+## @bicitech-design/pro-form@1.6.0
 
 `2020-11-18`
 
 - feat(form): onFinish support reset form [cf840641](https://github.com/ant-design/pro-components/commit/cf8406411b2445399290b476b3d8dff959507db3)
 
-## @ant-design/pro-form@1.5.0
+## @bicitech-design/pro-form@1.5.0
 
 `2020-11-17`
 
@@ -1058,7 +1058,7 @@ group:
 - feat: LightFilter support allowClear [#974](https://github.com/ant-design/pro-components/pull/974) [@yutingzhao1991](https://github.com/yutingzhao1991)
 - 💥 feat(form): support readonly [#963](https://github.com/ant-design/pro-components/pull/963) [@chenshuai2144](https://github.com/chenshuai2144)
 
-## @ant-design/pro-form@1.3.0
+## @bicitech-design/pro-form@1.3.0
 
 `2020-11-04`
 
@@ -1067,13 +1067,13 @@ group:
 - 💥 feat(form): submit button text localization ([@DavidNorena](https://github.com/DavidNorena))[#896](https://github.com/ant-design/pro-components/pull/896)
 - 💥 feat(form): step form onfisih support return boolean ([@chenshuai2144](https://github.com/chenshuai2144))[#894](https://github.com/ant-design/pro-components/pull/894)
 
-## @ant-design/pro-form@1.2.1
+## @bicitech-design/pro-form@1.2.1
 
 `2020-11-02`
 
 - 🐛 fix(form): support onKeyPress for Enter ([@chenshuai2144](https://github.com/chenshuai2144))[#883](https://github.com/ant-design/pro-components/pull/883)
 
-## @ant-design/pro-form@1.2.0
+## @bicitech-design/pro-form@1.2.0
 
 `2020-11-02`
 
@@ -1082,13 +1082,13 @@ group:
 - 💥 feat(form): localize stepsform submitter buttons texts ([@DavidNorena](https://github.com/DavidNorena))[#868](https://github.com/ant-design/pro-components/pull/868)
 - 💥 feat(form): support ProFromFieldSet ([@chenshuai2144](https://github.com/chenshuai2144))[#522](https://github.com/ant-design/pro-components/pull/522)
 
-## @ant-design/pro-form@1.1.0
+## @bicitech-design/pro-form@1.1.0
 
 `2020-10-19`
 
 - 💥 feat: add effective style to LightFilter when collapse ([@yutingzhao1991](https://github.com/yutingzhao1991))[#746](https://github.com/ant-design/pro-components/pull/746)
 
-## @ant-design/pro-form@1.0.3
+## @bicitech-design/pro-form@1.0.3
 
 `2020-10-15`
 
@@ -1099,13 +1099,13 @@ group:
 - 💥 feat(form): onFinish auto close modal ([@chenshuai2144](https://github.com/chenshuai2144))[#735](https://github.com/ant-design/pro-components/pull/735)
 - 💥 feat(form): ProFormUploadButton support diable ([@chenshuai2144](https://github.com/chenshuai2144))[#689](https://github.com/ant-design/pro-components/pull/689)
 
-## @ant-design/pro-form@1.0.0-beta.31
+## @bicitech-design/pro-form@1.0.0-beta.31
 
 `2020-10-12`
 
 - 💥 feat(form): add DrawerForm and ModalForm ([@chenshuai2144](https://github.com/chenshuai2144))[#632](https://github.com/ant-design/pro-components/pull/632)
 
-## @ant-design/pro-form@1.0.0-beta.30
+## @bicitech-design/pro-form@1.0.0-beta.30
 
 `2020-09-29`
 

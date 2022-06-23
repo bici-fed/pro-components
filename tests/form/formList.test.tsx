@@ -6,7 +6,7 @@ import ProForm, {
   ProFormGroup,
   ProFormList,
   ProFormText,
-} from '@ant-design/pro-form';
+} from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { render as reactRender, render } from '@testing-library/react';
 import { Button, Form } from 'antd';

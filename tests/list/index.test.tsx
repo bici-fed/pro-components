@@ -1,4 +1,4 @@
-import ProList, { BaseProList } from '@ant-design/pro-list';
+import ProList, { BaseProList } from '@bicitech-design/pro-list';
 import '@testing-library/jest-dom';
 import { act, fireEvent, render as reactRender } from '@testing-library/react';
 import { Tag } from 'antd';

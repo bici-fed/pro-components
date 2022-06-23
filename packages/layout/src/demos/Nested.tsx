@@ -1,5 +1,5 @@
 import { UserOutlined } from '@ant-design/icons';
-import { PageContainer, ProLayout } from '@ant-design/pro-components';
+import { PageContainer, ProLayout } from '@bicitech-design/pro-components';
 import { Avatar } from 'antd';
 import complexMenu from './complexMenu';
 

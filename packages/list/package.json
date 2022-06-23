@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design/pro-list",
+  "name": "@bicitech-design/pro-list",
   "version": "1.21.69",
   "description": "🏆 Use Ant Design List like a Pro!",
   "keywords": [
@@ -33,10 +33,10 @@
   ],
   "dependencies": {
     "@ant-design/icons": "^4.0.0",
-    "@ant-design/pro-card": "1.20.10",
-    "@ant-design/pro-field": "1.34.17",
-    "@ant-design/pro-table": "2.76.4",
     "@babel/runtime": "^7.18.0",
+    "@bicitech-design/pro-card": "1.20.10",
+    "@bicitech-design/pro-field": "1.34.17",
+    "@bicitech-design/pro-table": "2.76.4",
     "classnames": "^2.2.6",
     "moment": "^2.24.0",
     "rc-resize-observer": "^1.0.0",

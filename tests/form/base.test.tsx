@@ -1,5 +1,5 @@
 import { FontSizeOutlined } from '@ant-design/icons';
-import type { ProFormInstance } from '@ant-design/pro-form';
+import type { ProFormInstance } from '@bicitech-design/pro-form';
 import ProForm, {
   ProFormCaptcha,
   ProFormColorPicker,
@@ -10,7 +10,7 @@ import ProForm, {
   ProFormField,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-form';
+} from '@bicitech-design/pro-form';
 import '@testing-library/jest-dom';
 import { render as reactRender } from '@testing-library/react';
 import { Button, ConfigProvider, Input } from 'antd';

@@ -1,4 +1,4 @@
-import Field from '@ant-design/pro-field';
+import Field from '@bicitech-design/pro-field';
 import '@testing-library/jest-dom';
 import { render } from '@testing-library/react';
 import { mount } from 'enzyme';

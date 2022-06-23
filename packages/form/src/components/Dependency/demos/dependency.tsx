@@ -4,7 +4,7 @@
   ProFormList,
   ProFormSelect,
   ProFormText,
-} from '@ant-design/pro-components';
+} from '@bicitech-design/pro-components';
 
 const Demo = () => {
   return (

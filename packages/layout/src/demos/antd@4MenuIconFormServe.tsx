@@ -1,6 +1,6 @@
 import { HeartOutlined, SmileOutlined } from '@ant-design/icons';
-import type { MenuDataItem } from '@ant-design/pro-components';
-import { PageContainer, ProLayout } from '@ant-design/pro-components';
+import type { MenuDataItem } from '@bicitech-design/pro-components';
+import { PageContainer, ProLayout } from '@bicitech-design/pro-components';
 
 const IconMap = {
   smile: <SmileOutlined />,

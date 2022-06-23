@@ -1,10 +1,10 @@
-import type { ProFormColumnsType } from '@ant-design/pro-components';
-import { BetaSchemaForm, ProProvider } from '@ant-design/pro-components';
+import type { ProFormColumnsType } from '@bicitech-design/pro-components';
+import { BetaSchemaForm, ProProvider } from '@bicitech-design/pro-components';
 import type { InputRef } from 'antd';
 import { Input, Space, Tag } from 'antd';
 import React, { useContext, useRef, useState } from 'react';
 
-declare module '@ant-design/pro-utils' {
+declare module '@bicitech-design/pro-utils' {
   interface ProFieldValueTypeWithFieldProps {
     tags: Record<string, any>;
     link: {

@@ -1,6 +1,6 @@
 ﻿import { LoadingOutlined } from '@ant-design/icons';
-import { useIntl } from '@ant-design/pro-provider';
-import { FieldLabel } from '@ant-design/pro-utils';
+import { useIntl } from '@bicitech-design/pro-provider';
+import { FieldLabel } from '@bicitech-design/pro-utils';
 import type { RadioGroupProps } from 'antd';
 import { Cascader, ConfigProvider } from 'antd';
 import classNames from 'classnames';

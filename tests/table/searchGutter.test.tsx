@@ -1,4 +1,4 @@
-import ProTable from '@ant-design/pro-table';
+import ProTable from '@bicitech-design/pro-table';
 import { mount } from 'enzyme';
 import { waitForComponentToPaint } from '../util';
 

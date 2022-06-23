@@ -1,6 +1,6 @@
-﻿import type { ProCardProps } from '@ant-design/pro-card';
-import type { ProFieldEmptyText } from '@ant-design/pro-field';
-import type { LightWrapperProps, ProFormProps, QueryFilterProps } from '@ant-design/pro-form';
+﻿import type { ProCardProps } from '@bicitech-design/pro-card';
+import type { ProFieldEmptyText } from '@bicitech-design/pro-field';
+import type { LightWrapperProps, ProFormProps, QueryFilterProps } from '@bicitech-design/pro-form';
 import type {
   ProCoreActionType,
   ProSchema,
@@ -8,7 +8,7 @@ import type {
   ProTableEditableFnType,
   RowEditableConfig,
   SearchTransformKeyFn,
-} from '@ant-design/pro-utils';
+} from '@bicitech-design/pro-utils';
 import type { SizeType } from 'antd/lib/config-provider/SizeContext';
 import type { LabelTooltipType } from 'antd/lib/form/FormItemLabel';
 import type { NamePath } from 'antd/lib/form/interface';
