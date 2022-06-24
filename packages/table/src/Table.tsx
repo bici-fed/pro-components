@@ -215,15 +215,11 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
   const detailDrawerDom = () => {
     return (
       <>
-        <Drawer title="数据详情" placement="right" width={500} onClose={onClose} visible={visible}>
+        <Drawer title="数据详情" placement="right" width={700} onClose={onClose} visible={visible}>
           <ExpandedRowRender
             record={rowRecord}
             tableColumns={tableColumns}
-            rowExpandableConfig={{
-              columnCount: 1,
-              rowExpandable: (record) => true,
-              mode: 'all',
-            }}
+            rowExpandableConfig={defaultRowExpandableConfig}
           />
         </Drawer>
       </>

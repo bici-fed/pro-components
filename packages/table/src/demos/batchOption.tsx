@@ -166,7 +166,7 @@ export default () => {
       headerTitle="批量操作"
       rowPreviewMode="drawer"
       defaultRowExpandableConfig={{
-        columnCount: 2,
+        columnCount: 3,
         rowExpandable: (record) => true,
         mode: 'all',
       }}
