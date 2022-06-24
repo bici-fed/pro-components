@@ -1,5 +1,5 @@
 ﻿// @ts-ignore
-import ProSkeleton from '@ant-design/pro-skeleton';
+import ProSkeleton from '@bicitech-design/pro-skeleton';
 import { Spin } from 'antd';
 import PreView, { IPreviewerProps } from 'dumi-theme-default/src/builtins/Previewer';
 import LazyLoad from 'react-lazyload';

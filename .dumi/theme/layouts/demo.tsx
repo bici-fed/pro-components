@@ -1,4 +1,4 @@
-﻿import { SettingDrawer } from '@ant-design/pro-components';
+﻿import { SettingDrawer } from '@bicitech-design/pro-components';
 import { isBrowser } from 'umi';
 
 export default ({ children, location, ...rest }) => {

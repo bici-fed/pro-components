@@ -10,7 +10,7 @@ const pkgList = readdirSync(join(__dirname, 'packages')).filter(
 );
 
 const alias = pkgList.reduce((pre, pkg) => {
-  pre[`@ant-design/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
+  pre[`@bicitech-design/pro-${pkg}`] = join(__dirname, 'packages', pkg, 'src');
   return {
     ...pre,
   };
@@ -27,7 +27,7 @@ const isProduction = process.env.NODE_ENV === 'production';
 const isDeploy = process.env.SITE_DEPLOY === 'TRUE';
 
 export default {
-  title: 'ProComponents',
+  title: '【@bicitech-design】ProComponents',
   mode: 'site',
   logo: 'https://gw.alipayobjects.com/zos/antfincdn/upvrAjAPQX/Logo_Tech%252520UI.svg',
   extraBabelPlugins: [
@@ -98,14 +98,14 @@ export default {
       null,
       {
         title: 'GitHub',
-        path: 'https://github.com/ant-design/pro-components',
+        path: 'https://github.com/bici-fed/pro-components.git',
       },
     ],
     'zh-CN': [
       null,
       {
         title: 'GitHub',
-        path: 'https://github.com/ant-design/pro-components',
+        path: 'https://github.com/bici-fed/pro-components.git',
       },
     ],
   },
