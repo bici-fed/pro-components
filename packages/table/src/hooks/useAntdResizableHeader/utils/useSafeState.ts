@@ -9,7 +9,7 @@ function useSafeState<S = undefined>(): [S | undefined, Dispatch<SetStateAction<
 function useSafeState<S>(initialState?: S | (() => S)) {
   const unmountedRef = useUnmountedRef();
   const [state, setState] = useState(initialState);
-  const setCurrentState = useCallback((currentState) => {
+  const setCurrentState = useCallback((currentState: any) => {
     /** If component is unmounted, stop update */
     if (unmountedRef.current) return;
     setState(currentState);

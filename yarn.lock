@@ -3728,6 +3728,13 @@
   dependencies:
     react-intl "*"
 
+"@types/react-resizable@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@types/react-resizable/-/react-resizable-3.0.1.tgz#bba5b0a55023a9192e840c41cc867b56045f24ea"
+  integrity sha512-3Wpj2j1XH+FrjTOb4C8K3e66XfJYTKAtZO7RUq3oTPEFiWsvsOijAheIgwyLMmrym4+Ky0CwFFh6OvEIV4DMng==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-responsive@^8.0.1":
   version "8.0.5"
   resolved "https://registry.npmmirror.com/@types/react-responsive/-/react-responsive-8.0.5.tgz#77769862d2a0711434feb972be08e3e6c334440a"

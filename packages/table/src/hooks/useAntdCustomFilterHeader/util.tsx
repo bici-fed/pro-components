@@ -1,4 +1,4 @@
-import Field from '@ant-design/pro-field';
+import Field from '@bicitech-design/pro-field';
 
 const renderSelectDom = () => {};
 
