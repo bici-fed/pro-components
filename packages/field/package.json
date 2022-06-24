@@ -48,5 +48,9 @@
   "peerDependencies": {
     "antd": ">=4.20.0",
     "react": ">=16.9.0"
-  }
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "a97f1dd6bd60632e410c682fb7562df447b9c75d"
 }
