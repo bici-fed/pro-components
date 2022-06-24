@@ -308,7 +308,9 @@ ProTable 在 antd 的 Table 上进行了一层封装，支持了一些预设，�
 ### ProTable
 
 | 属性 | 描述 | 类型 | 默认值 |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
+| defaultRowExpandableConfig | 默认行展开的组件配置,不管取什么值，都可以使用自带的 expandable 属性覆盖 | defaultRowExpandableConfigProps | undefined |
+| rowPreviewMode | 显示行所有字段的模式， | 取值 row:展开行,drawer：双击行抽屉否则显示 | undefined |
 | request | 获取 `dataSource` 的方法 | `(params?: {pageSize,current},sort,filter) => {data,success,total}` | - |
 | params | 用于 `request` 查询的额外参数，一旦变化会触发重新加载 | `object` | - |
 | postData | 对通过 `request` 获取的数据进行处理 | `(data: T[]) => T[]` | - |
@@ -323,23 +325,23 @@ ProTable 在 antd 的 Table 上进行了一层封装，支持了一些预设，�
 | onRequestError | 数据加载失败时触发 | `(error) => void` | - |
 | tableClassName | 封装的 table 的 className | `string` | - |
 | tableStyle | 封装的 table 的 style | [CSSProperties](https://www.htmlhelp.com/reference/css/properties.html) | - |
-| options | table 工具栏，设为 false 时不显示.传入 function 会点击时触发 | `{{ fullScreen: boolean \| function, reload: boolean \| function,setting: true, density?: boolean }}` | `{ fullScreen: false, reload:true, setting: true}` |
-| search | 是否显示搜索表单，传入对象时为搜索表单的配置 | `false` \| [SearchConfig](#search-搜索表单) | - |
+| options | table 工具栏，设为 false 时不显示.传入 function 会点击时触发 | `{{ fullScreen: boolean \  | function, reload: boolean \  | function,setting: true, density?: boolean }}` | `{ fullScreen: false, reload:true, setting: true}` |
+| search | 是否显示搜索表单，传入对象时为搜索表单的配置 | `false` \  | [SearchConfig](#search-搜索表单) | - |
 | defaultSize | 默认的 size | SizeType | - |
-| dateFormatter | 转化 moment 格式数据为特定类型，false 不做转化 | `"string"` \| `"number"` \| ((value: Moment, valueType: string) => string \| number) \| `false` | `"string"` |
+| dateFormatter | 转化 moment 格式数据为特定类型，false 不做转化 | `"string"` \  | `"number"` \  | ((value: Moment, valueType: string) => string \| number) \| `false` | `"string"` |
 | beforeSearchSubmit | 搜索之前进行一些修改 | `(params:T)=>T` | - |
-| onSizeChange | table 尺寸发生改变 | `(size: 'default' \| 'middle' \| 'small') => void` | - |
+| onSizeChange | table 尺寸发生改变 | `(size: 'default' \  | 'middle' \  | 'small') => void` | - |
 | type | pro-table 类型 | `"form"` | - |
 | form | antd form 的配置 | [FormProps](https://ant.design/components/form-cn/#API) | - |
 | onSubmit | 提交表单时触发 | `(params: U) => void` | - |
 | onReset | 重置表单时触发 | `() => void` | - |
-| columnEmptyText | 空值时的显示，不设置时显示 `-`， false 可以关闭此功能 | `string` \| `false` | false |
+| columnEmptyText | 空值时的显示，不设置时显示 `-`， false 可以关闭此功能 | `string` \  | `false` | false |
 | tableRender | 自定义渲染表格函数 | `(props,dom,domList:{ toolbar,alert,table}) => ReactNode` | - |
 | toolbar | 透传 `ListToolBar` 配置项 | [ListToolBarProps](#listtoolbarprops) | - |
 | tableExtraRender | 自定义表格的主体函数 | `(props: ProTableProps<T, U>, dataSource: T[]) => ReactNode;` | - |
 | manualRequest | 是否需要手动触发首次请求, 配置为 `true` 时不可隐藏搜索表单 | `boolean` | false |
 | editable | 可编辑表格的相关配置 | [TableRowEditable<T>](/components/editable-table#editable-编辑行配置) | - |
-| cardBordered | Table 和 Search 外围 Card 组件的边框 | `boolean \| {search?: boolean, table?: boolean}` | false |
+| cardBordered | Table 和 Search 外围 Card 组件的边框 | `boolean \  | {search?: boolean, table?: boolean}` | false |
 | debounceTime | 防抖时间 | `number` | 10 |
 | revalidateOnFocus | 窗口聚焦时自动重新请求 | `boolean` | `true` |
 | columnsState | 受控的列状态，可以操作显示隐藏 | `columnsStateType` | - |

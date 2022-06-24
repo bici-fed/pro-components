@@ -21,6 +21,7 @@ const ProcessMap = {
 export type TableListItem = {
   key: number;
   name: string;
+  user: { name: string };
   progress: number;
   containers: number;
   callNumber: number;
@@ -36,6 +37,7 @@ const creators = ['付小小', '曲丽丽', '林东东', '陈帅帅', '兼某某
 for (let i = 0; i < 5; i += 1) {
   tableListDataSource.push({
     key: i,
+    user: { name: 'jufeng' },
     name: 'AppName',
     containers: Math.floor(Math.random() * 20),
     callNumber: Math.floor(Math.random() * 2000),
@@ -157,11 +159,17 @@ export default () => {
         );
       }}
       dataSource={tableListDataSource}
-      scroll={{ x: 1300 }}
+      scroll={{ x: 1300, y: 800 }}
       options={false}
       search={false}
       rowKey="key"
       headerTitle="批量操作"
+      rowPreviewMode="drawer"
+      defaultRowExpandableConfig={{
+        columnCount: 2,
+        rowExpandable: (record) => true,
+        mode: 'all',
+      }}
       toolBarRender={() => [<Button key="show">查看日志</Button>]}
     />
   );

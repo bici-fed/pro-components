@@ -167,6 +167,12 @@ export default () => {
           console.log('value: ', value);
         },
       }}
+      defaultRowExpandableConfig={{
+        columnCount: 2,
+        rowExpandable: (record) => true,
+        mode: 'all',
+      }}
+      rowPreviewMode="row"
       rowKey="id"
       search={{
         labelWidth: 'auto',

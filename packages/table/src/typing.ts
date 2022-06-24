@@ -187,6 +187,15 @@ export type ColumnsStateType = {
   onChange?: (map: Record<string, ColumnsState>) => void;
 };
 
+export type defaultRowExpandableConfigProps =
+  | {
+      /**判定行是否可以展开的条件*/
+      rowExpandable: (record: Record<string, any>) => boolean;
+      columnCount: number;
+      mode: 'all' | 'part';
+    }
+  | undefined;
+
 /** ProTable 的类型定义 继承自 antd 的 Table */
 export type ProTableProps<T, U, ValueType = 'text'> = {
   /**
@@ -394,6 +403,12 @@ export type ProTableProps<T, U, ValueType = 'text'> = {
 
   /** @name 是否手动触发请求 */
   manualRequest?: boolean;
+  /**
+   * @name 行展开的配置
+   *
+   */
+  defaultRowExpandableConfig?: defaultRowExpandableConfigProps;
+  rowPreviewMode?: 'row' | 'drawer' | undefined;
   /**
    * @name 编辑行相关的配置
    *

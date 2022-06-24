@@ -1,4 +1,5 @@
 /* eslint max-classes-per-file: ["error", 3] */
+import { MinusCircleTwoTone, PlusCircleTwoTone } from '@ant-design/icons';
 import ProCard from '@bicitech-design/pro-card';
 import ProForm from '@bicitech-design/pro-form';
 import type { ParamsType } from '@bicitech-design/pro-provider';
@@ -14,7 +15,7 @@ import {
   useMountMergeState,
 } from '@bicitech-design/pro-utils';
 import type { TablePaginationConfig } from 'antd';
-import { Button, ConfigProvider, Spin, Table, Tag } from 'antd';
+import { Button, ConfigProvider, Drawer, Spin, Table, Tag } from 'antd';
 import type {
   GetRowKey,
   SorterResult,
@@ -29,6 +30,7 @@ import React, {
   useImperativeHandle,
   useMemo,
   useRef,
+  useState,
 } from 'react';
 import { stringify } from 'use-json-comparison';
 import type { ActionType } from '.';
@@ -36,6 +38,7 @@ import Alert from './components/Alert';
 import FormRender from './components/Form';
 import Toolbar from './components/ToolBar';
 import Container from './container';
+import ExpandedRowRender from './ExpandedRowRender';
 import useAntdFilterHeader from './hooks/useAntdCustomFilterHeader';
 import useARH from './hooks/useAntdResizableHeader';
 import './index.less';
@@ -72,6 +75,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
     onFilterChange: (sort: any) => void;
     editableUtils: any;
     getRowKey: GetRowKey<any>;
+    defaultRowExpandableConfig: any;
   },
 ) {
   const {
@@ -100,6 +104,9 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
     cardBordered,
     editableUtils,
     getRowKey,
+    defaultRowExpandableConfig,
+    expandable,
+    rowPreviewMode,
     ...rest
   } = props;
   const counter = Container.useContainer();
@@ -177,8 +184,79 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
 
     return [...action.dataSource, row];
   };
+  /**
+   * 飓风：默认的行操作
+   * @param event
+   */
+  const [visible, setVisible] = useState(false);
+  const [rowRecord, setRowRecord] = useState();
+
+  const onRow = (record: any) => {
+    return {
+      onDoubleClick: (event: any) => {
+        setRowRecord(record);
+        setVisible(true);
+      },
+      ...rest.onRow,
+    };
+  };
+  /************处理行数据drawer开始************/
+
+  // const dataSource = editableUtils.newLineRecord
+  //   ? editableDataSource(action.dataSource)
+  //   : action.dataSource;
+  //
+  // console.log(dataSource);
+  //
+  const onClose = () => {
+    setVisible(false);
+  };
+
+  const detailDrawerDom = () => {
+    return (
+      <>
+        <Drawer title="数据详情" placement="right" width={500} onClose={onClose} visible={visible}>
+          <ExpandedRowRender
+            record={rowRecord}
+            tableColumns={tableColumns}
+            rowExpandableConfig={{
+              columnCount: 1,
+              rowExpandable: (record) => true,
+              mode: 'all',
+            }}
+          />
+        </Drawer>
+      </>
+    );
+  };
+  /************处理行数据drawer结束************/
+  /**
+   * 获得antd table的属性
+   */
   const getTableProps = () => ({
     ...rest,
+    onRow,
+    expandable:
+      !expandable && rowPreviewMode === 'row'
+        ? defaultRowExpandableConfig
+          ? {
+              expandedRowRender: (record: any) => (
+                <ExpandedRowRender
+                  record={record}
+                  tableColumns={tableColumns}
+                  rowExpandableConfig={defaultRowExpandableConfig}
+                />
+              ),
+              rowExpandable: (record: any) => defaultRowExpandableConfig.rowExpandable(record),
+              expandIcon: ({ expanded, onExpand, record }: any) =>
+                expanded ? (
+                  <MinusCircleTwoTone onClick={(e) => onExpand(record, e)} />
+                ) : (
+                  <PlusCircleTwoTone onClick={(e) => onExpand(record, e)} />
+                ),
+            }
+          : undefined
+        : expandable,
     size,
     rowSelection: rowSelection === false ? undefined : rowSelection,
     className: tableClassName,
@@ -247,6 +325,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
     if (props.editable && !props.name) {
       return (
         <>
+          {rowPreviewMode === 'drawer' && detailDrawerDom()}
           {toolbarDom}
           {alertDom}
           {filterDom}
@@ -285,6 +364,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
 
     return (
       <>
+        {rowPreviewMode === 'drawer' && detailDrawerDom()}
         {toolbarDom}
         {alertDom}
         {filterDom}
@@ -406,6 +486,8 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
     manualRequest,
     polling,
     tooltip,
+    defaultRowExpandableConfig,
+    rowPreviewMode,
     ...rest
   } = props;
 
@@ -961,6 +1043,8 @@ const ProTable = <T extends Record<string, any>, U extends ParamsType, ValueType
       onFilterChange={setProFilter}
       editableUtils={editableUtils}
       getRowKey={getRowKey}
+      defaultRowExpandableConfig={defaultRowExpandableConfig}
+      rowPreviewMode={rowPreviewMode}
     />
   );
 };

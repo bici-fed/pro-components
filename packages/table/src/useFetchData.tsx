@@ -141,9 +141,15 @@ const useFetchData = <T extends RequestData<any>>(
       return responseData;
     } catch (e) {
       // 如果没有传递这个方法的话，需要把错误抛出去，以免吞掉错误
-      if (onRequestError === undefined) throw new Error(e as string);
-      if (list === undefined) setList([]);
-      onRequestError(e as Error);
+      // if (onRequestError === undefined) throw new Error(e as string);
+      // 暂时吞掉错误
+      if (onRequestError === undefined) {
+        console.error(e as string);
+      }
+      if (onRequestError) {
+        if (list === undefined) setList([]);
+        onRequestError(e as Error);
+      }
     } finally {
       requesting.current = false;
       requestFinally();
