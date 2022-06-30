@@ -214,6 +214,6 @@ export default {
   },
   ssr: isDeploy ? {} : undefined,
   webpack5: {},
-  exportStatic: {},
+  // exportStatic: {},// 做静态化，即让每个都生成index。html
   mfsu: !isDeploy ? {} : undefined,
 };
