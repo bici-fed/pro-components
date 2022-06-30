@@ -28,6 +28,8 @@ ProTable 的诞生是为了解决项目中需要写很多 table 的样板代码�
 
 ### 查询表格
 
+#### 展开行显示详情
+
 <code src="./demos/single.tsx" background="#f5f5f5" height="500px" title="查询表格" />
 <code src="./demos/single-test.tsx" debug background="#f5f5f5" height="500px" title="查询表格" />
 
@@ -64,6 +66,8 @@ ProTable 的诞生是为了解决项目中需要写很多 table 的样板代码�
 <code src="./demos/split.tsx" background="#f5f5f5" height="500px" title="左右结构" />
 
 ### 表格批量操作
+
+#### 附带双击行，抽屉方式显示行详情
 
 <code src="./demos/batchOption.tsx" background="#f5f5f5" height="420px" title="表格批量操作" />
 
@@ -310,7 +314,7 @@ ProTable 在 antd 的 Table 上进行了一层封装，支持了一些预设，�
 | 属性 | 描述 | 类型 | 默认值 |
 | --- | --- | --- | --- | --- | --- |
 | defaultRowExpandableConfig | 默认行展开的组件配置,不管取什么值，都可以使用自带的 expandable 属性覆盖 | defaultRowExpandableConfigProps | undefined |
-| rowPreviewMode | 显示行所有字段的模式， | 取值 row:展开行,drawer：双击行抽屉否则显示 | undefined |
+| rowPreviewMode | 显示行所有字段的模式， | 取值 row:展开行,drawer：双击行抽屉展示，否则不显示 | undefined |
 | request | 获取 `dataSource` 的方法 | `(params?: {pageSize,current},sort,filter) => {data,success,total}` | - |
 | params | 用于 `request` 查询的额外参数，一旦变化会触发重新加载 | `object` | - |
 | postData | 对通过 `request` 获取的数据进行处理 | `(data: T[]) => T[]` | - |
