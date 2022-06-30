@@ -1,6 +1,6 @@
 {
   "name": "@bicitech-design/pro-table",
-  "version": "2.76.4",
+  "version": "2.76.5",
   "description": "🏆 Use Ant Design Table like a Pro!",
   "keywords": [
     "antd",
@@ -35,11 +35,11 @@
   "dependencies": {
     "@ant-design/icons": "^4.1.0",
     "@babel/runtime": "^7.18.0",
-    "@bicitech-design/pro-card": "1.20.10",
-    "@bicitech-design/pro-field": "1.34.17",
-    "@bicitech-design/pro-form": "1.69.4",
-    "@bicitech-design/pro-provider": "1.8.0",
-    "@bicitech-design/pro-utils": "1.42.2",
+    "@bicitech-design/pro-card": "^1.20.11",
+    "@bicitech-design/pro-field": "^1.34.18",
+    "@bicitech-design/pro-form": "^1.69.5",
+    "@bicitech-design/pro-provider": "^1.8.1",
+    "@bicitech-design/pro-utils": "^1.42.3",
     "classnames": "^2.2.6",
     "moment": "^2.24.0",
     "omit.js": "^2.0.2",
