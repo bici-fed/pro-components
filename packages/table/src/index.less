@@ -9,15 +9,16 @@
 
 tr.@{ant-table-expanded-prefix} > td,
 tr.@{ant-table-expanded-prefix}:hover > td {
-  background: #fff;
-  box-shadow: 0 0px 5px 2px #eee;
+  background: rgba(0, 0, 0, 0.02);
+  //box-shadow: 0 0px 5px 2px #eee;
 }
 
 .@{ant-descriptions-item-label} {
   justify-content: right;
   min-width: 100px;
   margin-right: 10px;
-  font-weight: 800;
+  color: rgba(0, 0, 0, 0.45);
+  font-weight: 400;
 }
 
 .pro-table-tooltip-text span {
@@ -35,6 +36,11 @@ tr.@{ant-table-expanded-prefix}:hover > td {
 
   &-extra {
     margin-bottom: 16px;
+  }
+
+  &-exponded-icon {
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 16px;
   }
 
   &-polling {

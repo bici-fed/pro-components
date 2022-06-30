@@ -391,7 +391,6 @@ function EditableTable<
   ) {
     editableProps.onValuesChange = newOnValueChange;
   }
-
   return (
     <>
       <EditableTableActionContext.Provider value={actionRef}>

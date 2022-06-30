@@ -1,5 +1,4 @@
 /* eslint max-classes-per-file: ["error", 3] */
-import { MinusCircleTwoTone, PlusCircleTwoTone } from '@ant-design/icons';
 import ProCard from '@bicitech-design/pro-card';
 import ProForm from '@bicitech-design/pro-form';
 import type { ParamsType } from '@bicitech-design/pro-provider';
@@ -194,6 +193,7 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
   const onRow = (record: any) => {
     return {
       onDoubleClick: (event: any) => {
+        event?.stopPropagation();
         setRowRecord(record);
         setVisible(true);
       },
@@ -225,7 +225,47 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
       </>
     );
   };
+
   /************处理行数据drawer结束************/
+  /** 需要遍历一下，不然不支持嵌套表格,过滤出取消展示的列 */
+  const columns2 = useMemo(() => {
+    const loopFilter = (column: any[]): any[] => {
+      return column
+        .map((item) => {
+          // 删掉不应该显示的
+          const columnKey = genColumnKey(item.key, item.index);
+          const config = counter.columnsMap[columnKey];
+          if (config && config.show === false) {
+            if (item.children) {
+              return {
+                ...item,
+                children: loopFilter(item.children),
+              };
+            }
+            return item;
+          }
+          return false;
+        })
+        .filter(Boolean);
+    };
+    return loopFilter(tableColumns);
+  }, [counter.columnsMap, tableColumns]);
+
+  /**
+   * 判断行是否可以展开
+   * 情况1： rowExpandable(record)为true并且mode==='all'情况2，如过mode==='part'，还需要过滤的列大于等于1，不然展开是空的
+   * @param record
+   */
+  const isRowExpandable = (record: any) => {
+    return (
+      (defaultRowExpandableConfig.rowExpandable(record) &&
+        defaultRowExpandableConfig.mode === 'all') ||
+      (defaultRowExpandableConfig.rowExpandable(record) &&
+        defaultRowExpandableConfig.mode === 'part' &&
+        columns2.length > 0)
+    );
+  };
+
   /**
    * 获得antd table的属性
    */
@@ -243,13 +283,24 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
                   rowExpandableConfig={defaultRowExpandableConfig}
                 />
               ),
-              rowExpandable: (record: any) => defaultRowExpandableConfig.rowExpandable(record),
-              expandIcon: ({ expanded, onExpand, record }: any) =>
-                expanded ? (
-                  <MinusCircleTwoTone onClick={(e) => onExpand(record, e)} />
-                ) : (
-                  <PlusCircleTwoTone onClick={(e) => onExpand(record, e)} />
-                ),
+              rowExpandable: (record: any) => isRowExpandable(record),
+              // antd自带的满足需求
+              // expandIcon: ({ expanded, onExpand, record }: any) =>
+              //   (isRowExpandable(record))?(expanded ? (
+              //     <>
+              //       <span
+              //         className="ant-table-row-indent indent-level-0"
+              //       />
+              //       <button
+              //         aria-label="关闭行"
+              //         className="ant-table-row-expand-icon ant-table-row-expand-icon-expanded"
+              //         type="button"
+              //       />
+              //       </>
+              //     // <MinusSquareOutlined className={`${className}-exponded-icon`} onClick={(e) => onExpand(record, e)} />
+              //   ) : (
+              //     <PlusSquareOutlined className={`${className}-exponded-icon`} onClick={(e) => onExpand(record, e)} />
+              //   )):null,
             }
           : undefined
         : expandable,

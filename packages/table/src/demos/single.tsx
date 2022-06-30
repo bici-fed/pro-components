@@ -169,8 +169,11 @@ export default () => {
       }}
       defaultRowExpandableConfig={{
         columnCount: 2,
-        rowExpandable: (record) => true,
-        mode: 'all',
+        rowExpandable: (record) => {
+          console.log(record);
+          return true;
+        },
+        mode: 'part',
       }}
       rowPreviewMode="row"
       rowKey="id"

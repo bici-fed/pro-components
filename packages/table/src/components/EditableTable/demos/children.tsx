@@ -51,6 +51,16 @@ const defaultData: DataSourceType[] = [
     state: 'closed',
     created_at: '2020-05-26T08:19:22Z',
     update_at: '2020-05-26T08:19:22Z',
+    children: [
+      {
+        id: 6246912299,
+        title: '活动名称10',
+        decs: '这个活动真好玩',
+        state: 'closed',
+        created_at: '2020-05-26T08:19:22Z',
+        update_at: '2020-05-26T08:19:22Z',
+      },
+    ],
   },
 ];
 
@@ -83,7 +93,7 @@ export default () => {
   });
   const columns: ProColumns<DataSourceType>[] = [
     {
-      title: '活动名称',
+      title: '活动名称2',
       dataIndex: 'title',
       formItemProps: (form, { rowIndex }) => {
         return {
