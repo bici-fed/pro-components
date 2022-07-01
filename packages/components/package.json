@@ -1,6 +1,6 @@
 {
   "name": "@bicitech-design/pro-components",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "description": "@bicitech-design/pro-components",
   "keywords": [
     "antd",
@@ -34,16 +34,16 @@
   ],
   "dependencies": {
     "@babel/runtime": "^7.16.3",
-    "@bicitech-design/pro-card": "^1.20.11",
-    "@bicitech-design/pro-descriptions": "^1.11.7",
-    "@bicitech-design/pro-field": "^1.34.18",
-    "@bicitech-design/pro-form": "^1.69.5",
-    "@bicitech-design/pro-layout": "^6.38.10",
-    "@bicitech-design/pro-list": "^1.21.70",
-    "@bicitech-design/pro-provider": "^1.8.1",
-    "@bicitech-design/pro-skeleton": "^1.0.10",
-    "@bicitech-design/pro-table": "^2.76.5",
-    "@bicitech-design/pro-utils": "^1.42.3",
+    "@bicitech-design/pro-card": "^1.20.12",
+    "@bicitech-design/pro-descriptions": "^1.11.8",
+    "@bicitech-design/pro-field": "^1.34.19",
+    "@bicitech-design/pro-form": "^1.69.6",
+    "@bicitech-design/pro-layout": "^6.38.11",
+    "@bicitech-design/pro-list": "^1.21.71",
+    "@bicitech-design/pro-provider": "^1.8.2",
+    "@bicitech-design/pro-skeleton": "^1.0.11",
+    "@bicitech-design/pro-table": "^2.76.6",
+    "@bicitech-design/pro-utils": "^1.42.4",
     "antd": ">=4.0"
   },
   "peerDependencies": {

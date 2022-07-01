@@ -1,6 +1,6 @@
 {
   "name": "@bicitech-design/pro-utils",
-  "version": "1.42.3",
+  "version": "1.42.4",
   "description": "@bicitech-design/pro-utils",
   "keywords": [
     "antd",
@@ -35,7 +35,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "@babel/runtime": "^7.18.0",
-    "@bicitech-design/pro-provider": "^1.8.1",
+    "@bicitech-design/pro-provider": "^1.8.2",
     "classnames": "^2.2.6",
     "moment": "^2.27.0",
     "rc-util": "^5.0.6",
