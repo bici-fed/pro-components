@@ -1,6 +1,6 @@
 {
   "name": "@bicitech-design/pro-form",
-  "version": "1.69.6",
+  "version": "1.69.7",
   "description": "@bicitech-design/pro-form",
   "keywords": [
     "antd",
@@ -35,9 +35,9 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "@babel/runtime": "^7.18.0",
-    "@bicitech-design/pro-field": "^1.34.19",
-    "@bicitech-design/pro-provider": "^1.8.2",
-    "@bicitech-design/pro-utils": "^1.42.4",
+    "@bicitech-design/pro-field": "^1.34.20",
+    "@bicitech-design/pro-provider": "^1.8.3",
+    "@bicitech-design/pro-utils": "^1.42.5",
     "@umijs/use-params": "^1.0.9",
     "classnames": "^2.2.6",
     "lodash": "^4.17.21",

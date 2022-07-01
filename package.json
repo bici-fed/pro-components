@@ -149,8 +149,5 @@
     "write-pkg": "^4.0.0",
     "xhr-mock": "^2.5.1",
     "yorkie": "^2.0.0"
-  },
-  "gitHooks": {
-    "commit-msg": "fabric verify-commit --no-verify"
   }
 }

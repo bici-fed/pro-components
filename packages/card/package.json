@@ -1,6 +1,6 @@
 {
   "name": "@bicitech-design/pro-card",
-  "version": "1.20.12",
+  "version": "1.20.13",
   "description": "@bicitech-design/pro-card",
   "keywords": [
     "antd",
@@ -35,7 +35,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.2.1",
     "@babel/runtime": "^7.18.0",
-    "@bicitech-design/pro-utils": "^1.42.4",
+    "@bicitech-design/pro-utils": "^1.42.5",
     "classnames": "^2.2.6",
     "omit.js": "^2.0.2",
     "rc-util": "^5.4.0"
