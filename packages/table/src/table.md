@@ -127,16 +127,16 @@ renderFormItem: (_, { type, defaultRender, formItemProps, fieldProps, ...rest },
 `renderFormItem` 的定义, 具体的值可以打开控制台查看。
 
 ```tsx | pure
- renderFormItem?: (
-    item: ProColumns<T>,
-    config: {
-      value?: any;
-      onSelect?: (value: any) => void;
-      type: ProTableTypes;
-      defaultRender: (newItem: ProColumns<any>) => JSX.Element | null;
-    },
-    form: FormInstance,
-  ) => JSX.Element | false | null;
+// renderFormItem?: (
+//    item: ProColumns<T>,
+//    config: {
+//      value?: any;
+//      onSelect?: (value: any) => void;
+//      type: ProTableTypes;
+//      defaultRender: (newItem: ProColumns<any>) => JSX.Element | null;
+//    },
+//    form: FormInstance,
+//  ) => JSX.Element | false | null;
 ```
 
 <code src="./demos/linkage_form.tsx" background="#f5f5f5" height="310px" title="搜索表单自定义" />
@@ -504,7 +504,7 @@ ProTable 封装了一些常用的值类型来减少重复的 `render` 操作，�
 ProTable 会根据列来生成一个 Form，用于筛选列表数据，最后的值会根据通过 `request` 的第一个参数返回，看起来就像。
 
 ```jsx | pure
-<ProTable request={(params,sort,filter)=>{ all params}}>
+<ProTable request={(params,sort,filter)=>{ all, params}}>
 ```
 
 按照规范，table 的表单不需要任何的必选参数，所有点击搜索和重置都会触发 `request`来发起一次查询。
