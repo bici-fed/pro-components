@@ -151,7 +151,6 @@
     "yorkie": "^2.0.0"
   },
   "gitHooks": {
-    "pre-commit": "pretty-quick --staged",
     "commit-msg": "fabric verify-commit --no-verify"
   }
 }
