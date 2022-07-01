@@ -312,7 +312,7 @@ ProTable 在 antd 的 Table 上进行了一层封装，支持了一些预设，�
 ### ProTable
 
 | 属性 | 描述 | 类型 | 默认值 |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | defaultRowExpandableConfig | 默认行展开的组件配置,不管取什么值，都可以使用自带的 expandable 属性覆盖 | defaultRowExpandableConfigProps | undefined |
 | rowPreviewMode | 显示行所有字段的模式， | 取值 row:展开行,drawer：双击行抽屉展示，否则不显示 | undefined |
 | request | 获取 `dataSource` 的方法 | `(params?: {pageSize,current},sort,filter) => {data,success,total}` | - |
