@@ -4,7 +4,7 @@ import type { ModalProps } from 'antd';
 import Draggable from 'react-draggable';
 import _ from 'lodash';
 import { WuiModalProps } from './typing';
-import {s8} from '../../helpers';
+import {s8} from '../utils/uuid';
 
 
 export type { WuiModalProps };
@@ -71,8 +71,6 @@ class Modal extends React.Component<WuiModalProps<ModalProps>> {
     return (
       <>
         <ANTModal
-          bodyStyle={{maxHeight:`calc(100vh - 128px)`,overflowY:'auto'}}
-          style={{top: 20,bottom:0}}
           title={
             <div
               ref={this.titleRef}
