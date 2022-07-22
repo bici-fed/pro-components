@@ -191,13 +191,18 @@ function TableRender<T extends Record<string, any>, U, ValueType>(
   const [rowRecord, setRowRecord] = useState();
 
   const onRow = (record: any) => {
+    // 获得用户配置的属性
+    let otherOnRow = {};
+    if(typeof rest.onRow==='function'){
+      otherOnRow = (rest as any).onRow(record);
+    }
     return {
       onDoubleClick: (event: any) => {
         event?.stopPropagation();
         setRowRecord(record);
         setVisible(true);
       },
-      ...rest.onRow,
+      ...otherOnRow
     };
   };
   /************处理行数据drawer开始************/

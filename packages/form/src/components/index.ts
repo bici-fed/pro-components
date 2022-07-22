@@ -37,3 +37,4 @@ export { default as ProFormTimePicker } from './TimePicker';
 export { default as ProFormTreeSelect } from './TreeSelect';
 export { default as ProFormUploadButton } from './UploadButton';
 export { default as ProFormUploadDragger } from './UploadDragger';
+export { default as Modal } from './Modal';

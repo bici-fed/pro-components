@@ -1,5 +1,5 @@
 ﻿import type { FormProps, ModalProps } from 'antd';
-import { ConfigProvider, Modal } from 'antd';
+import { ConfigProvider } from 'antd';
 import merge from 'lodash/merge';
 import useMergedState from 'rc-util/lib/hooks/useMergedState';
 import { noteOnce } from 'rc-util/lib/warning';
@@ -7,6 +7,8 @@ import React, { useCallback, useContext, useEffect, useMemo, useRef, useState } 
 import { createPortal } from 'react-dom';
 import type { CommonFormProps, ProFormInstance } from '../../BaseForm';
 import { BaseForm } from '../../BaseForm';
+import {Modal} from '../../components';
+
 
 export type ModalFormProps<T = Record<string, any>> = Omit<FormProps<T>, 'onFinish' | 'title'> &
   CommonFormProps<T> & {
@@ -178,6 +180,7 @@ function ModalForm<T = Record<string, any>>({
   return (
     <>
       <Modal
+        draggable={true}
         title={title}
         width={width || 800}
         {...modalProps}
@@ -217,6 +220,7 @@ function ModalForm<T = Record<string, any>>({
           }}
           contentRender={contentRender}
         >
+          {children}
           {children}
         </BaseForm>
       </Modal>
