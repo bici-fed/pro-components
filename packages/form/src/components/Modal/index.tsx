@@ -4,7 +4,7 @@ import type { ModalProps } from 'antd';
 import Draggable from 'react-draggable';
 import _ from 'lodash';
 import { WuiModalProps } from './typing';
-import {s8} from '../utils/uuid';
+import {s8} from '../../helpers';
 
 
 export type { WuiModalProps };

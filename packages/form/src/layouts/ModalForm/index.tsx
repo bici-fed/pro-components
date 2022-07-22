@@ -221,7 +221,6 @@ function ModalForm<T = Record<string, any>>({
           contentRender={contentRender}
         >
           {children}
-          {children}
         </BaseForm>
       </Modal>
       {triggerDom}
